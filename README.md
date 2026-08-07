@@ -318,6 +318,8 @@ Each EPG source in Dispatcharr gets its own section. Per-source settings:
 | **Sub-Title Rules** | Rules applied to episode sub-titles |
 | **Description Rules** | Rules applied to program descriptions |
 | **Force Category (Series Mode)** | Adds an XMLTV `<category>` tag to every program on this source's virtual copy. Setting this to `Series` tells Plex to treat repeating programs that share a title as episodes of a show instead of duplicate movies, so DVR can record more than one. Comma-separated for multiple categories. Leave blank to disable. |
+| **Series Repair Titles** | Optional title allow-list for Force Category and synthesized episode numbers. Enter one exact program title per line; matching is case-insensitive after trimming whitespace. Leave blank to preserve legacy source-wide behavior. |
+| **Only Repair When Structured Episode Metadata Is Missing** | When Series Repair Titles is configured, skip programs that already have structured XMLTV season and episode metadata. Onscreen-only episode numbers are preserved and do not block repair. Defaults on. |
 | **Synthesize Episode Numbers From Air Date** | Adds a unique `<episode-num system="xmltv_ns">` tag per program, derived from its air date (year + day-of-year), so Plex sees each airing as a distinct episode instead of collapsing same-titled programs into one recordable movie. Pair with Force Category above. |
 | **Auto-Reassign Channels on Setup** | Toggle channel reassignment on/off for this source |
 | **Include Channel Groups** | Comma-separated group names — only these groups are reassigned |

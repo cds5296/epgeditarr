@@ -512,6 +512,29 @@ class Plugin:
                         ),
                     },
                     {
+                        "id": f"src_{sid}_series_repair_titles",
+                        "label": "Series Repair Titles",
+                        "type": "text",
+                        "default": "",
+                        "placeholder": "One program title per line",
+                        "help_text": (
+                            "Optional title allow-list for Force Category and synthesized episode "
+                            "numbers. Matching is exact after trimming whitespace and is "
+                            "case-insensitive. Leave blank to preserve legacy source-wide behavior."
+                        ),
+                    },
+                    {
+                        "id": f"src_{sid}_repair_missing_metadata_only",
+                        "label": "Only Repair When Structured Episode Metadata Is Missing",
+                        "type": "boolean",
+                        "default": True,
+                        "help_text": (
+                            "When Series Repair Titles is configured, skip programs that already "
+                            "have structured XMLTV season and episode metadata. Onscreen-only "
+                            "episode numbers are preserved and do not block repair."
+                        ),
+                    },
+                    {
                         "id": f"src_{sid}_synth_episode_num",
                         "label": "Synthesize Episode Numbers From Air Date",
                         "type": "boolean",
@@ -750,9 +773,90 @@ class Plugin:
         force_category = (settings.get(f"src_{source_id}_force_category", "") or "").strip()
         if force_category:
             lines.append(f"    Force Category: {force_category}")
-        if settings.get(f"src_{source_id}_synth_episode_num", False):
+        synth_episode_num = bool(settings.get(f"src_{source_id}_synth_episode_num", False))
+        if synth_episode_num:
             lines.append("    Synthesized Episode Numbers: on")
+        repair_titles = self._parse_series_repair_titles(settings.get(f"src_{source_id}_series_repair_titles", ""))
+        if force_category or synth_episode_num or repair_titles:
+            display_titles = self._series_repair_title_display(settings.get(f"src_{source_id}_series_repair_titles", ""))
+            title_scope = ", ".join(display_titles) if display_titles else "(blank - source-wide legacy mode)"
+            lines.append(f"    Series Repair Titles: {title_scope}")
+            missing_only = self._series_repair_missing_only(source_id, settings)
+            lines.append(f"    Only Repair Missing Structured Metadata: {'on' if missing_only else 'off'}")
         return "\n".join(lines) if lines else "    (no rules configured)"
+
+    def _parse_series_repair_titles(self, value):
+        """Return normalized exact-match titles for scoped Plex series repair."""
+        titles = set()
+        for line in (value or "").splitlines():
+            title = line.strip()
+            if title:
+                titles.add(title.casefold())
+        return titles
+
+    def _series_repair_title_display(self, value):
+        """Return trimmed configured titles for status output, de-duped by match key."""
+        titles = []
+        seen = set()
+        for line in (value or "").splitlines():
+            title = line.strip()
+            key = title.casefold()
+            if title and key not in seen:
+                titles.append(title)
+                seen.add(key)
+        return titles
+
+    def _series_repair_missing_only(self, source_id, settings):
+        return bool(settings.get(f"src_{source_id}_repair_missing_metadata_only", True))
+
+    def _has_structured_episode_metadata(self, custom_properties):
+        """Detect Dispatcharr's structured XMLTV season/episode representation.
+
+        Dispatcharr exposes XMLTV ``system="xmltv_ns"`` episode data to plugins as
+        top-level ``season`` and ``episode`` values in ProgramData.custom_properties.
+        Onscreen episode numbers are separate custom metadata and are intentionally
+        not treated as structured season/episode data here.
+        """
+        props = custom_properties or {}
+        return self._is_valid_episode_number(props.get("season")) and self._is_valid_episode_number(props.get("episode"))
+
+    def _is_valid_episode_number(self, value):
+        if value is None:
+            return False
+        if isinstance(value, bool):
+            return False
+        try:
+            return int(value) >= 0
+        except (TypeError, ValueError):
+            return False
+
+    def _program_qualifies_for_series_repair(self, program, repair_titles, missing_metadata_only):
+        """Return True when Force Category/synthesis should apply to this program."""
+        if not repair_titles:
+            return True
+
+        title = (getattr(program, "title", "") or "").strip().casefold()
+        if title not in repair_titles:
+            return False
+
+        if missing_metadata_only and self._has_structured_episode_metadata(getattr(program, "custom_properties", None)):
+            return False
+
+        return True
+
+    def _build_series_repair_custom_properties(self, program, series_categories, synth_episode_num, do_series_repair):
+        """Copy custom properties and add only the configured series-repair fields."""
+        custom_props = dict(getattr(program, "custom_properties", None) or {})
+        if not do_series_repair:
+            return custom_props
+
+        if series_categories:
+            existing_cats = custom_props.get("categories") or []
+            custom_props["categories"] = list(dict.fromkeys([*existing_cats, *series_categories]))
+        if synth_episode_num:
+            custom_props["season"] = program.start_time.year
+            custom_props["episode"] = program.start_time.timetuple().tm_yday
+        return custom_props
 
     # ── EPG helpers ───────────────────────────────────────────────────────
 
@@ -1216,6 +1320,8 @@ class Plugin:
             c.strip() for c in (settings.get(f"src_{source.id}_force_category", "") or "").split(",") if c.strip()
         ]
         synth_episode_num = bool(settings.get(f"src_{source.id}_synth_episode_num", False))
+        repair_titles = self._parse_series_repair_titles(settings.get(f"src_{source.id}_series_repair_titles", ""))
+        missing_metadata_only = self._series_repair_missing_only(source.id, settings)
 
         # Channels may be on the original source (pre-setup) or virtual (post-setup).
         # Checking both ensures we always find the right set regardless of state.
@@ -1241,13 +1347,13 @@ class Plugin:
                 if not ve:
                     continue
                 for prog in ProgramData.objects.filter(epg=se).iterator(chunk_size=500):
-                    custom_props = dict(prog.custom_properties or {})
-                    if series_categories:
-                        existing_cats = custom_props.get("categories") or []
-                        custom_props["categories"] = list(dict.fromkeys([*existing_cats, *series_categories]))
-                    if synth_episode_num:
-                        custom_props["season"] = prog.start_time.year
-                        custom_props["episode"] = prog.start_time.timetuple().tm_yday
+                    do_series_repair = (
+                        (series_categories or synth_episode_num) and
+                        self._program_qualifies_for_series_repair(prog, repair_titles, missing_metadata_only)
+                    )
+                    custom_props = self._build_series_repair_custom_properties(
+                        prog, series_categories, synth_episode_num, do_series_repair
+                    )
                     batch.append(ProgramData(
                         epg=ve,
                         start_time=prog.start_time,
@@ -1453,12 +1559,21 @@ class Plugin:
         all_lines = []
         for source in enabled:
             field_rules = self._get_source_field_rules(source.id, settings)
-            if not any(field_rules.values()):
+            series_categories = [
+                c.strip() for c in (settings.get(f"src_{source.id}_force_category", "") or "").split(",") if c.strip()
+            ]
+            synth_episode_num = bool(settings.get(f"src_{source.id}_synth_episode_num", False))
+            repair_titles = self._parse_series_repair_titles(settings.get(f"src_{source.id}_series_repair_titles", ""))
+            missing_metadata_only = self._series_repair_missing_only(source.id, settings)
+            series_repair_configured = bool(series_categories or synth_episode_num)
+            if not any(field_rules.values()) and not series_repair_configured:
                 all_lines.append(f"── {source.name}: no rules configured — skipping ──\n")
                 continue
 
             counts = {"title": 0, "sub_title": 0, "description": 0}
+            series_repair_count = 0
             examples = []
+            series_examples = []
             scanned = 0
 
             for prog in ProgramData.objects.filter(
@@ -1478,15 +1593,45 @@ class Plugin:
                                 f"    BEFORE: {original[:100]}\n"
                                 f"     AFTER: {transformed[:100]}"
                             )
+                if series_repair_configured and self._program_qualifies_for_series_repair(
+                    prog, repair_titles, missing_metadata_only
+                ):
+                    series_repair_count += 1
+                    if len(series_examples) < 10:
+                        props = prog.custom_properties or {}
+                        has_structured = self._has_structured_episode_metadata(props)
+                        detail = []
+                        if series_categories:
+                            detail.append("categories " + ", ".join(series_categories))
+                        if synth_episode_num:
+                            detail.append(
+                                f"season={prog.start_time.year}, episode={prog.start_time.timetuple().tm_yday}"
+                            )
+                        series_examples.append(
+                            f"  [series repair] {prog.epg.name}\n"
+                            f"    TITLE: {prog.title[:100]}\n"
+                            f"    APPLY: {'; '.join(detail)}\n"
+                            f"    structured metadata before: {'yes' if has_structured else 'no'}"
+                        )
 
             all_lines.append(f"── {source.name} ({scanned} programs scanned) ──")
             for field_name, count in counts.items():
                 if field_rules[field_name]:
                     all_lines.append(f"  {field_name}: {count} program(s) would change")
+            if series_repair_configured:
+                scope = "source-wide"
+                if repair_titles:
+                    scope = f"{len(repair_titles)} configured title(s)"
+                    if missing_metadata_only:
+                        scope += ", missing structured metadata only"
+                all_lines.append(f"  series repair: {series_repair_count} program(s) would receive repair ({scope})")
             if examples:
                 all_lines.append("")
                 all_lines.extend(examples)
-            elif any(field_rules.values()):
+            if series_examples:
+                all_lines.append("")
+                all_lines.extend(series_examples)
+            if not examples and not series_examples and (any(field_rules.values()) or series_repair_configured):
                 all_lines.append("  No programs would be changed by current rules.")
             all_lines.append("")
 
