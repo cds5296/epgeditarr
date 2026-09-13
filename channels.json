@@ -1,4 +1,37 @@
 {
+  "classic punk": {
+    "name": "Classic Punk",
+    "description": "Early punk anarchy",
+    "genre": "All Xtra",
+    "sxm_number": 1318,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/classicpunk.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4329",
+    "lookaround_channel_id": null
+  },
+  "country coffee house": {
+    "name": "Country Coffee House",
+    "description": "Country unplugged",
+    "genre": "Relax",
+    "sxm_number": 1319,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4330",
+    "lookaround_channel_id": null
+  },
+  "road trip 2k": {
+    "name": "Road Trip 2K",
+    "description": "Aux cord anthems",
+    "genre": "The 2000s Decade",
+    "sxm_number": 1320,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4331",
+    "lookaround_channel_id": null
+  },
   "country pride": {
     "name": "Country Pride",
     "description": "LGBTQIA+ voices in country",
@@ -43,1047 +76,13 @@
     "sxm_entity_id": "4335",
     "lookaround_channel_id": null
   },
-  "revive & rhyme": {
-    "name": "Revive & Rhyme",
-    "description": "Christian hip-hop & rap",
-    "genre": "Christian",
-    "sxm_number": 1315,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/reviverhyme.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4326",
-    "lookaround_channel_id": null
-  },
-  "vintage praise": {
-    "name": "Vintage Praise",
-    "description": "Nostalgic gospel music",
-    "genre": "Christian",
-    "sxm_number": 1316,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/vintagepraise.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4327",
-    "lookaround_channel_id": null
-  },
-  "the message": {
-    "name": "The Message",
-    "description": "Uplifting worship music that sings to God. It's the music you hear and sing in your Sunday service.",
-    "genre": "Christian",
-    "sxm_number": 79,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/themessage.png",
-    "sxm_logo_src": "if/5c/5c64da6d1dc53d689652611d63d1b8ec_1765946657.png",
-    "sxm_entity_id": "9675",
-    "lookaround_channel_id": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c"
-  },
-  "sports 393": {
-    "name": "Sports 393",
-    "description": "Live play-by-play of sports",
-    "genre": "Sports Play-by-Play",
-    "sxm_number": null,
+  "the billy joel channel": {
+    "name": "The Billy Joel Channel",
+    "description": "Billy Joel has written and performed songs that have touched a generation. Now, SiriusXM presents a limited-run channel dedicated to his music and his stories behind the songs. In addition, Billy will offer exclusive commentary on his writing process and the music that influenced it, along with track-by-track specials on three of his albums: Turnstiles, 52nd Street and Glass Houses.",
+    "genre": "Pop",
+    "sxm_number": 93,
     "seasonal": null,
     "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9678",
-    "lookaround_channel_id": null
-  },
-  "sports 394": {
-    "name": "Sports 394",
-    "description": "Live play-by-play of sports",
-    "genre": "Sports Play-by-Play",
-    "sxm_number": null,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9679",
-    "lookaround_channel_id": null
-  },
-  "comedy in full": {
-    "name": "Comedy in Full",
-    "description": "Comedy in Full delivers a seamless, full-album comedy experience, thoughtfully curated for nonstop laughs and effortless listening. It's the go-to destination for uninterrupted comedy with a refined touch, bringing you complete comedy albums, played as intended, all the time.",
-    "genre": "Comedy",
-    "sxm_number": 773,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedyinfull.png",
-    "sxm_logo_src": "if/86/8639b84a347e39b8a962d1626904a3e6_1769536378.png",
-    "sxm_entity_id": "9680",
-    "lookaround_channel_id": "50b0c84a-9fa5-0f67-2e7b-85802d9f8a3a"
-  },
-  "esperanza": {
-    "name": "Esperanza",
-    "description": "Contemporary Latin Christian",
-    "genre": "All Xtra",
-    "sxm_number": 1317,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/esperanza.png",
-    "sxm_logo_src": "if/96/963786d5b7bc3c0c97e071f2b35ee274_1772809553.png",
-    "sxm_entity_id": "4328",
-    "lookaround_channel_id": "9fcfe151-5792-cdc7-2916-b422d4c4afcd"
-  },
-  "experts only radio": {
-    "name": "Experts Only Radio",
-    "description": "John Summit takes you on a musical journey without limits! Hear his bi-weekly show and discover a variety of sounds and styles as well as DJ sets from around the world.",
-    "genre": "Dance/Electronic",
-    "sxm_number": 737,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/expertsonlyradio.png",
-    "sxm_logo_src": "if/99/9924d60970fa353d9ba06ca6beef71e9_1772723240.png",
-    "sxm_entity_id": "9671",
-    "lookaround_channel_id": "b7ef42fd-843b-8aa2-27ab-3723e312b978"
-  },
-  "f1 on siriusxm": {
-    "name": "F1 on SiriusXM",
-    "description": "SiriusXM's home for Formula 1 racing! Hear every thrilling lap in F1's worldwide championship chase, plus pre- and post-race coverage and weekly shows featuring F1 experts who bring you inside the world of F1 with interviews with the biggest names in racing. SiriusXM F1 Radio takes you into the paddock, onto the grid, and onto the podium around the world of F1 racing.",
-    "genre": "Sports Play-by-Play",
-    "sxm_number": 835,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/f1onsiriusxm.png",
-    "sxm_logo_src": "if/3b/3b8d98b87b8f3aad93e6653fd0180b0b_1778171035.png",
-    "sxm_entity_id": "9681",
-    "lookaround_channel_id": "d4971239-4b12-40d3-d25b-06877ad5d792"
-  },
-  "classic punk": {
-    "name": "Classic Punk",
-    "description": "Early punk anarchy",
-    "genre": "All Xtra",
-    "sxm_number": 1318,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/classicpunk.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4329",
-    "lookaround_channel_id": null
-  },
-  "country coffee house": {
-    "name": "Country Coffee House",
-    "description": "Country unplugged",
-    "genre": "Relax",
-    "sxm_number": 1319,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4330",
-    "lookaround_channel_id": null
-  },
-  "road trip 2k": {
-    "name": "Road Trip 2K",
-    "description": "Aux cord anthems",
-    "genre": "The 2000s Decade",
-    "sxm_number": 1320,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4331",
-    "lookaround_channel_id": null
-  },
-  "20/20 true crime": {
-    "name": "20/20 True Crime",
-    "description": "A nonstop destination for gripping true crime storytelling from ABC News and 20/20. Hear award-winning podcasts, full episodes of 20/20, installments of 20/20: The After Show, and cases from the 20/20 True Crime Vault. From headline-making investigations to unforgettable mysteries, dive into the stories, twists, and reporting that brings the truth to light. True Crime, all the time.",
-    "genre": "News/Public Radio",
-    "sxm_number": 794,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/2020truecrime.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9685",
-    "lookaround_channel_id": null
-  },
-  "morgan wallen radio": {
-    "name": "Morgan Wallen Radio",
-    "description": "Setting the pace in, and beyond, country music, Morgan Wallen takes you inside his world. Hear personal stories from inside the studio, on the road and more. Music from his friends, collaborators, and influences live alongside Morgan's chart-toppers - all handpicked by Morgan Wallen. Plus, drop-ins from the people that make up his life on and off the stadium stage.",
-    "genre": "Country",
-    "sxm_number": 64,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/morganwallenradio.svg",
-    "sxm_logo_src": "if/86/865169cc01423836ae0c95bc200be0c3_1774273787.png",
-    "sxm_entity_id": "9684",
-    "lookaround_channel_id": "1430a1d6-68ba-edb7-acaf-c500b1c00354"
-  },
-  "abc news live": {
-    "name": "ABC News Live",
-    "description": "ABC News Live is your daily source for breaking news across the U.S. and around the globe. Stay up to date on the latest headlines in politics, weather, health, business and more with our 24/7 live streaming coverage.",
-    "genre": "News/Public Radio",
-    "sxm_number": 796,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/abcnewslive.png",
-    "sxm_logo_src": "if/59/59a027b21cfc345b9b8b0a811b4f616c_1775157433.png",
-    "sxm_entity_id": "9686",
-    "lookaround_channel_id": "8e08b8c8-d1a1-c62a-c1a9-d6dc532aefb1"
-  },
-  "underground garage": {
-    "name": "Underground Garage",
-    "description": "Maximum rock & soul. The 'Coolest records ever made'. Produced by 'Little Steven' Van Zandt, member of the E Street Band and star of The Sopranos.",
-    "genre": "Rock",
-    "sxm_number": 21,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/undergroundgarage.png",
-    "sxm_logo_src": "aem/82/82bedae68bf950e7d83333d0d687ccdd_1699375373.jpeg",
-    "sxm_entity_id": "undergroundgarage",
-    "lookaround_channel_id": "3b83dc80-5987-6898-e98d-a98012f700c1"
-  },
-  "70s on 7": {
-    "name": "70s on 7",
-    "description": "Slip on your bell bottoms and light a lava lamp! It's the super 70s with DJs who boogie down and spin 45 rpm records. Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away! Far out, man!",
-    "genre": "Pop",
-    "sxm_number": 7,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/70son7.png",
-    "sxm_logo_src": "aem/a5/a5f3c90f61ddf59a6eefb23bff5faa4d_1729260719.png",
-    "sxm_entity_id": "totally70s",
-    "lookaround_channel_id": "95d4d8ef-55e4-8337-78f1-2fda944991d8"
-  },
-  "deep tracks": {
-    "name": "Deep Tracks",
-    "description": "Album cuts, forgotten gems, and lesser-played songs from classic rock's most influential artists and essential albums, along with rare demos and live tracks. SiriusXM hosts Earle Bailey, Early Times, Carol Miller, Joe Elliott, and Steven Wilson guide you through the music. Featuring rarities from Bob Dylan, The Rolling Stones, Led Zeppelin, David Bowie, The Beatles, The Eagles, Jethro Tull, and more.",
-    "genre": "Rock",
-    "sxm_number": 308,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/deeptracks.png",
-    "sxm_logo_src": "if/b1/b103be0a84e03e25aae019b221edf510_1774463331.jpg",
-    "sxm_entity_id": "thevault",
-    "lookaround_channel_id": "e3041d19-daa5-6517-8c73-41976582d1f9"
-  },
-  "the spectrum": {
-    "name": "The Spectrum",
-    "description": "The Spectrum of Rock, spanning more than six decades - from the legends of the 1960s and '70s to the artists breaking through now.",
-    "genre": "Rock",
-    "sxm_number": 28,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thespectrum.png",
-    "sxm_logo_src": "if/4e/4e1549393819368481f2cb06273e47f3_1756345359.png",
-    "sxm_entity_id": "thespectrum",
-    "lookaround_channel_id": "804a5411-b234-1188-27da-f01197103886"
-  },
-  "willie's roadhouse": {
-    "name": "Willie's Roadhouse",
-    "description": "Willie Nelson's Classic Country channel featuring songs from the '60s, '70s and '80s by artists such as Willie Nelson, Merle Haggard, Dolly Parton, George Jones, Johnny Cash, Loretta Lynn, Patsy Cline, Conway Twitty and more.",
-    "genre": "Country",
-    "sxm_number": 61,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/williesroadhouse.png",
-    "sxm_logo_src": "aem/93/93e87c2dabd2b3269c7b4184df2407f3_1727286772.jpeg",
-    "sxm_entity_id": "theroadhouse",
-    "lookaround_channel_id": "0aee72ed-5dd8-2848-3567-d8809e123cd1"
-  },
-  "the pulse": {
-    "name": "The Pulse",
-    "description": "Today's pop music keeping you company through your day. Hear the hits, throwbacks and fresh sounds Taylor Swift, Ed Sheeran, OneRepublic, Ariana Grande and more.",
-    "genre": "Pop",
-    "sxm_number": 5,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thepulse.png",
-    "sxm_logo_src": "if/61/61d9b2ef420e31cab6a353245eeb5a40_1765947449.png",
-    "sxm_entity_id": "thepulse",
-    "lookaround_channel_id": "9e8d6f72-0b59-85cf-a222-b18d38acdc0f"
-  },
-  "the catholic channel": {
-    "name": "The Catholic Channel",
-    "description": "Talk about it on The Catholic Channel! Combining a modern talk format and open dialogue, The Catholic Channel focuses on Catholicism in the 21st century, especially as it is lived in today's world. Archbishop Ronald Hicks leads a list of modern voices, including Fr. Dave Dwyer, Lino Rulli, Katie McGrady, Doug Tooke, and more.",
-    "genre": "Religion",
-    "sxm_number": 129,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thecatholicchannel.png",
-    "sxm_logo_src": "if/59/59995fb38312336e818d48128dbc2fff_1777404066.jpg",
-    "sxm_entity_id": "thecatholicchannel",
-    "lookaround_channel_id": "88c59be1-adab-d9c1-ee63-05fdef54f094"
-  },
-  "the bridge": {
-    "name": "The Bridge",
-    "description": "Cross the bridge to the mellow side of classic rock and 70s folk rock. The Eagles, James Taylor, Fleetwood Mac, Simon & Garfunkel and more.",
-    "genre": "Rock",
-    "sxm_number": 14,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thebridge.png",
-    "sxm_logo_src": "aem/81/81065708fd0c2908bf9b9418b9e16840_1699375797.jpeg",
-    "sxm_entity_id": "thebridge",
-    "lookaround_channel_id": "1898923d-071d-0abd-1a62-ed0d2702d4f1"
-  },
-  "bpm": {
-    "name": "BPM",
-    "description": "The beat drops here on BPM. Hear the top dance and electronic hits 24/7. We'll keep you up to date with what's happening in clubs and festivals all over the world. Hear anything from house music, to future bass and everything in between.",
-    "genre": "Dance/Electronic",
-    "sxm_number": 52,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bpm.png",
-    "sxm_logo_src": "aem/90/90f4fcc89c476a7e624837a4cb6eb713_1732039942.jpeg",
-    "sxm_entity_id": "thebeat",
-    "lookaround_channel_id": "6adef1b5-d812-9c10-7c6c-f05af4e27077"
-  },
-  "symphony hall": {
-    "name": "Symphony Hall",
-    "description": "Classical music from yesterday and today performed by top orchestras, chamber music ensembles and instrumental soloists. Featuring Baroque and Beyond, Classics on Film, Living American, SiriusXM Presents the Philadelphia Orchestra, Vox Choral and The Chamber Music Society of Lincoln Center",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 78,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/symphonyhall.png",
-    "sxm_logo_src": "if/cc/ccb8a729794f33748f8c76558812c326_1740160031.jpg",
-    "sxm_entity_id": "symphonyhall",
-    "lookaround_channel_id": "c46c9810-6274-a715-a8b9-de9d4ac33873"
-  },
-  "the blend": {
-    "name": "The Blend",
-    "description": "Blending nice & easy pop where you can sing along with Rod Stewart, Celine Dion, Lionel Richie, Neil Diamond, Whitney Houston and more! Feeling good has never been easier!",
-    "genre": "Pop",
-    "sxm_number": 16,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/theblend.png",
-    "sxm_logo_src": "aem/3e/3e010d614577d42064a57d0ce72e0118_1699375604.jpeg",
-    "sxm_entity_id": "starlite",
-    "lookaround_channel_id": "bda81f03-f231-d4db-56ad-40cb132c5663"
-  },
-  "the message_65": {
-    "name": "The Message",
-    "description": "Pop and rock with a higher purpose. Contemporary Christian music delivered by compassionate hosts to encourage you and your family on your faith journey.",
-    "genre": "Christian",
-    "sxm_number": 65,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/themessage.png",
-    "sxm_logo_src": "if/5c/5c64da6d1dc53d689652611d63d1b8ec_1765946657.png",
-    "sxm_entity_id": "spirit",
-    "lookaround_channel_id": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c"
-  },
-  "spa": {
-    "name": "Spa",
-    "description": "Spa is an ethereal audio experience. It's new age with a twist of ambient and light world music. A perfect spa experience.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 746,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/spa.png",
-    "sxm_logo_src": "if/5f/5f0f4a6fcf9738ef865992a94bb12573_1771012778.jpg",
-    "sxm_entity_id": "spa73",
-    "lookaround_channel_id": "d324f7fe-efc8-e5fa-5ad5-14fa6ba0d9bf"
-  },
-  "smokey's soul town": {
-    "name": "Smokey's Soul Town",
-    "description": "Classic Soul, R&B & Motown from the '60s and '70s live in Smokey's Soul Town! Throughout the day, Smokey shares stories from his career and picks some of his favorites from Hitsville and beyond. Plus hosted DJ shows from The Motown Museum in Detroit. Stevie, Aretha, Otis, Marvin, Jackie, Chaka, The Temptations, The Miracles, The Supremes, The Four Tops and all the Soul you can handle... 24/7 on Smokey's Soul Town!!",
-    "genre": "Hip-Hop/R&B",
-    "sxm_number": 74,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/smokeyssoultown.png",
-    "sxm_logo_src": "aem/b5/b56d97054d4c45b9e5aca9167d3b1d53_1699419936.jpeg",
-    "sxm_entity_id": "soultown",
-    "lookaround_channel_id": "aa46ae69-ab44-f416-58ee-9fdf07462c0e"
-  },
-  "stars": {
-    "name": "Stars",
-    "description": "Hear SiriusXM's biggest stars in intimate and revealing conversations about life and culture, share lifechanging advice, and real talk with friends. Culture and celebrity collide to bring you inside the life and style of Hollywood.",
-    "genre": "Entertainment",
-    "sxm_number": 109,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/stars.png",
-    "sxm_logo_src": "if/72/723d548b925231aab9a5e0c4d36f1bc2_1751902765.png",
-    "sxm_entity_id": "siriusstars",
-    "lookaround_channel_id": "813d656c-9af5-7f51-bb48-d724327d9289"
-  },
-  "college sports radio": {
-    "name": "College Sports Radio",
-    "description": "SiriusXM College Sports Radio features the most comprehensive, 24/7 college sports talk and play-by-play. Hear the top experts in college sports including Danny Kanell, Dusty Dvoracek, Rick Neuheisel and EJ Manuel. Hear the best live play-by-play, including college football bowl games and Playoffs, NCAA Men's Basketball Tournament plus coverage of college baseball, softball, women's basketball, hockey and more.",
-    "genre": "Sports",
-    "sxm_number": 84,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/collegesportsradio.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "siriussportsaction",
-    "lookaround_channel_id": null
-  },
-  "siriusxm pops": {
-    "name": "SiriusXM Pops",
-    "description": "Classical Music's greatest hits performed by the world's most renowned orchestras and soloists. Including Yo-Yo Ma, 2Cellos and The Boston Pops Orchestra. Featuring works by Beethoven, Mozart, Bach and John Williams.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 745,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmpops.png",
-    "sxm_logo_src": "aem/00/0020194e2066a7182dbf4cf81816f8ca_1699375750.jpeg",
-    "sxm_entity_id": "siriuspops",
-    "lookaround_channel_id": "a8465da9-2ce2-9b01-6679-e67c5066697b"
-  },
-  "siriusxm patriot": {
-    "name": "SiriusXM Patriot",
-    "description": "SiriusXM Patriot is your home for comprehensive conservative viewpoints, hard-hitting interviews, and thought-provoking commentary. Join the conversation with Breitbart News, David Webb, Andrew Wilkow, Sean Hannity, Mark Levin, Stacy Washington, and more.",
-    "genre": "Politics/Issues",
-    "sxm_number": 125,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmpatriot.png",
-    "sxm_logo_src": "if/ce/ce2fa2933cb3346f9d256b07a7b456aa_1756126389.png",
-    "sxm_entity_id": "siriuspatriot",
-    "lookaround_channel_id": "6739babb-7975-e60e-1835-fbacd4bbd855"
-  },
-  "siriusxm nfl radio": {
-    "name": "SiriusXM NFL Radio",
-    "description": "SiriusXM NFL Radio delivers hard-hitting analysis and up-to-the minute NFL news that true football fanatics need - 24/7/365. From the annual Training Camp Tour from all 32 teams, to Super Bowl Week broadcasts, to the Scouting Combine remotes, to live coverage of every pick of the NFL Draft, an all-pro lineup of hosts and special guests from around the league keep you in the know. Think you got game? Call us at 877-NFL-KICK.",
-    "genre": "Sports",
-    "sxm_number": 88,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmnflradio.png",
-    "sxm_logo_src": "aem/25/25c9c9bd5c215c0e50388a7ee2a6e9e6_1738952011.jpeg",
-    "sxm_entity_id": "siriusnflradio",
-    "lookaround_channel_id": "f3126d70-09ea-bd0c-57cd-af5ab798f313"
-  },
-  "siriusxm nascar radio": {
-    "name": "SiriusXM NASCAR Radio",
-    "description": "Every race and everything in between: Taking you inside the sport with unparalleled access to the drivers, crew chiefs, team owners and other racing insiders as they talk candidly with SiriusXM NASCAR Radio. From post-race interviews in victory lane and in the garage, you'll get the latest news and information from your trusted source for all things NASCAR.",
-    "genre": "Sports",
-    "sxm_number": 90,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmnascarradio.png",
-    "sxm_logo_src": "aem/8d/8d12854d8b1408790709ff4554c3911d_1720452489.jpeg",
-    "sxm_entity_id": "siriusnascarradio",
-    "lookaround_channel_id": "c875a2e9-2768-ed46-5487-4e3e667ae553"
-  },
-  "siriusly sinatra": {
-    "name": "Siriusly Sinatra",
-    "description": "The Chairman of the Board is at home everyday on Siriusly Sinatra, along with Dean Martin, Tony Bennett and more of the great singers interpreting the Great American Songbook. Siriusly Sinatra is the 24-hour home for all things Frank and the standards he made famous!",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 70,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriuslysinatra.png",
-    "sxm_logo_src": "aem/21/217de62000134604b8447ca5070e3070_1699375938.jpeg",
-    "sxm_entity_id": "siriuslysinatra",
-    "lookaround_channel_id": "38dccb7c-6e3c-1473-d0db-0b3b8b999707"
-  },
-  "siriusxm love": {
-    "name": "SiriusXM Love",
-    "description": "Celebrate the joy of being in love, as a generation of superstars help set the mood for romance with love songs from the 60s, 70s and 80s. Hear Barry Manilow, Whitney Houston, the Bee Gees, Lionel Richie, Celine Dion, Barbra Streisand and more.",
-    "genre": "Pop",
-    "sxm_number": 708,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmlove.png",
-    "sxm_logo_src": "aem/07/0722bbb1f169983b15d7b72b3c926fb0_1699376064.jpeg",
-    "sxm_entity_id": "siriuslove",
-    "lookaround_channel_id": "3fd664a8-229c-ce9b-c468-66e2a54abf0b"
-  },
-  "siriusxm progress": {
-    "name": "SiriusXM Progress",
-    "description": "SiriusXM Progress amplifies voices demanding justice, equality, and liberty for all. Hear progressive viewpoints from a wide range of voices including Zerlina Maxwell, Stephanie Miller, Thom Hartmann, Michelangelo Signorile, Dean Obeidallah, John Fugelsang, and more.",
-    "genre": "Politics/Issues",
-    "sxm_number": 127,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmprogress.png",
-    "sxm_logo_src": "aem/1d/1dafc6ab1f9acfec87660cae7501c620_1699376054.jpeg",
-    "sxm_entity_id": "siriusleft",
-    "lookaround_channel_id": "fb452ece-ac0c-2236-780a-d85c72fbcc88"
-  },
-  "siriusxm hits 1": {
-    "name": "SiriusXM Hits 1",
-    "description": "Today's hits from pop, hip-hop, rock, rhythm, country and R&B. Featuring The Morning Mash Up with Ryan & Nicole, Mack & Jen middays, Mikey Piff evenings, and the HITS 1 Weekend Countdown.",
-    "genre": "Pop",
-    "sxm_number": 2,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmhits1.png",
-    "sxm_logo_src": "if/03/0341831c1c3236f49ce10fe93b72725c_1752761203.png",
-    "sxm_entity_id": "siriushits1",
-    "lookaround_channel_id": "194adbca-34d6-cb94-b153-3488ee563308"
-  },
-  "50s gold": {
-    "name": "50s Gold",
-    "description": "Take a trip to the era of the new teenage craze of rock 'n' roll and the pre-rock songs Mom & Dad preferred. The sound of happy days and drive-in nights with pop radio the way it used to be - from crooners to street corner harmony.",
-    "genre": "Pop",
-    "sxm_number": 72,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/50sgold.png",
-    "sxm_logo_src": "aem/2d/2df163ad3456ff1163360e9e02f2147e_1699375154.jpeg",
-    "sxm_entity_id": "siriusgold",
-    "lookaround_channel_id": "a62ffa9f-e016-5693-adcb-c76c328e1bee"
-  },
-  "bb king's bluesville": {
-    "name": "BB King's Bluesville",
-    "description": "B.B. King's channel for blues music from the past to the present: B.B. King, Stevie Ray Vaughan, Muddy Waters, Buddy Guy, Eric Clapton, Etta James, Robert Cray, Keb' Mo', Taj Mahal, John Lee Hooker and others.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 75,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bbkingsbluesville.png",
-    "sxm_logo_src": "aem/13/13d7642597eb71685b6d76f5f999807b_1699376127.jpeg",
-    "sxm_entity_id": "siriusblues",
-    "lookaround_channel_id": "c4406844-de06-901b-6b4f-02420e2bd2d6"
-  },
-  "shade 45": {
-    "name": "Shade 45",
-    "description": "The uncensored commercial free hip-hop channel created by Eminem and SiriusXM.",
-    "genre": "Hip-Hop/R&B",
-    "sxm_number": 45,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/shade45.png",
-    "sxm_logo_src": "if/85/85d1c5c0b77838e3baf605112f3fb0db_1751902163.png",
-    "sxm_entity_id": "shade45",
-    "lookaround_channel_id": "2022dfab-580f-675f-6aad-00aad9c3be9b"
-  },
-  "caliente": {
-    "name": "Caliente",
-    "description": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the Caribbean and the Americas collide. Where Latin music & culture meet!",
-    "genre": "Latino",
-    "sxm_number": 152,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/caliente.png",
-    "sxm_logo_src": "aem/85/85f1f8332b4c0bcd9a4a9bd3d4cea3b7_1699375595.jpeg",
-    "sxm_entity_id": "rumbon",
-    "lookaround_channel_id": "53b80144-2cb1-e723-07fd-6b164434b186"
-  },
-  "road dog trucking": {
-    "name": "Road Dog Trucking",
-    "description": "Get in gear with the 24-hour channel devoted to the trucking industry. With news, information and entertainment, the channel keeps you up to date on the industry that keeps us moving.",
-    "genre": "Entertainment",
-    "sxm_number": 146,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/roaddogtrucking.png",
-    "sxm_logo_src": "aem/f7/f710a576761e94628ee4395035eab067_1699375305.jpeg",
-    "sxm_entity_id": "roaddogtrucking",
-    "lookaround_channel_id": "01305215-db22-2cdc-7eaf-ca12c60a2643"
-  },
-  "shaggy boombastic radio": {
-    "name": "Shaggy Boombastic Radio",
-    "description": "Immerse yourself in reggae and dancehall music, with a splash of vibrant Afrobeats. From the iconic rhythms of Sean Paul and Lady Saw to the dynamic sounds of WizKid and Burna Boy, Shaggy's Boombastic Radio brings the very best of reggae, dancehall and whatever Shaggy's into. Be ready to move with infectious tunes while embracing Caribbean and African music culture. A channel from the mind of the iconic, Grammy Award-winning global hitmaker, Shaggy!",
-    "genre": "Hip-Hop/R&B",
-    "sxm_number": 332,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/shaggyboombasticradio.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "reggaerhythms",
-    "lookaround_channel_id": null
-  },
-  "sebastian maniscalco's comedy radio": {
-    "name": "Sebastian Maniscalco's Comedy Radio",
-    "description": "SiriusXM's exclusive stand-up channel curated by Sebastian Maniscalco features performances by his favorite comedians. From legends of the craft to today's rising voices, the channel delivers a mix of entertaining comedy. At the center of the channel is The Sebastian Maniscalco Show, an original radio series where Sebastian brings his unmistakable perspective, stories & comedic takes to the mic. Together, they create a destination for fans who love bold stand-up & Sebastian's signature style.",
-    "genre": "Comedy",
-    "sxm_number": 99,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/sebastianmaniscalcoscomedyradio.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "rawdog",
-    "lookaround_channel_id": null
-  },
-  "radio margaritaville": {
-    "name": "Radio Margaritaville",
-    "description": "Escape to Margaritaville. Parrotheads, your ship has come in. From multi-platinum singer, songwriter and author Jimmy Buffett comes a radio paradise of great music, live broadcasts of Buffett's concerts and other unique programs.",
-    "genre": "Rock",
-    "sxm_number": 24,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/radiomargaritaville.png",
-    "sxm_logo_src": "aem/37/37156745e7dc1044c44d39445324e5b2_1699376225.jpeg",
-    "sxm_entity_id": "radiomargaritaville",
-    "lookaround_channel_id": "c636d008-7cb0-99eb-7fb7-7c489f862a26"
-  },
-  "radio classics": {
-    "name": "Radio Classics",
-    "description": "Radio Classics is the home for the quality programs from The Golden Age Of Radio. Before television, before audio books, before podcasts, great storytelling dominated the realm of radio. It's where imagination ruled. Superman, Dragnet, Gunsmoke, plus comedies from Jack Benny, Bob Hope, Lucille Ball, George Burns & Gracie Allen all originated on radio. Those ageless shows (and so much more) can be found on Radio Classics. Timeless stories and laughs from the past for today's SiriusXM listeners.",
-    "genre": "Entertainment",
-    "sxm_number": 148,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/radioclassics.png",
-    "sxm_logo_src": "aem/6c/6cc9370733aacd15b393c8cf750f7923_1722985416.jpeg",
-    "sxm_entity_id": "radioclassics",
-    "lookaround_channel_id": "6ce53b6e-fef9-ab81-e5e3-1e100e8a5e84"
-  },
-  "real jazz": {
-    "name": "Real Jazz",
-    "description": "Classic jazz, the original American art form. Hear the masters who pioneered the music and the new artists who continue the tradition into the 21st century.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 67,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/realjazz.png",
-    "sxm_logo_src": "if/62/62e8e92e20ba300387a7c27b989455cc_1770749171.jpg",
-    "sxm_entity_id": "purejazz",
-    "lookaround_channel_id": "e6333906-2e89-6c07-59d6-36d09248b8dc"
-  },
-  "prime country": {
-    "name": "Prime Country",
-    "description": "This is where country music from the '80s and '90s lives. Garth Brooks, Reba McEntire, George Strait, Shania Twain, Alan Jackson, and Randy Travis all play here.",
-    "genre": "Country",
-    "sxm_number": 58,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/primecountry.png",
-    "sxm_logo_src": "aem/2d/2db8cd9cbbaa9ad75b7981ed6528495c_1707515753.jpeg",
-    "sxm_entity_id": "primecountry",
-    "lookaround_channel_id": "32566352-8e68-80f8-fe11-3f9715b63876"
-  },
-  "ici première": {
-    "name": "ICI Première",
-    "description": "Radio-Canada news and information distributing national news, information and programming to all regions of the country. As Canada's national public broadcaster, CBC Radio-Canada provides a wide range of topics and programs to entertain and enlighten and celebrate the exchange of cultural expression in a full simulcast of Radio-Canada Première.",
-    "genre": "Canadian",
-    "sxm_number": 170,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/icipremiere.png",
-    "sxm_logo_src": "aem/d8/d81facb4906186ed9cc3a6892e07639d_1699376166.jpeg",
-    "sxm_entity_id": "premiereplus",
-    "lookaround_channel_id": "32c45f24-14ee-6f33-e79d-d859ff1627a4"
-  },
-  "kirk franklin's praise": {
-    "name": "Kirk Franklin's Praise",
-    "description": "Grammy winning icon Kirk Franklin empowers you through your day with today's divinely inspired gospel music. Hear inspirational music from artists including Tamela Mann, Donnie McClurkin, Tye Tribett, Le'Andria Johnson and more. Kirk's got the music and the message to make ya sing, clap and shout!",
-    "genre": "Christian",
-    "sxm_number": 68,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/kirkfranklinspraise.png",
-    "sxm_logo_src": "aem/87/874ce351bce77783226b25b88ab24123_1699375180.jpeg",
-    "sxm_entity_id": "praise",
-    "lookaround_channel_id": "e4fe4bca-1af8-bf9e-c20b-813f204aa18e"
-  },
-  "outlaw country": {
-    "name": "Outlaw Country",
-    "description": "No borders, no B.S. -- from country's roots to today's outsiders that just won't be fenced in. Hear Americana, alt-country, country classics, country rock, honky tonk, roots rock & more!",
-    "genre": "Country",
-    "sxm_number": 62,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/outlawcountry.png",
-    "sxm_logo_src": "aem/62/628bcfbb4dec84d8173493ee66721bb8_1699375485.jpeg",
-    "sxm_entity_id": "outlawcountry",
-    "lookaround_channel_id": "176daca5-6810-3a1c-49e9-39b69055e811"
-  },
-  "octane": {
-    "name": "Octane",
-    "description": "Experience the loud and uncensored community of new hard rock, featuring the next generation of headbangers destined to be headliners!",
-    "genre": "Rock",
-    "sxm_number": 37,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/octane.png",
-    "sxm_logo_src": "if/f4/f4531c1141ce348696c424b925b89256_1751908076.png",
-    "sxm_entity_id": "octane",
-    "lookaround_channel_id": "0fed9647-cc82-24d7-526d-98762e8a52cd"
-  },
-  "npr now": {
-    "name": "NPR Now",
-    "description": "NPR Now offers in-depth news, features, and entertainment produced and assembled by NPR specifically for SiriusXM. NPR's variety channel features Fresh Air and Marketplace, plus public radio favorites like Car Talk, Wait Wait... Don't Tell Me!, Talk of the Nation, as well as new productions from independent producers and public radio stations nationwide.",
-    "genre": "News/Public Radio",
-    "sxm_number": 122,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/nprnow.png",
-    "sxm_logo_src": "if/27/27c0e0c7a3c1381c8d5ea301a4d26b08_1740583785.jpg",
-    "sxm_entity_id": "nprnow",
-    "lookaround_channel_id": "22b6d419-0bc3-31f7-c9dd-53ca6c673d8c"
-  },
-  "the highway": {
-    "name": "The Highway",
-    "description": "Discover the next generation of country superstars on The Highway - where breakthrough Highway Finds meet brand new music from country's biggest hitmakers. Hosted weekdays by Cody Alan, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
-    "genre": "Country",
-    "sxm_number": 56,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thehighway.png",
-    "sxm_logo_src": "if/59/59d5873849d4364eb27e1669856402fc_1778774295.png",
-    "sxm_entity_id": "newcountry",
-    "lookaround_channel_id": "ffd94bb6-5368-67ae-91be-5b2bababeca0"
-  },
-  "met opera radio": {
-    "name": "Met Opera Radio",
-    "description": "Stay connected to the Met's rich past and exciting present. With Metropolitan Opera Radio you can listen, day and night, to up to four live broadcasts weekly during the season, as well as the finest performances ever recorded, including gems from the archives.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 744,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/metoperaradio.png",
-    "sxm_logo_src": "aem/a4/a4a88009f27b6d963f17836c5f8b5a97_1699375730.jpeg",
-    "sxm_entity_id": "metropolitanopera",
-    "lookaround_channel_id": "d4d17484-cb4d-06bf-60e0-2944cb827371"
-  },
-  "siriusxmu": {
-    "name": "SiriusXMU",
-    "description": "Groundbreaking music and emerging artists. A commercial-free mix of new music from up-and-coming bands and producers, together with the indie classics that inspired them.",
-    "genre": "Rock",
-    "sxm_number": 35,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmu.png",
-    "sxm_logo_src": "if/f6/f62bdedacb1b3fd39c8b444ca37ce8cc_1743025655.jpg",
-    "sxm_entity_id": "leftofcenter",
-    "lookaround_channel_id": "f49737db-bea3-0c13-9834-b879fb1894c4"
-  },
-  "pure comedy": {
-    "name": "Pure Comedy",
-    "description": "It's comedy for everybody on Pure Comedy! Check out profanity-free material from today's top comics like Jim Gaffigan and Nate Bargatze, as well as hilarious material from emerging and legendary comedians.",
-    "genre": "Comedy",
-    "sxm_number": 98,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/purecomedy.png",
-    "sxm_logo_src": "if/de/de652050d1093a36988fbc7923b7cbf1_1747939942.jpg",
-    "sxm_entity_id": "laughbreak",
-    "lookaround_channel_id": "d7151f52-694d-64b7-4e31-9b2f4f534454"
-  },
-  "watercolors": {
-    "name": "Watercolors",
-    "description": "A sonic landscape of silky, smooth jazz melodies and alluring contemporary jazz rhythms. Indulge the senses with soulful saxophone, mesmerizing piano, breezy guitar and groovy bass lines. Lively art for your ears.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 66,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/watercolors.png",
-    "sxm_logo_src": "aem/6c/6cdf1bbea9f0345154d5f8d5cdad78c2_1699375786.jpeg",
-    "sxm_entity_id": "jazzcafe",
-    "lookaround_channel_id": "e4b5402c-c608-db84-ad15-4bc8e2cdccce"
-  },
-  "jam on 309": {
-    "name": "Jam On 309",
-    "description": "It's a non-stop music festival with live, improvisational, and adventurous rock from artists who thrive in a live concert setting. You'll hear Phish, Dave Matthews Band, My Morning Jacket, moe., Umphrey's McGee, String Cheese Incident, Gov't Mule, and more.",
-    "genre": "Rock",
-    "sxm_number": 309,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/jamon309.png",
-    "sxm_logo_src": "aem/c7/c7ba860cb7b4ddff750d7ca2efb073f3_1732039935.jpeg",
-    "sxm_entity_id": "jamon",
-    "lookaround_channel_id": "a00885e6-262a-0291-458b-e0b07fba71e1"
-  },
-  "potus politics": {
-    "name": "POTUS Politics",
-    "description": "POTUS is Politics of the United States. Politics from all points of view with Michael Smerconish, Dan Abrams, Julie Mason, Steve Scully, Stephen A. Smith and more. Spirited interviews with representatives from both sides of the aisle. Legal analysis of breaking stories, panel discussions, and daily recaps of everything happening in Washington, D.C.",
-    "genre": "Politics/Issues",
-    "sxm_number": 124,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/potuspolitics.png",
-    "sxm_logo_src": "if/fb/fb65a890db4a36cb9c45eb15573b8024_1756126382.png",
-    "sxm_entity_id": "indietalk",
-    "lookaround_channel_id": "43993462-1c73-efb8-29e5-0c4652cf8e4f"
-  },
-  "howard 101": {
-    "name": "Howard 101",
-    "description": "The Howard Stern Wrap-Up Show is live following every episode of The Howard Stern Show, culminating with tie-ins to the best historical content on Sternthology. Fans request their favorite Stern Show moments on Sternthology Live! Plus, enjoy new celebrity specials, concert performances and 30 plus years of Stern Show content 24 hours a day.",
-    "genre": "Howard Stern",
-    "sxm_number": 101,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/howard101.png",
-    "sxm_logo_src": "if/aa/aaa033b975ef39dcaed0b0b5ec927627_1751899672.png",
-    "sxm_entity_id": "howardstern101",
-    "lookaround_channel_id": "72874f52-9f17-2e8f-d4cc-3bfdccb4227c"
-  },
-  "howard 100": {
-    "name": "Howard 100",
-    "description": "The exclusive home of The Howard Stern Show. Hear Howard's in-depth interviews with the biggest celebrities, his unique takes on current events, behind-the-scenes antics with the staff, phony phone calls, and much more.",
-    "genre": "Howard Stern",
-    "sxm_number": 100,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/howard100.png",
-    "sxm_logo_src": "if/f3/f30799343ad83ba5ab33a83e52d1ca69_1751899640.png",
-    "sxm_entity_id": "howardstern100",
-    "lookaround_channel_id": "123f7d39-c99f-2f01-7900-0d4b8b010cb7"
-  },
-  "the heat": {
-    "name": "The Heat",
-    "description": "The Heat stays lit with the hottest R&B and hip-hop, with artists like Chris Brown, Cardi B., SZA, Drake, Doja Cat, Lil' Baby and more!",
-    "genre": "Hip-Hop/R&B",
-    "sxm_number": 46,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/theheat.png",
-    "sxm_logo_src": "aem/9c/9c0a7c2889ff399b130b9db7b96ccb17_1699375857.jpeg",
-    "sxm_entity_id": "hotjamz",
-    "lookaround_channel_id": "c2a517d4-c02f-06eb-77cf-f81bfa719188"
-  },
-  "hip-hop nation": {
-    "name": "Hip-Hop Nation",
-    "description": "Hip-Hop Nation is the sound of the culture where you'll hear artists like Kendrick Lamar, J. Cole, 21 Savage, Cardi B., GloRilla and more.",
-    "genre": "Hip-Hop/R&B",
-    "sxm_number": 44,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hiphopnation.png",
-    "sxm_logo_src": "if/78/786b9a8882143ffbb39a9304e8482d06_1751898853.png",
-    "sxm_entity_id": "hiphopnation",
-    "lookaround_channel_id": "bd54fc02-e063-0e3e-0cbb-4ceafef734e7"
-  },
-  "heart & soul": {
-    "name": "Heart & Soul",
-    "description": "Adult R&B from yesterday and today from artists including Charlie Wilson, Mary J. Blige, Kem, Jill Scott, Toni Braxton and more.",
-    "genre": "Hip-Hop/R&B",
-    "sxm_number": 47,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/heartsoul.png",
-    "sxm_logo_src": "aem/77/77082da9d648fe207103bd3085245a97_1732039945.jpeg",
-    "sxm_entity_id": "heartandsoul",
-    "lookaround_channel_id": "25de1705-19ad-6f6e-d45f-3f8775a37800"
-  },
-  "liquid metal": {
-    "name": "Liquid Metal",
-    "description": "Finally, a heavy metal lifestyle radio station for true metalheads blasting out the heaviest metal from the masters that created it to the ones that are perfecting it today. Pantera, Slayer, Metallica, Lamb Of God, Slipknot, Gojira, Spiritbox, Megadeth, Lorna Shore, Anthrax and more.",
-    "genre": "Rock",
-    "sxm_number": 40,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/liquidmetal.png",
-    "sxm_logo_src": "if/ab/ab64e51ce51735989eb0e371eba9375a_1751899850.png",
-    "sxm_entity_id": "hardattack",
-    "lookaround_channel_id": "634ea01e-4ae2-c7e8-7567-138965e8a6fe"
-  },
-  "hair nation": {
-    "name": "Hair Nation",
-    "description": "A nostalgic trip to the 80's Sunset Strip and beyond! Hair Metal, Glam, 80's Hard Rock & Hair Bands. It REALLY has NOTHING to do with 'hair'.",
-    "genre": "Rock",
-    "sxm_number": 39,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hairnation.png",
-    "sxm_logo_src": "aem/42/42cc6d3e90e463902c171ae02d0f779e_1732039949.jpeg",
-    "sxm_entity_id": "hairnation",
-    "lookaround_channel_id": "b8b47809-4e8e-f556-8325-bd45fa3d4dc4"
-  },
-  "grateful dead": {
-    "name": "Grateful Dead",
-    "description": "On the Grateful Dead Channel, exclusively on SiriusXM, you'll hear music spanning the band's career with unreleased concert recordings, original shows hosted by band members, and even rare archival interviews with Jerry Garcia. The channel also features contributions from Grateful Dead experts David Gans and Gary Lambert as well as Dead archivist David Lemieux.",
-    "genre": "Rock",
-    "sxm_number": 23,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/gratefuldead.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "gratefuldead",
-    "lookaround_channel_id": null
-  },
-  "fox news channel": {
-    "name": "FOX News Channel",
-    "description": "Become a part of America's news phenomenon with FOX News, which puts national and international news right at your fingertips. It's all here, only on the FOX News Channel.",
-    "genre": "News/Public Radio",
-    "sxm_number": 114,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/foxnewschannel.png",
-    "sxm_logo_src": "aem/ab/abc9057716107ed9dfc8c302c6b30cc1_1699375879.jpeg",
-    "sxm_entity_id": "foxnewschannel",
-    "lookaround_channel_id": "5f8894e9-d615-21d0-a114-ecd08e7fa75c"
-  },
-  "1st wave": {
-    "name": "1st Wave",
-    "description": "The First Wave of alternative music, centered in the 1980s but including legendary artists and cult classics from the '70s through the early '90s.",
-    "genre": "Rock",
-    "sxm_number": 33,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/1stwave.png",
-    "sxm_logo_src": "aem/1c/1c2af6cc5cfa853e9acfa0f6614d62d4_1732039943.jpeg",
-    "sxm_entity_id": "firstwave",
-    "lookaround_channel_id": "65f04311-3581-256c-97b9-279838d6ff5e"
-  },
-  "faction punk": {
-    "name": "FACTION PUNK",
-    "description": "Punk rock from a Green Day POV. Billie, Mike, and Tre deliver punk pioneers and new noise alongside their own music and stories - from early demos, to live tracks, stadium-shaking anthems, and whatever comes next.",
-    "genre": "Rock",
-    "sxm_number": 314,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/factionpunk.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "faction",
-    "lookaround_channel_id": null
-  },
-  "ewtn radio": {
-    "name": "EWTN Radio",
-    "description": "EWTN Radio listeners will find content filled with Catholic hope and inspiration. EWTN Radio offers listeners live call-in talk shows, informative teaching series, daily devotions, inspiring prayers and Church events.",
-    "genre": "Religion",
-    "sxm_number": 130,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/ewtnradio.png",
-    "sxm_logo_src": "aem/66/660de7826a09db4c783abe06431511bb_1699376053.jpeg",
-    "sxm_entity_id": "ewtnglobal",
-    "lookaround_channel_id": "2692983c-1779-bca2-800c-76b8dd988ae8"
-  },
-  "e street radio": {
-    "name": "E Street Radio",
-    "description": "E Street Radio brings you the music of Bruce Springsteen including studio outtakes, concert recordings, rarities, and more! Plus hear Bruce host his critically-acclaimed show, 'From My Home To Yours,' sharing personal stories and hand-selecting songs for you. Fans can 'Be The Boss,' hear insights from E Street Band members, and enjoy special Guest DJ sessions. It's the home of all things Bruce!",
-    "genre": "Rock",
-    "sxm_number": 20,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/estreetradio.png",
-    "sxm_logo_src": "aem/34/348baa5a7b453e3e9017f38c03cb10a5_1699375392.jpeg",
-    "sxm_entity_id": "estreetradio",
-    "lookaround_channel_id": "727fa612-6e53-458e-720d-b662dc974e5d"
-  },
-  "espn radio": {
-    "name": "ESPN Radio",
-    "description": "24/7 Sports Talk from the worldwide leader in sports, plus some of the biggest games from the NBA, MLB, and College Sports.",
-    "genre": "Sports",
-    "sxm_number": 80,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/espnradio.png",
-    "sxm_logo_src": "aem/9b/9b0c17a47aee95f87539141b976de5ee_1699375501.jpeg",
-    "sxm_entity_id": "espnradio",
-    "lookaround_channel_id": "51f88432-8311-37e0-b57d-9b0ab63f5ce9"
-  },
-  "les tubes franco": {
-    "name": "Les Tubes Franco",
-    "description": "The biggest French Canadian hits from the past 50 years including Pop, Rock & Disco that defined or re-defined the era.",
-    "genre": "Canadian",
-    "sxm_number": 759,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/lestubesfranco.png",
-    "sxm_logo_src": "if/6c/6c96b2af9e43353b9a84945b1eb85787_1756126384.png",
-    "sxm_entity_id": "energie2",
-    "lookaround_channel_id": "882607f1-0959-53f1-e58d-67b395b17247"
-  },
-  "elvis radio": {
-    "name": "Elvis Radio",
-    "description": "The only all Elvis all-the-time radio station, broadcasting live from Graceland. The early years, the classics, the comebacks, rarities, live tracks and basically everything Elvis ever recorded.",
-    "genre": "Pop",
-    "sxm_number": 76,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/elvisradio.png",
-    "sxm_logo_src": "if/22/2248e13a1b413f43b254913d57e26e4a_1755539481.jpg",
-    "sxm_entity_id": "elvisradio",
-    "lookaround_channel_id": "a96c9390-313c-3a51-5dac-953504f4f237"
-  },
-  "doctor radio": {
-    "name": "Doctor Radio",
-    "description": "Your chance to talk directly to some of the best doctors in the world. Powered by NYU Langone Health.",
-    "genre": "Entertainment",
-    "sxm_number": 110,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/doctorradio.png",
-    "sxm_logo_src": "aem/cd/cd0877031e5d2b26c9bc2d971dc27b2a_1699376047.jpeg",
-    "sxm_entity_id": "doctorradio",
-    "lookaround_channel_id": "97548371-5133-a4c6-373f-801a18dc3237"
-  },
-  "the coffee house": {
-    "name": "The Coffee House",
-    "description": "A laid-back mix of acoustic and stripped down songs that invite you to settle in and unplug from the world outside. Relax to a diverse selection of hits, new discoveries and acoustic classics.",
-    "genre": "Pop",
-    "sxm_number": 17,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thecoffeehouse.png",
-    "sxm_logo_src": "aem/29/29088ee0abc299f909cbcd6d8ab8ee86_1732039930.jpeg",
-    "sxm_entity_id": "coffeehouse",
-    "lookaround_channel_id": "41f8b174-fb06-1707-aaa7-e74e109c2ee9"
-  },
-  "cnn": {
-    "name": "CNN",
-    "description": "The latest, breaking news with on-the-spot coverage and up-to-the-minute updates.",
-    "genre": "News/Public Radio",
-    "sxm_number": 116,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/cnn.png",
-    "sxm_logo_src": "aem/5c/5c62ac41f486c748a6c552b5c94fd121_1739203217.png",
-    "sxm_entity_id": "cnn",
-    "lookaround_channel_id": "3c7b2421-7ce4-0ecb-bc70-7f60f15d3d29"
-  },
-  "cnbc": {
-    "name": "CNBC",
-    "description": "Get real-time financial market coverage and business information.",
-    "genre": "News/Public Radio",
-    "sxm_number": 112,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/cnbc.png",
-    "sxm_logo_src": "if/c2/c2cff10b9e7c393286c453691520128f_1765947631.png",
-    "sxm_entity_id": "cnbc",
-    "lookaround_channel_id": "2b6effb8-eb0e-7421-d7bb-d843a9ff3ce1"
-  },
-  "classic vinyl": {
-    "name": "Classic Vinyl",
-    "description": "Drop the needle on all the great classic rock of the 60s and 70s, when music came on vinyl. Led Zeppelin, the Beatles, the Rolling Stones, the Who, the Doors and more. All the big songs and some cool album cuts, too, played by renowned hosts like Meg Griffin, Rachel Steele, Earle Bailey and Dennis Elsas.",
-    "genre": "Rock",
-    "sxm_number": 26,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/classicvinyl.png",
-    "sxm_logo_src": "aem/e8/e8d8a8c47fcc1763b8af5620a0b53fe4_1699375250.jpeg",
-    "sxm_entity_id": "classicvinyl",
-    "lookaround_channel_id": "5ad8659a-414a-9e26-b973-f5a229d788dd"
-  },
-  "classic rewind": {
-    "name": "Classic Rewind",
-    "description": "Hit the rewind button for classic rock from the cassette era: Boston, Van Halen, the Cars, Journey, Fleetwood Mac, Foreigner and more, all from the late 70s and 80s. Adding context to the tunes are marquee hosts Kristine Stone, Rachel Steele and MTV legends Alan Hunter and Mark Goodman.",
-    "genre": "Rock",
-    "sxm_number": 25,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/classicrewind.png",
-    "sxm_logo_src": "aem/69/69d2c32f61070fd46c67474d5c5293a2_1714150732.jpeg",
-    "sxm_entity_id": "classicrewind",
-    "lookaround_channel_id": "7a642de7-c33f-a628-efb2-3d94a829d17b"
-  },
-  "siriusxm chill": {
-    "name": "SiriusXM Chill",
-    "description": "Downtempo electronic and deep house music. Relax to melodic sounds that make you feel poolside no matter where you are.",
-    "genre": "Dance/Electronic",
-    "sxm_number": 55,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmchill.png",
-    "sxm_logo_src": "aem/5a/5a94e89952351221c9a2c46400cbfb23_1712676478.jpeg",
-    "sxm_entity_id": "chill",
-    "lookaround_channel_id": "834383dd-9a7e-d59e-81a2-dd13e0377af2"
-  },
-  "cbc radio one": {
-    "name": "CBC Radio One",
-    "description": "Canada's top-rated radio news and information source with some of the country's most popular shows and personalities, distributing National news and content to Canadians coast to coast. As Canada's national public broadcaster, CBC Radio aims to provide a wide range of programming that informs, enlightens and entertains with programming predominantly and distinctively Canadian, reflecting all regions of the country and actively contributing to the exchange of cultural expression.",
-    "genre": "News/Public Radio",
-    "sxm_number": 169,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/cbcradioone.png",
-    "sxm_logo_src": "aem/23/23776ff93ffc7a4f3767502885c44a22_1700154639.jpeg",
-    "sxm_entity_id": "cbcradioone",
-    "lookaround_channel_id": "e2cc6149-5716-4324-2537-4cce09d9b09c"
-  },
-  "ozzy's boneyard": {
-    "name": "Ozzy's Boneyard",
-    "description": "Ozzy's Boneyard is the epicenter for hard and heavy classic rock, where the legends live loud and unfiltered. From Black Sabbath, Judas Priest, and Guns N' Roses to AC/DC, Motörhead, and Metallica, these are the riffs that shaped generations. Forever under the spell of Ozzy Osbourne, the Prince of Darkness, this is the sound of power, rebellion, and timeless volume.",
-    "genre": "Rock",
-    "sxm_number": 38,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/ozzysboneyard.png",
-    "sxm_logo_src": "if/4d/4d7995b295f0399a8fbb957187d287ed_1753286595.jpg",
-    "sxm_entity_id": "buzzsaw",
-    "lookaround_channel_id": "fed8de31-8d51-8949-6c69-2035fb0485b0"
-  },
-  "on broadway": {
-    "name": "On Broadway",
-    "description": "You're front row center for the greatest hits of Broadway! All your favorite show tunes sung by the stars of the musical stage, bringing Broadway to every street in North America.",
-    "genre": "Jazz/Standards/Classical",
-    "sxm_number": 69,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/onbroadway.png",
-    "sxm_logo_src": "aem/71/713f3c7b484184c801ff01e20f575449_1732039963.jpeg",
-    "sxm_entity_id": "broadwaysbest",
-    "lookaround_channel_id": "adc27a20-6fc4-7269-5ca6-4a492f7dfa55"
-  },
-  "bluegrass junction": {
-    "name": "Bluegrass Junction",
-    "description": "Experience the cutting-edge sounds of bluegrass music while never straying too far from its roots and traditions... including weekly shows from Chris Jones, Ned Luberecki, Joey Black and the legendary Del McCoury!",
-    "genre": "Country",
-    "sxm_number": 77,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bluegrassjunction.png",
-    "sxm_logo_src": "aem/51/510bfed4a7def6f26ad3b9a3b40e928b_1732039925.jpeg",
-    "sxm_entity_id": "bluegrass",
-    "lookaround_channel_id": "9e545d10-7c21-9707-1d34-3d503b7365bc"
-  },
-  "comedy roundup": {
-    "name": "Comedy Roundup",
-    "description": "Jeff Foxworthy and Larry the Cable Guy bring you the best in great American comedy. You'll hear hilarious material from this dynamic duo as well as comedy from some of their personal favorite comedians.",
-    "genre": "Comedy",
-    "sxm_number": 97,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedyroundup.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "bluecollarcomedy",
-    "lookaround_channel_id": null
-  },
-  "bloomberg radio": {
-    "name": "Bloomberg Radio",
-    "description": "Bloomberg Radio is the world's only global 24-hour business radio station. Powered by more than 2700 journalists and analysts in more than 120 countries, Bloomberg Radio's resources are unparalleled. Because the financial markets never sleep, Bloomberg follows them around the globe.",
-    "genre": "News/Public Radio",
-    "sxm_number": 121,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bloombergradio.png",
-    "sxm_logo_src": "aem/b3/b3ebdbff033afd7576911b05383114b8_1724706265.jpeg",
-    "sxm_entity_id": "bloombergradio",
-    "lookaround_channel_id": "27adcf33-1681-9f00-2461-2129a2471abf"
-  },
-  "80s on 8": {
-    "name": "80s on 8",
-    "description": "80s pop hits from the MTV era! The decade when greed was good, hair was high and everyone learned what a music video was. Prince, Wham!, Madonna, Michael Jackson, Cyndi Lauper and Journey! They're all here and so are the original MTV VJs.",
-    "genre": "Pop",
-    "sxm_number": 8,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/80son8.png",
-    "sxm_logo_src": "aem/07/075dec8de68b7e0505f23b4925a16822_1699375895.jpeg",
-    "sxm_entity_id": "big80s",
-    "lookaround_channel_id": "2ea07147-a720-ed0c-d4ce-d7bddd1640d3"
-  },
-  "bbc world service": {
-    "name": "BBC World Service",
-    "description": "News as it breaks from around the world.",
-    "genre": "News/Public Radio",
-    "sxm_number": 120,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bbcworldservice.png",
-    "sxm_logo_src": "if/c7/c7b7884e099c3023a71732f3531791cd_1756410667.jpg",
-    "sxm_entity_id": "bbcworld",
-    "lookaround_channel_id": "93c1c9bd-3403-392c-9ae7-ae292b8bb052"
-  },
-  "alt nation": {
-    "name": "Alt Nation",
-    "description": "Connect with the latest & greatest from the biggest artists in modern alternative & discover the next phase of artists pushing the boundaries of alternative music. Each week catch the most popular alt tracks on the Alt18 Countdown, powered by Alt Nation listener votes, catch exclusive session performances and interviews from some of your favorite (and next favorite) artists, plus go next level with your alt music discovery on Alt Nation's weekly new music show, Advanced Placement!",
-    "genre": "Rock",
-    "sxm_number": 36,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/altnation.png",
-    "sxm_logo_src": "aem/97/97bfbc3f33fd14411f2429ebbdba77a2_1732039939.jpeg",
-    "sxm_entity_id": "altnation",
-    "lookaround_channel_id": "fd5740ec-7f11-0ecf-f676-46f9dc056d2c"
-  },
-  "little miss twain radio": {
-    "name": "Little Miss Twain Radio",
-    "description": "Celebrate the trailblazing career of Shania Twain & the release of her 7th studio album, with Little Miss Twain Radio. Hear the songs that made her a global legend, from country classics to crossover pop hits, along with memorable collaborations, music from artists she admires, and stories behind them all. Let's go girls!",
-    "genre": "Rock",
-    "sxm_number": 105,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/littlemisstwainradio.svg",
     "sxm_logo_src": "",
     "sxm_entity_id": "9674",
     "lookaround_channel_id": null
@@ -1156,7 +155,7 @@
   },
   "unwell music": {
     "name": "Unwell Music",
-    "description": "A music experience from Call Her Daddy host and Unwell founder Alex Cooper, featuring nostalgic throwbacks and trending hits along with stories from Alex and other Unwell hosts - a soundtrack that delivers the main character energy you deserve!",
+    "description": "override",
     "genre": "Pop",
     "sxm_number": 3,
     "seasonal": null,
@@ -1202,7 +201,7 @@
     "name": "Dateline 24/7",
     "description": "Listen to Dateline 24 hours a day, 7 days a week. Discover top true crime mysteries on the Dateline 24/7 channel.",
     "genre": "Entertainment",
-    "sxm_number": 107,
+    "sxm_number": 118,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/dateline247.png",
     "sxm_logo_src": "if/11/1199b27400573ca6967f13f375b09d8d_1756126385.png",
@@ -1488,7 +487,7 @@
     "name": "Hits Uno",
     "description": "From the SiriusXM studios in Miami, your new home for today's biggest Latin pop hits from around the globe! From pop to reggaeton, dance to viral LatinX hits, somos los exitos!",
     "genre": "Latino",
-    "sxm_number": 151,
+    "sxm_number": 148,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hitsuno.png",
     "sxm_logo_src": "if/59/5991badaf24632c398bffb82a0eb5bfc_1756126387.png",
@@ -1510,7 +509,7 @@
     "name": "Top of the Country Radio",
     "description": "The rich history of Canadian Country music finally has a home on Top of The Country Radio. A perfect blend of the songs you know and love from the '90s and 2000s all the way to emerging country superstars you're about to fall for. You'll hear Dallas Smith, Megan Patrick, Tenille Townes, Tim Hicks, Shania Twain and many more!",
     "genre": "Canadian",
-    "sxm_number": 171,
+    "sxm_number": 155,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/topofthecountryradio.png",
     "sxm_logo_src": "if/89/896578aa7ee53b078bf664e9ec4e7341_1756126372.png",
@@ -1521,7 +520,7 @@
     "name": "Racines Musicales",
     "description": "Be it Marcel Martel or Marie King, Lisa Leblanc or Elisapie, Les Soeurs Boulay or Kain, French Canada's rich history of homegrown music is to be found on Racines Musicales. Songs that come from the heart, by French and Indigenous artists. If it's Country, Folk, Cajun or Traditional music, you'll hear it here!",
     "genre": "Canadian",
-    "sxm_number": 166,
+    "sxm_number": 158,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/racinesmusicales.png",
     "sxm_logo_src": "if/c9/c933b3d28e4a35c1a89e1ea9e953ad3f_1756126390.png",
@@ -1532,7 +531,7 @@
     "name": "Mixtape: North",
     "description": "Playing the newest hits from Drake and Jesse Reyez to classic throwbacks from Kardinal Offishall and K-OS to the hottest emerging voices from the Canadian underground. Mixtape: North is the dopest mix of hip-hop and R&B.",
     "genre": "Canadian",
-    "sxm_number": 164,
+    "sxm_number": 153,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/mixtapenorth.png",
     "sxm_logo_src": "if/93/9325aa9a219233a185bfd5344bf7ebe8_1756126383.png",
@@ -1543,7 +542,7 @@
     "name": "Attitude Franco",
     "description": "All the rock attitude, whether commercial or alternative. From sacred icons like Offenbach and Corbeau to newcomers Corridor and Gazoline, if it's French rock, you'll hear it here!",
     "genre": "Canadian",
-    "sxm_number": 163,
+    "sxm_number": 157,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/attitudefranco.png",
     "sxm_logo_src": "if/17/177689966cb434f08146fcfee4c9e6f8_1756126371.png",
@@ -1682,8 +681,8 @@
     "sxm_entity_id": "9564",
     "lookaround_channel_id": "95179ecb-a419-71aa-f3e6-92f5c4db1f7f"
   },
-  "sports 205": {
-    "name": "Sports 205",
+  "sports 251": {
+    "name": "Sports 251",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -1748,13 +747,13 @@
     "sxm_entity_id": "9549",
     "lookaround_channel_id": "ecb0f19c-ea10-d4ce-0326-4e7477d16d5c"
   },
-  "little miss twain radio_510": {
-    "name": "Little Miss Twain Radio",
-    "description": "Celebrate the trailblazing career of Shania Twain & the release of her 7th studio album, with Little Miss Twain Radio. Hear the songs that made her a global legend, from country classics to crossover pop hits, along with memorable collaborations, music from artists she admires, and stories behind them all. Let's go girls!",
+  "limited edition 10": {
+    "name": "Limited Edition 10",
+    "description": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
     "genre": "Country",
     "sxm_number": 510,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/littlemisstwainradio510.svg",
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/limitededition10.png",
     "sxm_logo_src": "",
     "sxm_entity_id": "9548",
     "lookaround_channel_id": null
@@ -1781,13 +780,13 @@
     "sxm_entity_id": "9546",
     "lookaround_channel_id": "8fcd47c1-c56f-a906-871d-f8a6ca8d928d"
   },
-  "the beach boys channel": {
-    "name": "The Beach Boys Channel",
-    "description": "Playing sun-drenched songs from every phase of the group's decades-spanning career! It's all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California's coastline to the world. Their biggest hits plus hard-to-find rarities combine for a trip to the beach, without leaving home!",
+  "limited edition 2": {
+    "name": "Limited Edition 2",
+    "description": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
     "genre": "Pop",
     "sxm_number": 502,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thebeachboyschannel.svg",
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/limitededition2.png",
     "sxm_logo_src": "",
     "sxm_entity_id": "9545",
     "lookaround_channel_id": null
@@ -1935,22 +934,11 @@
     "sxm_entity_id": "9501",
     "lookaround_channel_id": "38e112ec-cc49-1802-1062-f9a64518d19b"
   },
-  "soulcycle radio": {
-    "name": "SoulCycle Radio",
-    "description": "There's a reason we ride to the rhythm as a pack. At SoulCycle, music is what connects us, moves us, and inspires us. So we designed this channel to deliver the same joy, motivation, and heart-pumping beat you expect from us in class-and then some. Whether you're in the car, walking to work, or dancing in your bedroom, turn it up for a transformative mind-body-soul experience.",
-    "genre": "Pop",
-    "sxm_number": 704,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/soulcycleradio.png",
-    "sxm_logo_src": "if/66/66cd9165c54231c9b831ebf64cb7417f_1756126389.png",
-    "sxm_entity_id": "9500",
-    "lookaround_channel_id": "6c535597-8e2b-5b54-968a-10cad277f43b"
-  },
   "netflix is a joke radio": {
     "name": "Netflix Is A Joke Radio",
     "description": "Netflix Is A Joke Radio is your 24-hour-a-day, ad-free home for the best of Netflix's stand-up comedy specials as well as talk shows like What a Joke With Papa and Fortune and original radio programming like Are You Still Listening. The channel features stand-up tracks from Netflix's exclusive comedy catalog of the world's top comedians, including Dave Chappelle, Chris Rock, Ellen DeGeneres, Gabriel Iglesias and Ronny Chieng.",
     "genre": "Comedy",
-    "sxm_number": 93,
+    "sxm_number": 105,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/netflixisajokeradio.png",
     "sxm_logo_src": "if/b6/b60f41e56d02344b9e56f2019455d9c2_1756126392.png",
@@ -1961,7 +949,7 @@
     "name": "ESPN Podcasts",
     "description": "Stay plugged into the pulse of sports with ESPN Podcasts, where bold voices and unforgettable stories bring fans closer to the action. From the unfiltered energy of The Pat McAfee Show to unparalleled insights from Schefter, Windhorst and Kimes (just to name a few), you'll always be the first to know what's happening across every league. Plus, with 30 for 30 Podcasts, experience the award-winning storytelling that takes you beyond the headlines and into the moments that changed sports forever.",
     "genre": "Sports",
-    "sxm_number": 370,
+    "sxm_number": 259,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/espnpodcasts.png",
     "sxm_logo_src": "if/d1/d17428ccd6aa34519438bb06e7d21779_1756126372.png",
@@ -2012,8 +1000,8 @@
     "sxm_entity_id": "9479",
     "lookaround_channel_id": "9f8d08b0-f6cb-b41f-e8ac-24990bd5352c"
   },
-  "sports 392": {
-    "name": "Sports 392",
+  "sports 273": {
+    "name": "Sports 273",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2038,7 +1026,7 @@
     "name": "Westwood One Sports",
     "description": "Home of the Jim Rome Show! Modern sports talk with diverse hosts where fans drive the conversation and smart betting insights add extra excitement!",
     "genre": "Sports",
-    "sxm_number": 375,
+    "sxm_number": 260,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/westwoodonesports.svg",
     "sxm_logo_src": "if/fc/fc9976401cc032d6ae97965187f478c2_1765945527.png",
@@ -2071,7 +1059,7 @@
     "name": "Kevin Hart's LOL Radio",
     "description": "Kevin Hart brings his Laugh Out Loud brand to radio with a huge stand-up comedy library and shows like Quake's House.",
     "genre": "Comedy",
-    "sxm_number": 96,
+    "sxm_number": 103,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/kevinhartslolradio.png",
     "sxm_logo_src": "",
@@ -2093,7 +1081,7 @@
     "name": "SiriusXM Big Ten Radio",
     "description": "Your home for Big Ten sports talk, analysis and live play-by-play, including football, men's and women's basketball, baseball, and softball.",
     "genre": "Sports",
-    "sxm_number": 372,
+    "sxm_number": 257,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmbigtenradio.png",
     "sxm_logo_src": "if/da/da05517abf113c688ad1a1a9b187ce49_1756126382.png",
@@ -2104,7 +1092,7 @@
     "name": "SiriusXM SEC Radio",
     "description": "Your home for SEC sports talk, analysis and live play-by-play, including football, men's and women's basketball, baseball, softball and men's and women's soccer.",
     "genre": "Sports",
-    "sxm_number": 374,
+    "sxm_number": 256,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmsecradio.png",
     "sxm_logo_src": "if/d3/d3bf9c08e2b33e62857b517bb5ff9c21_1756126386.png",
@@ -2115,7 +1103,7 @@
     "name": "SiriusXM ACC Radio",
     "description": "Your home for ACC sports talk, analysis and live play-by-play, including football, men's and women's basketball, baseball, softball and men's and women's soccer.",
     "genre": "Sports",
-    "sxm_number": 371,
+    "sxm_number": 258,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmaccradio.png",
     "sxm_logo_src": "if/a2/a234bb1347f834f1b6267a36cc3a1475_1756126378.png",
@@ -2159,7 +1147,7 @@
     "name": "VSiN",
     "description": "VSiN, The Sports Betting Network, is the place to go for non-stop action live from Las Vegas. Get the most credible and actionable sports betting information delivered in real time by expert hosts, pro bettors and sportsbook oddsmakers. If you can bet on it, we're talking about it. Make better-informed wagering decisions with help from VSiN's team, armed with exclusive analytics from VSiN.com. Home to Michael Lombardi, Mitch Moss, Pauly Howard, Gill Alexander, Stormy Buonantony, Adam Schein and John Hans",
     "genre": "Sports",
-    "sxm_number": 158,
+    "sxm_number": 189,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/vsin.png",
     "sxm_logo_src": "if/bf/bf77c1e0437034ea93663d553f66320e_1756126379.png",
@@ -2199,8 +1187,8 @@
     "sxm_entity_id": "9443",
     "lookaround_channel_id": "2f2237ba-4880-43e0-b173-3350b754391d"
   },
-  "sports 391": {
-    "name": "Sports 391",
+  "sports 272": {
+    "name": "Sports 272",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2210,8 +1198,8 @@
     "sxm_entity_id": "9441",
     "lookaround_channel_id": null
   },
-  "sports 390": {
-    "name": "Sports 390",
+  "sports 271": {
+    "name": "Sports 271",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2221,8 +1209,8 @@
     "sxm_entity_id": "9440",
     "lookaround_channel_id": null
   },
-  "sports 389": {
-    "name": "Sports 389",
+  "sports 270": {
+    "name": "Sports 270",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2232,8 +1220,8 @@
     "sxm_entity_id": "9439",
     "lookaround_channel_id": null
   },
-  "sports 388": {
-    "name": "Sports 388",
+  "sports 269": {
+    "name": "Sports 269",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2243,8 +1231,8 @@
     "sxm_entity_id": "9438",
     "lookaround_channel_id": null
   },
-  "sports 387": {
-    "name": "Sports 387",
+  "sports 268": {
+    "name": "Sports 268",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2254,8 +1242,8 @@
     "sxm_entity_id": "9437",
     "lookaround_channel_id": null
   },
-  "sports 386": {
-    "name": "Sports 386",
+  "sports 267": {
+    "name": "Sports 267",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2265,8 +1253,8 @@
     "sxm_entity_id": "9436",
     "lookaround_channel_id": null
   },
-  "sports 385": {
-    "name": "Sports 385",
+  "sports 266": {
+    "name": "Sports 266",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2276,8 +1264,8 @@
     "sxm_entity_id": "9435",
     "lookaround_channel_id": null
   },
-  "sports 384": {
-    "name": "Sports 384",
+  "sports 265": {
+    "name": "Sports 265",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2287,8 +1275,8 @@
     "sxm_entity_id": "9434",
     "lookaround_channel_id": null
   },
-  "sports 383": {
-    "name": "Sports 383",
+  "sports 264": {
+    "name": "Sports 264",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2298,8 +1286,8 @@
     "sxm_entity_id": "9433",
     "lookaround_channel_id": null
   },
-  "sports 382": {
-    "name": "Sports 382",
+  "sports 263": {
+    "name": "Sports 263",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2309,8 +1297,8 @@
     "sxm_entity_id": "9432",
     "lookaround_channel_id": null
   },
-  "sports 381": {
-    "name": "Sports 381",
+  "sports 262": {
+    "name": "Sports 262",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2320,8 +1308,8 @@
     "sxm_entity_id": "9431",
     "lookaround_channel_id": null
   },
-  "sports 380": {
-    "name": "Sports 380",
+  "sports 261": {
+    "name": "Sports 261",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -2329,28 +1317,6 @@
     "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9430",
-    "lookaround_channel_id": null
-  },
-  "big ten 959": {
-    "name": "Big Ten 959",
-    "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
-    "genre": "College Play-by-Play",
-    "sxm_number": 959,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bigten959.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9428",
-    "lookaround_channel_id": null
-  },
-  "big ten 958": {
-    "name": "Big Ten 958",
-    "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
-    "genre": "College Play-by-Play",
-    "sxm_number": 958,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bigten958.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9427",
     "lookaround_channel_id": null
   },
   "big ten 957": {
@@ -2361,49 +1327,71 @@
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bigten957.png",
     "sxm_logo_src": "",
-    "sxm_entity_id": "9426",
+    "sxm_entity_id": "9428",
     "lookaround_channel_id": null
   },
-  "acc 956": {
-    "name": "ACC 956",
-    "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+  "big ten 956": {
+    "name": "Big Ten 956",
+    "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": 956,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/acc956.png",
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9427",
+    "lookaround_channel_id": null
+  },
+  "big ten 955": {
+    "name": "Big Ten 955",
+    "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
+    "genre": "College Play-by-Play",
+    "sxm_number": 955,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9426",
+    "lookaround_channel_id": null
+  },
+  "acc 959": {
+    "name": "ACC 959",
+    "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "genre": "College Play-by-Play",
+    "sxm_number": 959,
+    "seasonal": null,
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9425",
     "lookaround_channel_id": null
   },
-  "acc 955": {
-    "name": "ACC 955",
+  "acc 958": {
+    "name": "ACC 958",
     "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 955,
+    "sxm_number": 958,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/acc955.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9424",
     "lookaround_channel_id": null
   },
-  "big 12 954": {
-    "name": "Big 12 954",
-    "description": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+  "acc 960": {
+    "name": "ACC 960",
+    "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 954,
+    "sxm_number": 960,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/big12954.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9423",
     "lookaround_channel_id": null
   },
-  "big 12 953": {
-    "name": "Big 12 953",
+  "big 12 962": {
+    "name": "Big 12 962",
     "description": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 953,
+    "sxm_number": 962,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/big12953.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9422",
     "lookaround_channel_id": null
@@ -2467,7 +1455,7 @@
     "name": "SLAM Radio",
     "description": "The first satellite radio station run by high school students, SLAM! Radio offers a unique perspective on sports talk, journalism, music, and more. SLAM! Radio broadcasts from the innovative SLAM! Charter High School in Miami, Florida. The station features sports news, music programming, in-depth sports analysis, documentaries, and interviews with top influencers. SLAM! Radio's programming is created by high school students, but it is for anyone eager for fresh points of view on interesting subjects.",
     "genre": "Canadian",
-    "sxm_number": 145,
+    "sxm_number": 167,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/slamradio.png",
     "sxm_logo_src": "if/b7/b773f74ffa99319a841b039ea2d33e97_1752177179.jpeg",
@@ -2489,7 +1477,7 @@
     "name": "Radio Andy",
     "description": "This is Andy Cohen's universe, spanning pop culture, music, news, and so much more. Hear unbelievable moments play out live on air, plus news-making interviews, and unfiltered points of view. We can promise you that Radio Andy is always entertaining, and always unpredictable.",
     "genre": "Entertainment",
-    "sxm_number": 102,
+    "sxm_number": 101,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/radioandy.png",
     "sxm_logo_src": "if/de/de34a9f70d493a0aa40db328305cefc9_1767036033.png",
@@ -2500,7 +1488,7 @@
     "name": "Comedy Greats",
     "description": "Comedy Greats plays the best material from the biggest names - from classic comedians of the past to the icons of today. You'll hear comedy legends like Eddie Murphy, Joan Rivers, Kevin Hart, Dave Attell, Sarah Silverman, Jim Gaffigan and more!",
     "genre": "Comedy",
-    "sxm_number": 94,
+    "sxm_number": 108,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedygreats.png",
     "sxm_logo_src": "if/de/de7bbc7fd8c73ffeb3d786f585a536c4_1751897271.png",
@@ -2551,13 +1539,13 @@
     "sxm_entity_id": "9403",
     "lookaround_channel_id": null
   },
-  "limited edition 8": {
-    "name": "Limited Edition 8",
-    "description": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+  "earth, wind & fire radio": {
+    "name": "Earth, Wind & Fire Radio",
+    "description": "With over 90 million records sold worldwide, Earth, Wind & Fire ranks among the best-selling music artists of all time. Their impact spans R&B, soul, jazz, funk, disco, pop, Latin and Afro-pop. Celebrate the genre-bending hits and anthems that we've been grooving to for over fifty years. Hear stories and memories from group members Philip Bailey, Verdine White, and Ralph Johnson, as they reflect on their iconic career - and it all starts, of course, on September 1st!",
     "genre": "Hip-Hop/R&B",
     "sxm_number": 508,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/limitededition8.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9402",
     "lookaround_channel_id": null
@@ -2630,9 +1618,9 @@
   },
   "today show radio": {
     "name": "TODAY Show Radio",
-    "description": "Your favorite morning television team is on SiriusXM! NBC's TODAY Show with Savannah Guthrie, Craig Melvin and Al Roker LIVE from Rockefeller Center. After you watch, listen for extra news, entertainment and inspiration with TODAY anchors, contributors, producers and more. It's the TODAY Show - on the go!",
+    "description": "Your favorite morning television team is on SiriusXM! NBC's TODAY Show with Savannah Guthrie, Hoda Kotb and Al Roker LIVE from Rockefeller Center. After you watch, listen for extra news, entertainment and inspiration with TODAY anchors, contributors, producers and more. It's the TODAY Show - on the go!",
     "genre": "Entertainment",
-    "sxm_number": 108,
+    "sxm_number": 110,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/todayshowradio.png",
     "sxm_logo_src": "if/b1/b1d156a22468345ab3eb4b0a44743b80_1771617865.jpg",
@@ -2676,7 +1664,7 @@
     "name": "RURAL Radio",
     "description": "A national radio network for rural America and Canada, featuring agriculture news and the rural lifestyle.",
     "genre": "News/Public Radio",
-    "sxm_number": 147,
+    "sxm_number": 143,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/ruralradio.png",
     "sxm_logo_src": "if/35/3586229370b23dec846e1d9ca23f3656_1771423799.png",
@@ -2731,7 +1719,7 @@
     "name": "The Indigiverse",
     "description": "Welcome to the Indigiverse! Music, news and views from Turtle Island! You'll hear artists like William Prince, A Tribe Called Red, Riit and Snotty Nose Rez Kids, and hosts Kim Wheeler and Kaylen Belair.",
     "genre": "Canadian",
-    "sxm_number": 165,
+    "sxm_number": 159,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/theindigiverse.png",
     "sxm_logo_src": "aem/de/def9dad39ef20baf8090f856b55eb6f0_1699375665.jpeg",
@@ -2742,7 +1730,7 @@
     "name": "Comedy Central Radio",
     "description": "The go-to comedy source dishes out uncensored stand-up from their massive library, as well as cutting-edge original content. Hear stand up specials, Roast Week, comedian takeovers and more. With the freshest talent and the biggest names, Comedy Central Radio is guaranteed to beam uncut comedy directly to your brain.",
     "genre": "Comedy",
-    "sxm_number": 95,
+    "sxm_number": 107,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedycentralradio.png",
     "sxm_logo_src": "if/26/269e7777e004373fb2a716e3a90acb63_1751897190.png",
@@ -2775,7 +1763,7 @@
     "name": "SiriusXM FC",
     "description": "SiriusXM FC is dedicated entirely to the world's most popular sport, soccer. The channel features an extensive schedule of live matches from the Premier League, Major League Soccer, UEFA Champions League and the FA Cup. Plus, hear a daily lineup of soccer talk programming hosted by former players and coaches including Ray Hudson, Tony Meola, and Rodney Marsh.",
     "genre": "Sports",
-    "sxm_number": 157,
+    "sxm_number": 188,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmfc.png",
     "sxm_logo_src": "aem/1f/1f02078c905fcff92c3fff51c5cf3a00_1732040028.jpeg",
@@ -4014,46 +3002,46 @@
     "sxm_entity_id": "9224",
     "lookaround_channel_id": null
   },
-  "sec 960": {
-    "name": "SEC 960",
+  "sec 952": {
+    "name": "SEC 952",
     "description": "Your home for live play-by-play of SEC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 960,
+    "sxm_number": 952,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/sec960.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9223",
     "lookaround_channel_id": null
   },
-  "sec 962": {
-    "name": "SEC 962",
+  "sec 954": {
+    "name": "SEC 954",
     "description": "Your home for live play-by-play of SEC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 962,
+    "sxm_number": 954,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/sec962.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9222",
     "lookaround_channel_id": null
   },
-  "sec 961": {
-    "name": "SEC 961",
+  "sec 953": {
+    "name": "SEC 953",
     "description": "Your home for live play-by-play of SEC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 961,
+    "sxm_number": 953,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/sec961.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9221",
     "lookaround_channel_id": null
   },
-  "big 12 952": {
-    "name": "Big 12 952",
+  "big 12 961": {
+    "name": "Big 12 961",
     "description": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
     "genre": "College Play-by-Play",
-    "sxm_number": 952,
+    "sxm_number": 961,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/big12952.png",
+    "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "9220",
     "lookaround_channel_id": null
@@ -4256,17 +3244,6 @@
     "sxm_entity_id": "9190",
     "lookaround_channel_id": "44028691-9505-d523-3d98-1a58fd12b9a7"
   },
-  "luna": {
-    "name": "Luna",
-    "description": "Latin percussion and Afro Cuban rhythms mixed with some bopping Jazz. It's burning hot Latin Jazz!",
-    "genre": "Latino",
-    "sxm_number": 766,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/luna.png",
-    "sxm_logo_src": "if/d0/d0b597ee99ec3b9f975c139fc4f0e651_1740160164.jpg",
-    "sxm_entity_id": "9189",
-    "lookaround_channel_id": "f9f80eb9-a253-6e02-8fc8-33fa6ba69bd4"
-  },
   "caricia": {
     "name": "Caricia",
     "description": "A nostalgic love trip from the 50s to the 80s, featuring classic romantic songs and ballads in both Spanish and English.",
@@ -4293,7 +3270,7 @@
     "name": "Águila",
     "description": "Today's top música Mexicana artists in Banda, Norteño, Mariachi, Rancheras, Sierreño, Grupero and Cumbia. The traditional sounds of Mexico, iconic and new!",
     "genre": "Latino",
-    "sxm_number": 153,
+    "sxm_number": 150,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/aguila.png",
     "sxm_logo_src": "if/a2/a2907c37ebd03aa598a1772fc8265e59_1758321812.jpg",
@@ -4337,7 +3314,7 @@
     "name": "Canada Talks",
     "description": "Current affairs and talk programming related to all aspects of Canadian life including business and the economy, politics, entertainment, lifestyle, health, sports analysis and play by play. Coast to coast Canadian talk radio with the topics and personalities that bring all corners of the country together. Canada Talks - and Canadians listen.",
     "genre": "Canadian",
-    "sxm_number": 167,
+    "sxm_number": 160,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/canadatalks.png",
     "sxm_logo_src": "aem/0c/0c6530571f92fd086421864bb5347b15_1699375936.jpeg",
@@ -4656,7 +3633,7 @@
     "name": "En Vivo",
     "description": "Where music is born! En Vivo is the official satellite radio channel of the Latin Grammys, bringing the best in live entertainment and new music.",
     "genre": "Latino",
-    "sxm_number": 154,
+    "sxm_number": 151,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/envivo.png",
     "sxm_logo_src": "aem/cc/cc17a2b8df669603574e86e00dddbe41_1699375841.jpeg",
@@ -4667,7 +3644,7 @@
     "name": "Latin Vault",
     "description": "Revisit the sounds and rich history of music pioneers from the 50's, 60's, 70's, and early 80's the decades that shaped the Latin music landscape as it is today.",
     "genre": "Latino",
-    "sxm_number": 155,
+    "sxm_number": 152,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/latinvault.png",
     "sxm_logo_src": "aem/2a/2a6b3fa1f7816ca7bc3c81e5772d9885_1699419929.jpeg",
@@ -4678,7 +3655,7 @@
     "name": "Holy Culture Radio",
     "description": "Holy Culture Radio is your home for everything Christian Hip-Hop and R&P. From introducing upcoming artists to discussions about faith, arts, vocation, and education with legends in the industry and more, Holy Culture is tapping into CHH like nobody else! Plus, Holy Culture has got some of the best DJs and hosts playing music from back in the day all the way to the newest tracks dropping today.",
     "genre": "Christian",
-    "sxm_number": 140,
+    "sxm_number": 168,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/holycultureradio.png",
     "sxm_logo_src": "aem/10/1029564729a3308c694c4e2044e7843c_1699376064.jpeg",
@@ -4689,7 +3666,7 @@
     "name": "Korea Today",
     "description": "Get access to the best Korean content 24-hours-per-day on Korea Today Satellite Radio. Enjoy a variety of music (pop, classical, folk), global, local and entertainment news, talk shows, sports radio, and cultural programs. Korea Today's content is fresh and comes directly from Korea. Korea Today features the best of Korean radio from multiple sources to provide the most interesting and entertaining programs for our audience.",
     "genre": "Entertainment",
-    "sxm_number": 144,
+    "sxm_number": 163,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/koreatoday.png",
     "sxm_logo_src": "aem/0b/0b851c8dc0410b198c2913e82027510f_1699375325.jpeg",
@@ -4700,7 +3677,7 @@
     "name": "BYUradio",
     "description": "BYUradio provides fresh, fun and informative radio programming for audiences of all ages. Whether you're looking for engaging conversations (The Lisa Show), deep dives on current events (Top of Mind with Julie Rose), explorations on the world around you (Constant Wonder), or the best in storytelling (The Apple Seed), BYUradio has something for every member of the family.",
     "genre": "News/Public Radio",
-    "sxm_number": 143,
+    "sxm_number": 166,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/byuradio.png",
     "sxm_logo_src": "aem/8d/8d644a979154e7a1bc808dfa412771a1_1699375940.jpeg",
@@ -4711,7 +3688,7 @@
     "name": "HBCU",
     "description": "HBCU is a collective blend of programming from Historically Black Colleges and Universities and offers a unique look into the black college experience. It bridges the gap between alumni, current and prospective students through information and entertainment. HBCU is a resource for students and faculty of each institution to work together to educate and empower. The management and delivery of programming is provided by Howard University's Radio Network, located on the university campus.",
     "genre": "Entertainment",
-    "sxm_number": 142,
+    "sxm_number": 165,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hbcu.png",
     "sxm_logo_src": "aem/bd/bdcce534ca456d8144a07b4efb702b50_1699375546.jpeg",
@@ -4722,7 +3699,7 @@
     "name": "HUR Voices",
     "description": "HUR Voices is real talk with real music for and from the people. HUR Voices is talk with a purpose that examines and explores issues that affect people of color, and music that combines new and classic soul with R&B for listener enjoyment. HUR Voices programming embodies the mission of Howard University which is to provide 'America and the Global Community' with excellence, leadership, truth and service. Managed by WHUR 96.3 FM, Howard University.",
     "genre": "Hip-Hop/R&B",
-    "sxm_number": 141,
+    "sxm_number": 164,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hurvoices.png",
     "sxm_logo_src": "aem/1f/1f533bd15c1ead1c8c16b6b11f7fdb92_1699375225.jpeg",
@@ -4777,7 +3754,7 @@
     "name": "MS NOW",
     "description": "MS NOW is a premier destination for breaking news and best-in-class opinion journalism, reaching diverse audiences across cable, online, social, and audio. MS NOW is an essential part of millions of Americans' daily lives, commanding one of the most engaged audiences across all of television with the average viewer watching for more than eight hours each week.",
     "genre": "News/Public Radio",
-    "sxm_number": 118,
+    "sxm_number": 117,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/msnow.png",
     "sxm_logo_src": "if/e5/e583b6b1e50a3407a7db28845b21d830_1762274454.png",
@@ -4795,8 +3772,8 @@
     "sxm_entity_id": "8333",
     "lookaround_channel_id": null
   },
-  "big 12 198": {
-    "name": "Big 12 198",
+  "big 12 237": {
+    "name": "Big 12 237",
     "description": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -4806,8 +3783,8 @@
     "sxm_entity_id": "8332",
     "lookaround_channel_id": null
   },
-  "big ten 197": {
-    "name": "Big Ten 197",
+  "big ten 233": {
+    "name": "Big Ten 233",
     "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -4817,8 +3794,8 @@
     "sxm_entity_id": "8331",
     "lookaround_channel_id": null
   },
-  "big ten 196": {
-    "name": "Big Ten 196",
+  "big ten 232": {
+    "name": "Big Ten 232",
     "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -4828,8 +3805,8 @@
     "sxm_entity_id": "8330",
     "lookaround_channel_id": null
   },
-  "nba 217": {
-    "name": "NBA 217",
+  "nba 222": {
+    "name": "NBA 222",
     "description": "Live NBA play-by-play all season long.",
     "genre": "NBA Play-by-Play",
     "sxm_number": null,
@@ -4839,8 +3816,8 @@
     "sxm_entity_id": "8329",
     "lookaround_channel_id": null
   },
-  "sports 204": {
-    "name": "Sports 204",
+  "sports 250": {
+    "name": "Sports 250",
     "description": "Play-by-Play of live sporting events, including NCAA, NFL, NBA, NHL games and more.",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -4850,8 +3827,8 @@
     "sxm_entity_id": "8327",
     "lookaround_channel_id": null
   },
-  "nfl 234": {
-    "name": "NFL 234",
+  "nfl 201": {
+    "name": "NFL 201",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4861,8 +3838,8 @@
     "sxm_entity_id": "8326",
     "lookaround_channel_id": null
   },
-  "nfl 233": {
-    "name": "NFL 233",
+  "nfl 200": {
+    "name": "NFL 200",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4872,8 +3849,8 @@
     "sxm_entity_id": "8325",
     "lookaround_channel_id": null
   },
-  "nfl 232": {
-    "name": "NFL 232",
+  "nfl 199": {
+    "name": "NFL 199",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4883,8 +3860,8 @@
     "sxm_entity_id": "8324",
     "lookaround_channel_id": null
   },
-  "nfl 231": {
-    "name": "NFL 231",
+  "nfl 198": {
+    "name": "NFL 198",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4894,8 +3871,8 @@
     "sxm_entity_id": "8323",
     "lookaround_channel_id": null
   },
-  "nfl 230": {
-    "name": "NFL 230",
+  "nfl 197": {
+    "name": "NFL 197",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4905,8 +3882,8 @@
     "sxm_entity_id": "8322",
     "lookaround_channel_id": null
   },
-  "nfl 229": {
-    "name": "NFL 229",
+  "nfl 196": {
+    "name": "NFL 196",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4916,8 +3893,8 @@
     "sxm_entity_id": "8321",
     "lookaround_channel_id": null
   },
-  "nfl 228": {
-    "name": "NFL 228",
+  "nfl 195": {
+    "name": "NFL 195",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4927,8 +3904,8 @@
     "sxm_entity_id": "8320",
     "lookaround_channel_id": null
   },
-  "nfl 227": {
-    "name": "NFL 227",
+  "nfl 194": {
+    "name": "NFL 194",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4938,8 +3915,8 @@
     "sxm_entity_id": "8319",
     "lookaround_channel_id": null
   },
-  "nfl 226": {
-    "name": "NFL 226",
+  "nfl 193": {
+    "name": "NFL 193",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4949,8 +3926,8 @@
     "sxm_entity_id": "8318",
     "lookaround_channel_id": null
   },
-  "nfl 225": {
-    "name": "NFL 225",
+  "nfl 192": {
+    "name": "NFL 192",
     "description": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "genre": "NFL Play-by-Play",
     "sxm_number": null,
@@ -4960,8 +3937,8 @@
     "sxm_entity_id": "8317",
     "lookaround_channel_id": null
   },
-  "sports 206": {
-    "name": "Sports 206",
+  "sports 252": {
+    "name": "Sports 252",
     "description": "Home of the The Jim Rome Show, plus live sports play-by-play.",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -4971,8 +3948,8 @@
     "sxm_entity_id": "8315",
     "lookaround_channel_id": null
   },
-  "sports 207": {
-    "name": "Sports 207",
+  "sports 253": {
+    "name": "Sports 253",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -4993,8 +3970,8 @@
     "sxm_entity_id": "8307",
     "lookaround_channel_id": "a078936b-043a-868c-3def-233ac0e49853"
   },
-  "nba 216": {
-    "name": "NBA 216",
+  "nba 221": {
+    "name": "NBA 221",
     "description": "Live NBA play-by-play all season long.",
     "genre": "NBA Play-by-Play",
     "sxm_number": null,
@@ -5004,8 +3981,8 @@
     "sxm_entity_id": "8306",
     "lookaround_channel_id": null
   },
-  "nba 215": {
-    "name": "NBA 215",
+  "nba 220": {
+    "name": "NBA 220",
     "description": "Live NBA play-by-play all season long.",
     "genre": "NBA Play-by-Play",
     "sxm_number": null,
@@ -5015,8 +3992,8 @@
     "sxm_entity_id": "8305",
     "lookaround_channel_id": null
   },
-  "nba 214": {
-    "name": "NBA 214",
+  "nba 219": {
+    "name": "NBA 219",
     "description": "Live NBA play-by-play all season long.",
     "genre": "NBA Play-by-Play",
     "sxm_number": null,
@@ -5026,8 +4003,8 @@
     "sxm_entity_id": "8304",
     "lookaround_channel_id": null
   },
-  "nba 213": {
-    "name": "NBA 213",
+  "nba 218": {
+    "name": "NBA 218",
     "description": "Live NBA play-by-play all season long.",
     "genre": "NBA Play-by-Play",
     "sxm_number": null,
@@ -5037,8 +4014,8 @@
     "sxm_entity_id": "8303",
     "lookaround_channel_id": null
   },
-  "nba 212": {
-    "name": "NBA 212",
+  "nba 217": {
+    "name": "NBA 217",
     "description": "Live NBA play-by-play all season long.",
     "genre": "NBA Play-by-Play",
     "sxm_number": null,
@@ -5048,8 +4025,8 @@
     "sxm_entity_id": "8302",
     "lookaround_channel_id": null
   },
-  "sports 202": {
-    "name": "Sports 202",
+  "sports 248": {
+    "name": "Sports 248",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -5057,6 +4034,50 @@
     "logo_url": "",
     "sxm_logo_src": "",
     "sxm_entity_id": "8301",
+    "lookaround_channel_id": null
+  },
+  "nhl 227": {
+    "name": "NHL 227",
+    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
+    "genre": "NHL Play-by-Play",
+    "sxm_number": null,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "8295",
+    "lookaround_channel_id": null
+  },
+  "nhl 226": {
+    "name": "NHL 226",
+    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
+    "genre": "NHL Play-by-Play",
+    "sxm_number": null,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "8294",
+    "lookaround_channel_id": null
+  },
+  "nhl 225": {
+    "name": "NHL 225",
+    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
+    "genre": "NHL Play-by-Play",
+    "sxm_number": null,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "8293",
+    "lookaround_channel_id": null
+  },
+  "nhl 224": {
+    "name": "NHL 224",
+    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
+    "genre": "NHL Play-by-Play",
+    "sxm_number": null,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "8292",
     "lookaround_channel_id": null
   },
   "nhl 223": {
@@ -5067,55 +4088,11 @@
     "seasonal": null,
     "logo_url": "",
     "sxm_logo_src": "",
-    "sxm_entity_id": "8295",
-    "lookaround_channel_id": null
-  },
-  "nhl 222": {
-    "name": "NHL 222",
-    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
-    "genre": "NHL Play-by-Play",
-    "sxm_number": null,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "8294",
-    "lookaround_channel_id": null
-  },
-  "nhl 221": {
-    "name": "NHL 221",
-    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
-    "genre": "NHL Play-by-Play",
-    "sxm_number": null,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "8293",
-    "lookaround_channel_id": null
-  },
-  "nhl 220": {
-    "name": "NHL 220",
-    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
-    "genre": "NHL Play-by-Play",
-    "sxm_number": null,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "8292",
-    "lookaround_channel_id": null
-  },
-  "nhl 219": {
-    "name": "NHL 219",
-    "description": "Every Team. Everywhere. The Satellite Radio Home of the NHL®.",
-    "genre": "NHL Play-by-Play",
-    "sxm_number": null,
-    "seasonal": null,
-    "logo_url": "",
-    "sxm_logo_src": "",
     "sxm_entity_id": "8291",
     "lookaround_channel_id": null
   },
-  "sports 203": {
-    "name": "Sports 203",
+  "sports 249": {
+    "name": "Sports 249",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -5125,8 +4102,8 @@
     "sxm_entity_id": "8290",
     "lookaround_channel_id": null
   },
-  "sec 192": {
-    "name": "SEC 192",
+  "sec 230": {
+    "name": "SEC 230",
     "description": "Your home for live play-by-play of SEC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5136,8 +4113,8 @@
     "sxm_entity_id": "8289",
     "lookaround_channel_id": null
   },
-  "sec 191": {
-    "name": "SEC 191",
+  "sec 229": {
+    "name": "SEC 229",
     "description": "Your home for live play-by-play of SEC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5147,8 +4124,8 @@
     "sxm_entity_id": "8288",
     "lookaround_channel_id": null
   },
-  "sec 190": {
-    "name": "SEC 190",
+  "sec 228": {
+    "name": "SEC 228",
     "description": "Your home for live play-by-play of SEC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5158,8 +4135,8 @@
     "sxm_entity_id": "8287",
     "lookaround_channel_id": null
   },
-  "big ten 195": {
-    "name": "Big Ten 195",
+  "big ten 231": {
+    "name": "Big Ten 231",
     "description": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5169,8 +4146,8 @@
     "sxm_entity_id": "8286",
     "lookaround_channel_id": null
   },
-  "acc 194": {
-    "name": "ACC 194",
+  "acc 235": {
+    "name": "ACC 235",
     "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5180,8 +4157,8 @@
     "sxm_entity_id": "8285",
     "lookaround_channel_id": null
   },
-  "acc 193": {
-    "name": "ACC 193",
+  "acc 234": {
+    "name": "ACC 234",
     "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5191,8 +4168,8 @@
     "sxm_entity_id": "8284",
     "lookaround_channel_id": null
   },
-  "sports 201": {
-    "name": "Sports 201",
+  "sports 247": {
+    "name": "Sports 247",
     "description": "Live play-by-play of sports",
     "genre": "Sports Play-by-Play",
     "sxm_number": null,
@@ -5202,9 +4179,9 @@
     "sxm_entity_id": "8283",
     "lookaround_channel_id": null
   },
-  "big 12 200": {
-    "name": "Big 12 200",
-    "description": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+  "acc 236": {
+    "name": "ACC 236",
+    "description": "Your home for live play-by-play of ACC sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
     "seasonal": null,
@@ -5213,8 +4190,8 @@
     "sxm_entity_id": "8282",
     "lookaround_channel_id": null
   },
-  "big 12 199": {
-    "name": "Big 12 199",
+  "big 12 238": {
+    "name": "Big 12 238",
     "description": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
     "genre": "College Play-by-Play",
     "sxm_number": null,
@@ -5224,8 +4201,8 @@
     "sxm_entity_id": "8281",
     "lookaround_channel_id": null
   },
-  "mlb 189": {
-    "name": "MLB 189",
+  "mlb 216": {
+    "name": "MLB 216",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5235,8 +4212,8 @@
     "sxm_entity_id": "8280",
     "lookaround_channel_id": null
   },
-  "mlb 188": {
-    "name": "MLB 188",
+  "mlb 215": {
+    "name": "MLB 215",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5246,8 +4223,8 @@
     "sxm_entity_id": "8279",
     "lookaround_channel_id": null
   },
-  "mlb 187": {
-    "name": "MLB 187",
+  "mlb 214": {
+    "name": "MLB 214",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5257,8 +4234,8 @@
     "sxm_entity_id": "8278",
     "lookaround_channel_id": null
   },
-  "mlb 186": {
-    "name": "MLB 186",
+  "mlb 213": {
+    "name": "MLB 213",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5268,8 +4245,8 @@
     "sxm_entity_id": "8277",
     "lookaround_channel_id": null
   },
-  "mlb 185": {
-    "name": "MLB 185",
+  "mlb 212": {
+    "name": "MLB 212",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5279,8 +4256,8 @@
     "sxm_entity_id": "8276",
     "lookaround_channel_id": null
   },
-  "mlb 184": {
-    "name": "MLB 184",
+  "mlb 211": {
+    "name": "MLB 211",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5290,8 +4267,8 @@
     "sxm_entity_id": "8275",
     "lookaround_channel_id": null
   },
-  "mlb 183": {
-    "name": "MLB 183",
+  "mlb 210": {
+    "name": "MLB 210",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5301,8 +4278,8 @@
     "sxm_entity_id": "8274",
     "lookaround_channel_id": null
   },
-  "mlb 182": {
-    "name": "MLB 182",
+  "mlb 209": {
+    "name": "MLB 209",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5312,8 +4289,8 @@
     "sxm_entity_id": "8273",
     "lookaround_channel_id": null
   },
-  "mlb 181": {
-    "name": "MLB 181",
+  "mlb 208": {
+    "name": "MLB 208",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5323,8 +4300,8 @@
     "sxm_entity_id": "8272",
     "lookaround_channel_id": null
   },
-  "mlb 180": {
-    "name": "MLB 180",
+  "mlb 207": {
+    "name": "MLB 207",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5334,8 +4311,8 @@
     "sxm_entity_id": "8271",
     "lookaround_channel_id": null
   },
-  "mlb 179": {
-    "name": "MLB 179",
+  "mlb 206": {
+    "name": "MLB 206",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5345,8 +4322,8 @@
     "sxm_entity_id": "8270",
     "lookaround_channel_id": null
   },
-  "mlb 178": {
-    "name": "MLB 178",
+  "mlb 205": {
+    "name": "MLB 205",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5356,8 +4333,8 @@
     "sxm_entity_id": "8269",
     "lookaround_channel_id": null
   },
-  "mlb 177": {
-    "name": "MLB 177",
+  "mlb 204": {
+    "name": "MLB 204",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5367,8 +4344,8 @@
     "sxm_entity_id": "8268",
     "lookaround_channel_id": null
   },
-  "mlb 176": {
-    "name": "MLB 176",
+  "mlb 203": {
+    "name": "MLB 203",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5378,8 +4355,8 @@
     "sxm_entity_id": "8267",
     "lookaround_channel_id": null
   },
-  "mlb 175": {
-    "name": "MLB 175",
+  "mlb 202": {
+    "name": "MLB 202",
     "description": "One of 15 Major League Baseball® play-by-play channels.",
     "genre": "MLB Play-by-Play",
     "sxm_number": null,
@@ -5393,7 +4370,7 @@
     "name": "SiriusXM Comedy Club",
     "description": "The SiriusXM Comedy Club is the ultimate comedy listening experience. From emerging talent to big names, it's non-stop uncensored laughs from Canada's best like Steph Tolev, Russell Peters, K Trevor Wilson and more.",
     "genre": "Comedy",
-    "sxm_number": 168,
+    "sxm_number": 139,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmcomedyclub.png",
     "sxm_logo_src": "aem/d5/d5b491c1aa2d6fea803f4f7ed3c7bbd3_1707847417.jpeg",
@@ -5404,7 +4381,7 @@
     "name": "SiriusXM INDYCAR Nation",
     "description": "SiriusXM's home for all things NTT INDYCAR Series. From heart-pounding play-by-play of every race to weekly talk shows and specials with the legends of the sport, SiriusXM INDYCAR Nation has you covered from the green flag to the checkered flag.",
     "genre": "Sports Play-by-Play",
-    "sxm_number": 218,
+    "sxm_number": 190,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmindycarnation.png",
     "sxm_logo_src": "aem/f9/f9bd1867285b1690c491ae672ad7979e_1715635385.jpeg",
@@ -5422,22 +4399,22 @@
     "sxm_entity_id": "8254",
     "lookaround_channel_id": "e253bdca-601f-2b68-52fc-3f6a9fa33bb9"
   },
-  "siriusxm scoreboard": {
-    "name": "SiriusXM Scoreboard",
-    "description": "Final sports scores every 10 minutes, along with news, notes, and information from all your favorite sporting events, including NFL, NHL, NBA, and MLB. Get caught up on all the scores and action from all around the world, 24/7, including up-to-date information and interviews from all SiriusXM sports channels, all in a tight 10 minute wheel.",
+  "siriusxm sports schedule": {
+    "name": "SiriusXM Sports Schedule",
+    "description": "Find your favorite team, and today's biggest games, on SiriusXM. Every 10 minutes, hear the full NFL, MLB, NBA and NHL schedule, plus top college sports and soccer matchups. It's the day in SiriusXM sports on the SiriusXM Sports Schedule channel.",
     "genre": "Canadian",
-    "sxm_number": 172,
+    "sxm_number": 191,
     "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmscoreboard.png",
-    "sxm_logo_src": "aem/ba/bae2d5ddb9efc4ecaec2c6081486c27e_1732040028.jpeg",
+    "logo_url": "",
+    "sxm_logo_src": "",
     "sxm_entity_id": "8248",
-    "lookaround_channel_id": "270b52d0-fde5-2372-6e48-e890fbac3d14"
+    "lookaround_channel_id": null
   },
   "influence franco": {
     "name": "Influence Franco",
     "description": "Whether they're written for the street of for the clubs, urban music has seen its audience grow in the past decades. Since L'école du micro d'argent by IAM, French artists have been at it, creating original, unique and upbeat songs. Hear the best new releases from the likes of Loud, Stromae and Sarahmée to classics from Muzion and Dubmatique without missing a beat from the hottest club hits, Influence Franco is your one stop for everything rap and danse in French.",
     "genre": "Canadian",
-    "sxm_number": 174,
+    "sxm_number": 145,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/influencefranco.png",
     "sxm_logo_src": "aem/a4/a4411b85983d021cb2a678c7abc42ac0_1699375636.jpeg",
@@ -5448,7 +4425,7 @@
     "name": "The Verge",
     "description": "Discover new and emerging Canadian indie & alternative artists. Learn more about new artists through live in-studio performances, exclusive concerts broadcast live to air & more.",
     "genre": "Canadian",
-    "sxm_number": 173,
+    "sxm_number": 154,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/theverge.png",
     "sxm_logo_src": "aem/77/77ffc216030bf5daa59b05e68f3d0bf5_1699375621.jpeg",
@@ -5459,7 +4436,7 @@
     "name": "PRX Remix",
     "description": "Creative showcase for the best documentaries, stories, and audio pieces from indie producers and new voices within and beyond public radio.",
     "genre": "News/Public Radio",
-    "sxm_number": 119,
+    "sxm_number": 141,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/prxremix.png",
     "sxm_logo_src": "aem/b0/b0f6fa33d96af24406fecb750fa3a4f1_1699375836.jpeg",
@@ -5503,7 +4480,7 @@
     "name": "Bill Gaither's enLighten",
     "description": "Uplifting, harmony-driven Gospel music with stories, inspiration and hope from iconic singer/songwriter Bill Gaither. Plus music from The GVB, Booth Brothers, Jeff & Sheri Easter, Karen Peck & New River, Greater Vision & more.",
     "genre": "Christian",
-    "sxm_number": 150,
+    "sxm_number": 147,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/billgaithersenlighten.png",
     "sxm_logo_src": "if/b3/b388c406ca6930cba3ad840af7b98a2b_1765947604.jpg",
@@ -5558,7 +4535,7 @@
     "name": "Escape",
     "description": "Whenever you listen, you'll always hear the world's most beautiful easy listening music...great melodies that you can hum along to!",
     "genre": "Jazz/Standards/Classical",
-    "sxm_number": 149,
+    "sxm_number": 146,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/escape.png",
     "sxm_logo_src": "aem/8f/8f5ac49597603d5c923186302f11a11f_1699375963.jpeg",
@@ -5567,7 +4544,7 @@
   },
   "mad dog sports radio": {
     "name": "Mad Dog Sports Radio",
-    "description": "Christopher 'Mad Dog' Russo, Adam Schein, Damon Amendolara, Mike Babchik & more talk about the world of sports.",
+    "description": "Christopher 'Mad Dog' Russo, Adam Schein, Mike Babchik & more talk about the world of sports.",
     "genre": "Sports",
     "sxm_number": 82,
     "seasonal": null,
@@ -5600,7 +4577,7 @@
   },
   "90s on 9": {
     "name": "90s on 9",
-    "description": "If it was 'all that' in the 90s, it's on 90s on 9. Get jiggy with the hottest 90s music from boy bands to pop queens, grunge rock, hip-hop and R&B with artists like Mariah Carey, Backstreet Boys, TLC, Green Day, Alanis Morissette, Boyz II Men, Aerosmith, Britney Spears and more. Hosted by legendary personalities Downtown Julie Brown, singer/songwriter Lisa Loeb and Sugar Ray's Mark McGrath.",
+    "description": "If it was 'all that' in the 90s, it's on 90s on 9. Get jiggy with the hottest 90s music from boy bands to pop queens, grunge rock, hip-hop and R&B with artists like Mariah Carey, Backstreet Boys, TLC, Green Day, Alanis Morissette, Boyz II Men, Aerosmith, Britney Spears and more. Hosted by former MTV VJ Downtown Julie Brown, singer/songwriter Lisa Loeb and Sugar Ray's Mark McGrath.",
     "genre": "Pop",
     "sxm_number": 9,
     "seasonal": null,
@@ -5646,7 +4623,7 @@
     "name": "Faction Talk",
     "description": "Funny, fast and unfiltered talk with Sam Roberts' show every morning, The Bonfire with comedians Big Jay Oakerson & Robert Kelly at night and the only father daughter radio show in the world, The Bennington Show, in the middle of your day. Add Eddie Trunk daily for a celebration of all things hard rock & heavy metal, and you've got Faction Talk.",
     "genre": "Entertainment",
-    "sxm_number": 103,
+    "sxm_number": 137,
     "seasonal": null,
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/factiontalk.png",
     "sxm_logo_src": "if/6a/6a1b5b7d3b0b3f98a4656096f407ac77_1751897353.png",
@@ -6610,28 +5587,6 @@
     "sxm_entity_id": "4218",
     "lookaround_channel_id": "269497e4-7f91-377d-0940-6b9f027b5b3b"
   },
-  "world wide rebel radio": {
-    "name": "World Wide Rebel Radio",
-    "description": "Folk troubadours",
-    "genre": "All Xtra",
-    "sxm_number": 1210,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/worldwiderebelradio.png",
-    "sxm_logo_src": "aem/e9/e9b1416b0c05002fbaa6c2c62b05fe97_1699375956.jpeg",
-    "sxm_entity_id": "4217",
-    "lookaround_channel_id": "15866460-1973-3054-d6f8-a9d9cbb4f26e"
-  },
-  "one man revolution": {
-    "name": "One Man Revolution",
-    "description": "Weekly show music",
-    "genre": "All Xtra",
-    "sxm_number": 1209,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/onemanrevolution.png",
-    "sxm_logo_src": "aem/1e/1eceb3df579df52480cd86afb8b227ca_1699375145.jpeg",
-    "sxm_entity_id": "4216",
-    "lookaround_channel_id": "a47e9c3a-536b-7dd6-3536-c7ba0a5a76d8"
-  },
   "happy rock": {
     "name": "Happy Rock",
     "description": "Mood elevating feel good rock",
@@ -7401,39 +6356,6 @@
     "sxm_logo_src": "aem/37/376d11463379437e2ebc2099b9b4653a_1732039944.jpeg",
     "sxm_entity_id": "4131",
     "lookaround_channel_id": "aca7fffa-8438-5137-40dc-39aadc9a5331"
-  },
-  "battle hymns radio": {
-    "name": "Battle Hymns Radio",
-    "description": "Rebel anthems",
-    "genre": "All Xtra",
-    "sxm_number": 1124,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/battlehymnsradio.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4130",
-    "lookaround_channel_id": null
-  },
-  "riffs rhymes & rebellion": {
-    "name": "Riffs Rhymes & Rebellion",
-    "description": "His song collection",
-    "genre": "All Xtra",
-    "sxm_number": 1123,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/riffsrhymesrebellion.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4129",
-    "lookaround_channel_id": null
-  },
-  "heavy metal happy hour": {
-    "name": "Heavy Metal Happy Hour",
-    "description": "Hard rock gems",
-    "genre": "All Xtra",
-    "sxm_number": 1122,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/heavymetalhappyhour.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "4128",
-    "lookaround_channel_id": null
   },
   "coffee house classics": {
     "name": "Coffee House Classics",
@@ -8667,6 +7589,1073 @@
     "sxm_entity_id": "4000",
     "lookaround_channel_id": "09a91fb6-2ec7-f8fb-e562-4f869ff011ef"
   },
+  "revive & rhyme": {
+    "name": "Revive & Rhyme",
+    "description": "Christian hip-hop & rap",
+    "genre": "Christian",
+    "sxm_number": 1315,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/reviverhyme.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4326",
+    "lookaround_channel_id": null
+  },
+  "vintage praise": {
+    "name": "Vintage Praise",
+    "description": "Nostalgic gospel music",
+    "genre": "Christian",
+    "sxm_number": 1316,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/vintagepraise.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4327",
+    "lookaround_channel_id": null
+  },
+  "the message": {
+    "name": "The Message",
+    "description": "Uplifting worship music that sings to God. It's the music you hear and sing in your Sunday service.",
+    "genre": "Christian",
+    "sxm_number": 79,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/themessage.png",
+    "sxm_logo_src": "if/5c/5c64da6d1dc53d689652611d63d1b8ec_1765946657.png",
+    "sxm_entity_id": "9675",
+    "lookaround_channel_id": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c"
+  },
+  "sports 274": {
+    "name": "Sports 274",
+    "description": "Live play-by-play of sports",
+    "genre": "Sports Play-by-Play",
+    "sxm_number": null,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9678",
+    "lookaround_channel_id": null
+  },
+  "sports 275": {
+    "name": "Sports 275",
+    "description": "Live play-by-play of sports",
+    "genre": "Sports Play-by-Play",
+    "sxm_number": null,
+    "seasonal": null,
+    "logo_url": "",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9679",
+    "lookaround_channel_id": null
+  },
+  "comedy in full": {
+    "name": "Comedy in Full",
+    "description": "Comedy in Full delivers a seamless, full-album comedy experience, thoughtfully curated for nonstop laughs and effortless listening. It's the go-to destination for uninterrupted comedy with a refined touch, bringing you complete comedy albums, played as intended, all the time.",
+    "genre": "Comedy",
+    "sxm_number": 773,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedyinfull.png",
+    "sxm_logo_src": "if/86/8639b84a347e39b8a962d1626904a3e6_1769536378.png",
+    "sxm_entity_id": "9680",
+    "lookaround_channel_id": "50b0c84a-9fa5-0f67-2e7b-85802d9f8a3a"
+  },
+  "morgan wallen radio": {
+    "name": "Morgan Wallen Radio",
+    "description": "Setting the pace in, and beyond, country music, Morgan Wallen takes you inside his world. Hear personal stories from inside the studio, on the road and more. Music from his friends, collaborators, and influences live alongside Morgan's chart-toppers - all handpicked by Morgan Wallen. Plus, drop-ins from the people that make up his life on and off the stadium stage.",
+    "genre": "Country",
+    "sxm_number": 64,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/morganwallenradio.svg",
+    "sxm_logo_src": "if/86/865169cc01423836ae0c95bc200be0c3_1774273787.png",
+    "sxm_entity_id": "9684",
+    "lookaround_channel_id": "1430a1d6-68ba-edb7-acaf-c500b1c00354"
+  },
+  "esperanza": {
+    "name": "Esperanza",
+    "description": "Contemporary Latin Christian",
+    "genre": "All Xtra",
+    "sxm_number": 1317,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/esperanza.png",
+    "sxm_logo_src": "if/96/963786d5b7bc3c0c97e071f2b35ee274_1772809553.png",
+    "sxm_entity_id": "4328",
+    "lookaround_channel_id": "9fcfe151-5792-cdc7-2916-b422d4c4afcd"
+  },
+  "experts only radio": {
+    "name": "Experts Only Radio",
+    "description": "John Summit takes you on a musical journey without limits! Hear his bi-weekly show and discover a variety of sounds and styles as well as DJ sets from around the world.",
+    "genre": "Dance/Electronic",
+    "sxm_number": 737,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/expertsonlyradio.png",
+    "sxm_logo_src": "if/99/9924d60970fa353d9ba06ca6beef71e9_1772723240.png",
+    "sxm_entity_id": "9671",
+    "lookaround_channel_id": "b7ef42fd-843b-8aa2-27ab-3723e312b978"
+  },
+  "f1 on siriusxm": {
+    "name": "F1 on SiriusXM",
+    "description": "SiriusXM's home for Formula 1 racing! Hear every thrilling lap in F1's worldwide championship chase, plus pre- and post-race coverage and weekly shows featuring F1 experts who bring you inside the world of F1 with interviews with the biggest names in racing. SiriusXM F1 Radio takes you into the paddock, onto the grid, and onto the podium around the world of F1 racing.",
+    "genre": "Sports Play-by-Play",
+    "sxm_number": 835,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/f1onsiriusxm.png",
+    "sxm_logo_src": "if/3b/3b8d98b87b8f3aad93e6653fd0180b0b_1778171035.png",
+    "sxm_entity_id": "9681",
+    "lookaround_channel_id": "d4971239-4b12-40d3-d25b-06877ad5d792"
+  },
+  "20/20 true crime": {
+    "name": "20/20 True Crime",
+    "description": "A nonstop destination for gripping true crime storytelling from ABC News and 20/20. Hear award-winning podcasts, full episodes of 20/20, installments of 20/20: The After Show, and cases from the 20/20 True Crime Vault. From headline-making investigations to unforgettable mysteries, dive into the stories, twists, and reporting that brings the truth to light. True Crime, all the time.",
+    "genre": "News/Public Radio",
+    "sxm_number": 794,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/2020truecrime.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9685",
+    "lookaround_channel_id": null
+  },
+  "abc news live": {
+    "name": "ABC News Live",
+    "description": "ABC News Live is your daily source for breaking news across the U.S. and around the globe. Stay up to date on the latest headlines in politics, weather, health, business and more with our 24/7 live streaming coverage.",
+    "genre": "News/Public Radio",
+    "sxm_number": 796,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/abcnewslive.png",
+    "sxm_logo_src": "if/59/59a027b21cfc345b9b8b0a811b4f616c_1775157433.png",
+    "sxm_entity_id": "9686",
+    "lookaround_channel_id": "8e08b8c8-d1a1-c62a-c1a9-d6dc532aefb1"
+  },
+  "alt nation": {
+    "name": "Alt Nation",
+    "description": "Connect with the latest & greatest from the biggest artists in modern alternative & discover the next phase of artists pushing the boundaries of alternative music. Each week catch the most popular alt tracks on the Alt18 Countdown, powered by Alt Nation listener votes, catch exclusive session performances and interviews from some of your favorite (and next favorite) artists, plus go next level with your alt music discovery on Alt Nation's weekly new music show, Advanced Placement!",
+    "genre": "Rock",
+    "sxm_number": 36,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/altnation.png",
+    "sxm_logo_src": "aem/97/97bfbc3f33fd14411f2429ebbdba77a2_1732039939.jpeg",
+    "sxm_entity_id": "altnation",
+    "lookaround_channel_id": "fd5740ec-7f11-0ecf-f676-46f9dc056d2c"
+  },
+  "70s on 7": {
+    "name": "70s on 7",
+    "description": "Slip on your bell bottoms and light a lava lamp! It's the super 70s with DJs who boogie down and spin 45 rpm records. Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away! Far out, man!",
+    "genre": "Pop",
+    "sxm_number": 7,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/70son7.png",
+    "sxm_logo_src": "aem/a5/a5f3c90f61ddf59a6eefb23bff5faa4d_1729260719.png",
+    "sxm_entity_id": "totally70s",
+    "lookaround_channel_id": "95d4d8ef-55e4-8337-78f1-2fda944991d8"
+  },
+  "80s on 8": {
+    "name": "80s on 8",
+    "description": "80s pop hits from the MTV era! The decade when greed was good, hair was high and everyone learned what a music video was. Prince, Wham!, Madonna, Michael Jackson, Cyndi Lauper and Journey! They're all here and so are the original MTV VJs.",
+    "genre": "Pop",
+    "sxm_number": 8,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/80son8.png",
+    "sxm_logo_src": "aem/07/075dec8de68b7e0505f23b4925a16822_1699375895.jpeg",
+    "sxm_entity_id": "big80s",
+    "lookaround_channel_id": "2ea07147-a720-ed0c-d4ce-d7bddd1640d3"
+  },
+  "bloomberg radio": {
+    "name": "Bloomberg Radio",
+    "description": "Bloomberg Radio is the world's only global 24-hour business radio station. Powered by more than 2700 journalists and analysts in more than 120 countries, Bloomberg Radio's resources are unparalleled. Because the financial markets never sleep, Bloomberg follows them around the globe.",
+    "genre": "News/Public Radio",
+    "sxm_number": 121,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bloombergradio.png",
+    "sxm_logo_src": "aem/b3/b3ebdbff033afd7576911b05383114b8_1724706265.jpeg",
+    "sxm_entity_id": "bloombergradio",
+    "lookaround_channel_id": "27adcf33-1681-9f00-2461-2129a2471abf"
+  },
+  "comedy roundup": {
+    "name": "Comedy Roundup",
+    "description": "Jeff Foxworthy and Larry the Cable Guy bring you the best in great American comedy. You'll hear hilarious material from this dynamic duo as well as comedy from some of their personal favorite comedians.",
+    "genre": "Comedy",
+    "sxm_number": 106,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedyroundup.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "bluecollarcomedy",
+    "lookaround_channel_id": null
+  },
+  "bluegrass junction": {
+    "name": "Bluegrass Junction",
+    "description": "Experience the cutting-edge sounds of bluegrass music while never straying too far from its roots and traditions... including weekly shows from Chris Jones, Ned Luberecki, Joey Black and the legendary Del McCoury!",
+    "genre": "Country",
+    "sxm_number": 65,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bluegrassjunction.png",
+    "sxm_logo_src": "aem/51/510bfed4a7def6f26ad3b9a3b40e928b_1732039925.jpeg",
+    "sxm_entity_id": "bluegrass",
+    "lookaround_channel_id": "9e545d10-7c21-9707-1d34-3d503b7365bc"
+  },
+  "on broadway": {
+    "name": "On Broadway",
+    "description": "You're front row center for the greatest hits of Broadway! All your favorite show tunes sung by the stars of the musical stage, bringing Broadway to every street in North America.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 69,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/onbroadway.png",
+    "sxm_logo_src": "aem/71/713f3c7b484184c801ff01e20f575449_1732039963.jpeg",
+    "sxm_entity_id": "broadwaysbest",
+    "lookaround_channel_id": "adc27a20-6fc4-7269-5ca6-4a492f7dfa55"
+  },
+  "ozzy's boneyard": {
+    "name": "Ozzy's Boneyard",
+    "description": "Ozzy's Boneyard is the epicenter for hard and heavy classic rock, where the legends live loud and unfiltered. From Black Sabbath, Judas Priest, and Guns N' Roses to AC/DC, Motörhead, and Metallica, these are the riffs that shaped generations. Forever under the spell of Ozzy Osbourne, the Prince of Darkness, this is the sound of power, rebellion, and timeless volume.",
+    "genre": "Rock",
+    "sxm_number": 38,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/ozzysboneyard.png",
+    "sxm_logo_src": "if/4d/4d7995b295f0399a8fbb957187d287ed_1753286595.jpg",
+    "sxm_entity_id": "buzzsaw",
+    "lookaround_channel_id": "fed8de31-8d51-8949-6c69-2035fb0485b0"
+  },
+  "cbc radio one": {
+    "name": "CBC Radio One",
+    "description": "Canada's top-rated radio news and information source with some of the country's most popular shows and personalities, distributing National news and content to Canadians coast to coast. As Canada's national public broadcaster, CBC Radio aims to provide a wide range of programming that informs, enlightens and entertains with programming predominantly and distinctively Canadian, reflecting all regions of the country and actively contributing to the exchange of cultural expression.",
+    "genre": "News/Public Radio",
+    "sxm_number": 161,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/cbcradioone.png",
+    "sxm_logo_src": "aem/23/23776ff93ffc7a4f3767502885c44a22_1700154639.jpeg",
+    "sxm_entity_id": "cbcradioone",
+    "lookaround_channel_id": "e2cc6149-5716-4324-2537-4cce09d9b09c"
+  },
+  "siriusxm chill": {
+    "name": "SiriusXM Chill",
+    "description": "Downtempo electronic and deep house music. Relax to melodic sounds that make you feel poolside no matter where you are.",
+    "genre": "Dance/Electronic",
+    "sxm_number": 55,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmchill.png",
+    "sxm_logo_src": "aem/5a/5a94e89952351221c9a2c46400cbfb23_1712676478.jpeg",
+    "sxm_entity_id": "chill",
+    "lookaround_channel_id": "834383dd-9a7e-d59e-81a2-dd13e0377af2"
+  },
+  "classic rewind": {
+    "name": "Classic Rewind",
+    "description": "Hit the rewind button for classic rock from the cassette era: Boston, Van Halen, the Cars, Journey, Fleetwood Mac, Foreigner and more, all from the late 70s and 80s. Adding context to the tunes are marquee hosts Kristine Stone, Rachel Steele and MTV legends Alan Hunter and Mark Goodman.",
+    "genre": "Rock",
+    "sxm_number": 25,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/classicrewind.png",
+    "sxm_logo_src": "aem/69/69d2c32f61070fd46c67474d5c5293a2_1714150732.jpeg",
+    "sxm_entity_id": "classicrewind",
+    "lookaround_channel_id": "7a642de7-c33f-a628-efb2-3d94a829d17b"
+  },
+  "classic vinyl": {
+    "name": "Classic Vinyl",
+    "description": "Drop the needle on all the great classic rock of the 60s and 70s, when music came on vinyl. Led Zeppelin, the Beatles, the Rolling Stones, the Who, the Doors and more. All the big songs and some cool album cuts, too, played by renowned hosts like Meg Griffin, Rachel Steele, Earle Bailey and Dennis Elsas.",
+    "genre": "Rock",
+    "sxm_number": 26,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/classicvinyl.png",
+    "sxm_logo_src": "aem/e8/e8d8a8c47fcc1763b8af5620a0b53fe4_1699375250.jpeg",
+    "sxm_entity_id": "classicvinyl",
+    "lookaround_channel_id": "5ad8659a-414a-9e26-b973-f5a229d788dd"
+  },
+  "cnbc": {
+    "name": "CNBC",
+    "description": "Get real-time financial market coverage and business information.",
+    "genre": "News/Public Radio",
+    "sxm_number": 112,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/cnbc.png",
+    "sxm_logo_src": "if/c2/c2cff10b9e7c393286c453691520128f_1765947631.png",
+    "sxm_entity_id": "cnbc",
+    "lookaround_channel_id": "2b6effb8-eb0e-7421-d7bb-d843a9ff3ce1"
+  },
+  "cnn": {
+    "name": "CNN",
+    "description": "The latest, breaking news with on-the-spot coverage and up-to-the-minute updates.",
+    "genre": "News/Public Radio",
+    "sxm_number": 116,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/cnn.png",
+    "sxm_logo_src": "aem/5c/5c62ac41f486c748a6c552b5c94fd121_1739203217.png",
+    "sxm_entity_id": "cnn",
+    "lookaround_channel_id": "3c7b2421-7ce4-0ecb-bc70-7f60f15d3d29"
+  },
+  "the coffee house": {
+    "name": "The Coffee House",
+    "description": "A laid-back mix of acoustic and stripped down songs that invite you to settle in and unplug from the world outside. Relax to a diverse selection of hits, new discoveries and acoustic classics.",
+    "genre": "Pop",
+    "sxm_number": 17,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thecoffeehouse.png",
+    "sxm_logo_src": "aem/29/29088ee0abc299f909cbcd6d8ab8ee86_1732039930.jpeg",
+    "sxm_entity_id": "coffeehouse",
+    "lookaround_channel_id": "41f8b174-fb06-1707-aaa7-e74e109c2ee9"
+  },
+  "doctor radio": {
+    "name": "Doctor Radio",
+    "description": "Your chance to talk directly to some of the best doctors in the world. Powered by NYU Langone Health.",
+    "genre": "Entertainment",
+    "sxm_number": 119,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/doctorradio.png",
+    "sxm_logo_src": "aem/cd/cd0877031e5d2b26c9bc2d971dc27b2a_1699376047.jpeg",
+    "sxm_entity_id": "doctorradio",
+    "lookaround_channel_id": "97548371-5133-a4c6-373f-801a18dc3237"
+  },
+  "elvis radio": {
+    "name": "Elvis Radio",
+    "description": "The only all Elvis all-the-time radio station, broadcasting live from Graceland. The early years, the classics, the comebacks, rarities, live tracks and basically everything Elvis ever recorded.",
+    "genre": "Pop",
+    "sxm_number": 76,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/elvisradio.png",
+    "sxm_logo_src": "if/22/2248e13a1b413f43b254913d57e26e4a_1755539481.jpg",
+    "sxm_entity_id": "elvisradio",
+    "lookaround_channel_id": "a96c9390-313c-3a51-5dac-953504f4f237"
+  },
+  "les tubes franco": {
+    "name": "Les Tubes Franco",
+    "description": "The biggest French Canadian hits from the past 50 years including Pop, Rock & Disco that defined or re-defined the era.",
+    "genre": "Canadian",
+    "sxm_number": 759,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/lestubesfranco.png",
+    "sxm_logo_src": "if/6c/6c96b2af9e43353b9a84945b1eb85787_1756126384.png",
+    "sxm_entity_id": "energie2",
+    "lookaround_channel_id": "882607f1-0959-53f1-e58d-67b395b17247"
+  },
+  "espn radio": {
+    "name": "ESPN Radio",
+    "description": "24/7 Sports Talk from the worldwide leader in sports, plus some of the biggest games from the NBA, MLB, and College Sports.",
+    "genre": "Sports",
+    "sxm_number": 80,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/espnradio.png",
+    "sxm_logo_src": "aem/9b/9b0c17a47aee95f87539141b976de5ee_1699375501.jpeg",
+    "sxm_entity_id": "espnradio",
+    "lookaround_channel_id": "51f88432-8311-37e0-b57d-9b0ab63f5ce9"
+  },
+  "e street radio": {
+    "name": "E Street Radio",
+    "description": "E Street Radio brings you the music of Bruce Springsteen including studio outtakes, concert recordings, rarities, and more! Plus hear Bruce host his critically-acclaimed show, 'From My Home To Yours,' sharing personal stories and hand-selecting songs for you. Fans can 'Be The Boss,' hear insights from E Street Band members, and enjoy special Guest DJ sessions. It's the home of all things Bruce!",
+    "genre": "Rock",
+    "sxm_number": 20,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/estreetradio.png",
+    "sxm_logo_src": "aem/34/348baa5a7b453e3e9017f38c03cb10a5_1699375392.jpeg",
+    "sxm_entity_id": "estreetradio",
+    "lookaround_channel_id": "727fa612-6e53-458e-720d-b662dc974e5d"
+  },
+  "bbc world service": {
+    "name": "BBC World Service",
+    "description": "News as it breaks from around the world.",
+    "genre": "News/Public Radio",
+    "sxm_number": 120,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bbcworldservice.png",
+    "sxm_logo_src": "if/c7/c7b7884e099c3023a71732f3531791cd_1756410667.jpg",
+    "sxm_entity_id": "bbcworld",
+    "lookaround_channel_id": "93c1c9bd-3403-392c-9ae7-ae292b8bb052"
+  },
+  "faction punk": {
+    "name": "FACTION PUNK",
+    "description": "Punk rock from a Green Day POV. Billie, Mike, and Tre deliver punk pioneers and new noise alongside their own music and stories - from early demos, to live tracks, stadium-shaking anthems, and whatever comes next.",
+    "genre": "Rock",
+    "sxm_number": 314,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/factionpunk.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "faction",
+    "lookaround_channel_id": null
+  },
+  "1st wave": {
+    "name": "1st Wave",
+    "description": "The First Wave of alternative music, centered in the 1980s but including legendary artists and cult classics from the '70s through the early '90s.",
+    "genre": "Rock",
+    "sxm_number": 33,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/1stwave.png",
+    "sxm_logo_src": "aem/1c/1c2af6cc5cfa853e9acfa0f6614d62d4_1732039943.jpeg",
+    "sxm_entity_id": "firstwave",
+    "lookaround_channel_id": "65f04311-3581-256c-97b9-279838d6ff5e"
+  },
+  "fox news channel": {
+    "name": "FOX News Channel",
+    "description": "Become a part of America's news phenomenon with FOX News, which puts national and international news right at your fingertips. It's all here, only on the FOX News Channel.",
+    "genre": "News/Public Radio",
+    "sxm_number": 114,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/foxnewschannel.png",
+    "sxm_logo_src": "aem/ab/abc9057716107ed9dfc8c302c6b30cc1_1699375879.jpeg",
+    "sxm_entity_id": "foxnewschannel",
+    "lookaround_channel_id": "5f8894e9-d615-21d0-a114-ecd08e7fa75c"
+  },
+  "grateful dead": {
+    "name": "Grateful Dead",
+    "description": "On the Grateful Dead Channel, exclusively on SiriusXM, you'll hear music spanning the band's career with unreleased concert recordings, original shows hosted by band members, and even rare archival interviews with Jerry Garcia. The channel also features contributions from Grateful Dead experts David Gans and Gary Lambert as well as Dead archivist David Lemieux.",
+    "genre": "Rock",
+    "sxm_number": 23,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/gratefuldead.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "gratefuldead",
+    "lookaround_channel_id": null
+  },
+  "hair nation": {
+    "name": "Hair Nation",
+    "description": "A nostalgic trip to the 80's Sunset Strip and beyond! Hair Metal, Glam, 80's Hard Rock & Hair Bands. It REALLY has NOTHING to do with 'hair'.",
+    "genre": "Rock",
+    "sxm_number": 39,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hairnation.png",
+    "sxm_logo_src": "aem/42/42cc6d3e90e463902c171ae02d0f779e_1732039949.jpeg",
+    "sxm_entity_id": "hairnation",
+    "lookaround_channel_id": "b8b47809-4e8e-f556-8325-bd45fa3d4dc4"
+  },
+  "liquid metal": {
+    "name": "Liquid Metal",
+    "description": "Finally, a heavy metal lifestyle radio station for true metalheads blasting out the heaviest metal from the masters that created it to the ones that are perfecting it today. Pantera, Slayer, Metallica, Lamb Of God, Slipknot, Gojira, Spiritbox, Megadeth, Lorna Shore, Anthrax and more.",
+    "genre": "Rock",
+    "sxm_number": 40,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/liquidmetal.png",
+    "sxm_logo_src": "if/ab/ab64e51ce51735989eb0e371eba9375a_1751899850.png",
+    "sxm_entity_id": "hardattack",
+    "lookaround_channel_id": "634ea01e-4ae2-c7e8-7567-138965e8a6fe"
+  },
+  "heart & soul": {
+    "name": "Heart & Soul",
+    "description": "Adult R&B from yesterday and today from artists including Charlie Wilson, Mary J. Blige, Kem, Jill Scott, Toni Braxton and more.",
+    "genre": "Hip-Hop/R&B",
+    "sxm_number": 47,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/heartsoul.png",
+    "sxm_logo_src": "aem/77/77082da9d648fe207103bd3085245a97_1732039945.jpeg",
+    "sxm_entity_id": "heartandsoul",
+    "lookaround_channel_id": "25de1705-19ad-6f6e-d45f-3f8775a37800"
+  },
+  "hip-hop nation": {
+    "name": "Hip-Hop Nation",
+    "description": "Hip-Hop Nation is the sound of the culture where you'll hear artists like Kendrick Lamar, J. Cole, 21 Savage, Cardi B., GloRilla and more.",
+    "genre": "Hip-Hop/R&B",
+    "sxm_number": 44,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/hiphopnation.png",
+    "sxm_logo_src": "if/78/786b9a8882143ffbb39a9304e8482d06_1751898853.png",
+    "sxm_entity_id": "hiphopnation",
+    "lookaround_channel_id": "bd54fc02-e063-0e3e-0cbb-4ceafef734e7"
+  },
+  "the heat": {
+    "name": "The Heat",
+    "description": "The Heat stays lit with the hottest R&B and hip-hop, with artists like Chris Brown, Cardi B., SZA, Drake, Doja Cat, Lil' Baby and more!",
+    "genre": "Hip-Hop/R&B",
+    "sxm_number": 46,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/theheat.png",
+    "sxm_logo_src": "aem/9c/9c0a7c2889ff399b130b9db7b96ccb17_1699375857.jpeg",
+    "sxm_entity_id": "hotjamz",
+    "lookaround_channel_id": "c2a517d4-c02f-06eb-77cf-f81bfa719188"
+  },
+  "howard 100": {
+    "name": "Howard 100",
+    "description": "The exclusive home of The Howard Stern Show. Hear Howard's in-depth interviews with the biggest celebrities, his unique takes on current events, behind-the-scenes antics with the staff, phony phone calls, and much more.",
+    "genre": "Howard Stern",
+    "sxm_number": 100,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/howard100.png",
+    "sxm_logo_src": "if/f3/f30799343ad83ba5ab33a83e52d1ca69_1751899640.png",
+    "sxm_entity_id": "howardstern100",
+    "lookaround_channel_id": "123f7d39-c99f-2f01-7900-0d4b8b010cb7"
+  },
+  "siriusxm nfl radio": {
+    "name": "SiriusXM NFL Radio",
+    "description": "SiriusXM NFL Radio delivers hard-hitting analysis and up-to-the minute NFL news that true football fanatics need - 24/7/365. From the annual Training Camp Tour from all 32 teams, to Super Bowl Week broadcasts, to the Scouting Combine remotes, to live coverage of every pick of the NFL Draft, an all-pro lineup of hosts and special guests from around the league keep you in the know. Think you got game? Call us at 877-NFL-KICK.",
+    "genre": "Sports",
+    "sxm_number": 88,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmnflradio.png",
+    "sxm_logo_src": "aem/25/25c9c9bd5c215c0e50388a7ee2a6e9e6_1738952011.jpeg",
+    "sxm_entity_id": "siriusnflradio",
+    "lookaround_channel_id": "f3126d70-09ea-bd0c-57cd-af5ab798f313"
+  },
+  "potus politics": {
+    "name": "POTUS Politics",
+    "description": "POTUS is Politics of the United States. Politics from all points of view with Michael Smerconish, Dan Abrams, Julie Mason, Steve Scully, Stephen A. Smith and more. Spirited interviews with representatives from both sides of the aisle. Legal analysis of breaking stories, panel discussions, and daily recaps of everything happening in Washington, D.C.",
+    "genre": "Politics/Issues",
+    "sxm_number": 124,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/potuspolitics.png",
+    "sxm_logo_src": "if/fb/fb65a890db4a36cb9c45eb15573b8024_1756126382.png",
+    "sxm_entity_id": "indietalk",
+    "lookaround_channel_id": "43993462-1c73-efb8-29e5-0c4652cf8e4f"
+  },
+  "jam on 309": {
+    "name": "Jam On 309",
+    "description": "It's a non-stop music festival with live, improvisational, and adventurous rock from artists who thrive in a live concert setting. You'll hear Phish, Dave Matthews Band, My Morning Jacket, moe., Umphrey's McGee, String Cheese Incident, Gov't Mule, and more.",
+    "genre": "Rock",
+    "sxm_number": 309,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/jamon309.png",
+    "sxm_logo_src": "aem/c7/c7ba860cb7b4ddff750d7ca2efb073f3_1732039935.jpeg",
+    "sxm_entity_id": "jamon",
+    "lookaround_channel_id": "a00885e6-262a-0291-458b-e0b07fba71e1"
+  },
+  "watercolors": {
+    "name": "Watercolors",
+    "description": "A sonic landscape of silky, smooth jazz melodies and alluring contemporary jazz rhythms. Indulge the senses with soulful saxophone, mesmerizing piano, breezy guitar and groovy bass lines. Lively art for your ears.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 68,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/watercolors.png",
+    "sxm_logo_src": "aem/6c/6cdf1bbea9f0345154d5f8d5cdad78c2_1699375786.jpeg",
+    "sxm_entity_id": "jazzcafe",
+    "lookaround_channel_id": "e4b5402c-c608-db84-ad15-4bc8e2cdccce"
+  },
+  "pure comedy": {
+    "name": "Pure Comedy",
+    "description": "It's comedy for everybody on Pure Comedy! Check out profanity-free material from today's top comics like Jim Gaffigan and Nate Bargatze, as well as hilarious material from emerging and legendary comedians.",
+    "genre": "Comedy",
+    "sxm_number": 109,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/purecomedy.png",
+    "sxm_logo_src": "if/de/de652050d1093a36988fbc7923b7cbf1_1747939942.jpg",
+    "sxm_entity_id": "laughbreak",
+    "lookaround_channel_id": "d7151f52-694d-64b7-4e31-9b2f4f534454"
+  },
+  "siriusxmu": {
+    "name": "SiriusXMU",
+    "description": "Groundbreaking music and emerging artists. A commercial-free mix of new music from up-and-coming bands and producers, together with the indie classics that inspired them.",
+    "genre": "Rock",
+    "sxm_number": 35,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmu.png",
+    "sxm_logo_src": "if/f6/f62bdedacb1b3fd39c8b444ca37ce8cc_1743025655.jpg",
+    "sxm_entity_id": "leftofcenter",
+    "lookaround_channel_id": "f49737db-bea3-0c13-9834-b879fb1894c4"
+  },
+  "met opera radio": {
+    "name": "Met Opera Radio",
+    "description": "Stay connected to the Met's rich past and exciting present. With Metropolitan Opera Radio you can listen, day and night, to up to four live broadcasts weekly during the season, as well as the finest performances ever recorded, including gems from the archives.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 744,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/metoperaradio.png",
+    "sxm_logo_src": "aem/a4/a4a88009f27b6d963f17836c5f8b5a97_1699375730.jpeg",
+    "sxm_entity_id": "metropolitanopera",
+    "lookaround_channel_id": "d4d17484-cb4d-06bf-60e0-2944cb827371"
+  },
+  "the highway": {
+    "name": "The Highway",
+    "description": "Discover the next generation of country superstars on The Highway - where breakthrough Highway Finds meet brand new music from country's biggest hitmakers. Hosted weekdays by Cody Alan, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "genre": "Country",
+    "sxm_number": 56,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thehighway.png",
+    "sxm_logo_src": "if/59/59d5873849d4364eb27e1669856402fc_1778774295.png",
+    "sxm_entity_id": "newcountry",
+    "lookaround_channel_id": "ffd94bb6-5368-67ae-91be-5b2bababeca0"
+  },
+  "npr now": {
+    "name": "NPR Now",
+    "description": "NPR Now offers in-depth news, features, and entertainment produced and assembled by NPR specifically for SiriusXM. NPR's variety channel features Fresh Air and Marketplace, plus public radio favorites like Car Talk, Wait Wait... Don't Tell Me!, Talk of the Nation, as well as new productions from independent producers and public radio stations nationwide.",
+    "genre": "News/Public Radio",
+    "sxm_number": 122,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/nprnow.png",
+    "sxm_logo_src": "if/27/27c0e0c7a3c1381c8d5ea301a4d26b08_1740583785.jpg",
+    "sxm_entity_id": "nprnow",
+    "lookaround_channel_id": "22b6d419-0bc3-31f7-c9dd-53ca6c673d8c"
+  },
+  "octane": {
+    "name": "Octane",
+    "description": "Experience the loud and uncensored community of new hard rock, featuring the next generation of headbangers destined to be headliners!",
+    "genre": "Rock",
+    "sxm_number": 37,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/octane.png",
+    "sxm_logo_src": "if/f4/f4531c1141ce348696c424b925b89256_1751908076.png",
+    "sxm_entity_id": "octane",
+    "lookaround_channel_id": "0fed9647-cc82-24d7-526d-98762e8a52cd"
+  },
+  "outlaw country": {
+    "name": "Outlaw Country",
+    "description": "No borders, no B.S. -- from country's roots to today's outsiders that just won't be fenced in. Hear Americana, alt-country, country classics, country rock, honky tonk, roots rock & more!",
+    "genre": "Country",
+    "sxm_number": 62,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/outlawcountry.png",
+    "sxm_logo_src": "aem/62/628bcfbb4dec84d8173493ee66721bb8_1699375485.jpeg",
+    "sxm_entity_id": "outlawcountry",
+    "lookaround_channel_id": "176daca5-6810-3a1c-49e9-39b69055e811"
+  },
+  "kirk franklin's praise": {
+    "name": "Kirk Franklin's Praise",
+    "description": "Grammy-winning icon Kirk Franklin empowers you through your day with today's divinely inspired gospel music. Hear inspirational music from artists including Tamela Mann, Donnie McClurkin, Tye Tribett, Le'Andria Johnson and more. Kirk's got the music and the message to make ya sing, clap and shout!",
+    "genre": "Christian",
+    "sxm_number": 77,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/kirkfranklinspraise.png",
+    "sxm_logo_src": "aem/87/874ce351bce77783226b25b88ab24123_1699375180.jpeg",
+    "sxm_entity_id": "praise",
+    "lookaround_channel_id": "e4fe4bca-1af8-bf9e-c20b-813f204aa18e"
+  },
+  "ici première": {
+    "name": "ICI Première",
+    "description": "Radio-Canada news and information distributing national news, information and programming to all regions of the country. As Canada's national public broadcaster, CBC Radio-Canada provides a wide range of topics and programs to entertain and enlighten and celebrate the exchange of cultural expression in a full simulcast of Radio-Canada Première.",
+    "genre": "Canadian",
+    "sxm_number": 162,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/icipremiere.png",
+    "sxm_logo_src": "aem/d8/d81facb4906186ed9cc3a6892e07639d_1699376166.jpeg",
+    "sxm_entity_id": "premiereplus",
+    "lookaround_channel_id": "32c45f24-14ee-6f33-e79d-d859ff1627a4"
+  },
+  "prime country": {
+    "name": "Prime Country",
+    "description": "This is where country music from the '80s and '90s lives. Garth Brooks, Reba McEntire, George Strait, Shania Twain, Alan Jackson, and Randy Travis all play here.",
+    "genre": "Country",
+    "sxm_number": 58,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/primecountry.png",
+    "sxm_logo_src": "aem/2d/2db8cd9cbbaa9ad75b7981ed6528495c_1707515753.jpeg",
+    "sxm_entity_id": "primecountry",
+    "lookaround_channel_id": "32566352-8e68-80f8-fe11-3f9715b63876"
+  },
+  "real jazz": {
+    "name": "Real Jazz",
+    "description": "Classic jazz, the original American art form. Hear the masters who pioneered the music and the new artists who continue the tradition into the 21st century.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 67,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/realjazz.png",
+    "sxm_logo_src": "if/62/62e8e92e20ba300387a7c27b989455cc_1770749171.jpg",
+    "sxm_entity_id": "purejazz",
+    "lookaround_channel_id": "e6333906-2e89-6c07-59d6-36d09248b8dc"
+  },
+  "radio classics": {
+    "name": "Radio Classics",
+    "description": "Radio Classics is the home for the quality programs from The Golden Age Of Radio. Before television, before audio books, before podcasts, great storytelling dominated the realm of radio. It's where imagination ruled. Superman, Dragnet, Gunsmoke, plus comedies from Jack Benny, Bob Hope, Lucille Ball, George Burns & Gracie Allen all originated on radio. Those ageless shows (and so much more) can be found on Radio Classics. Timeless stories and laughs from the past for today's SiriusXM listeners.",
+    "genre": "Entertainment",
+    "sxm_number": 140,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/radioclassics.png",
+    "sxm_logo_src": "aem/6c/6cc9370733aacd15b393c8cf750f7923_1722985416.jpeg",
+    "sxm_entity_id": "radioclassics",
+    "lookaround_channel_id": "6ce53b6e-fef9-ab81-e5e3-1e100e8a5e84"
+  },
+  "radio margaritaville": {
+    "name": "Radio Margaritaville",
+    "description": "Escape to Margaritaville. Parrotheads, your ship has come in. From multi-platinum singer, songwriter and author Jimmy Buffett comes a radio paradise of great music, live broadcasts of Buffett's concerts and other unique programs.",
+    "genre": "Rock",
+    "sxm_number": 24,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/radiomargaritaville.png",
+    "sxm_logo_src": "aem/37/37156745e7dc1044c44d39445324e5b2_1699376225.jpeg",
+    "sxm_entity_id": "radiomargaritaville",
+    "lookaround_channel_id": "c636d008-7cb0-99eb-7fb7-7c489f862a26"
+  },
+  "sebastian maniscalco's comedy radio": {
+    "name": "Sebastian Maniscalco's Comedy Radio",
+    "description": "SiriusXM's exclusive stand-up channel curated by Sebastian Maniscalco features performances by his favorite comedians. From legends of the craft to today's rising voices, the channel delivers a mix of entertaining comedy. At the center of the channel is The Sebastian Maniscalco Show, an original radio series where Sebastian brings his unmistakable perspective, stories & comedic takes to the mic. Together, they create a destination for fans who love bold stand-up & Sebastian's signature style.",
+    "genre": "Comedy",
+    "sxm_number": 102,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/sebastianmaniscalcoscomedyradio.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "rawdog",
+    "lookaround_channel_id": null
+  },
+  "shaggy boombastic radio": {
+    "name": "Shaggy Boombastic Radio",
+    "description": "Immerse yourself in reggae and dancehall music, with a splash of vibrant Afrobeats. From the iconic rhythms of Sean Paul and Lady Saw to the dynamic sounds of WizKid and Burna Boy, Shaggy's Boombastic Radio brings the very best of reggae, dancehall and whatever Shaggy's into. Be ready to move with infectious tunes while embracing Caribbean and African music culture. A channel from the mind of the iconic, Grammy Award-winning global hitmaker, Shaggy!",
+    "genre": "Hip-Hop/R&B",
+    "sxm_number": 332,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/shaggyboombasticradio.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "reggaerhythms",
+    "lookaround_channel_id": null
+  },
+  "road dog trucking": {
+    "name": "Road Dog Trucking",
+    "description": "Get in gear with the 24-hour channel devoted to the trucking industry. With news, information and entertainment, the channel keeps you up to date on the industry that keeps us moving.",
+    "genre": "Entertainment",
+    "sxm_number": 142,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/roaddogtrucking.png",
+    "sxm_logo_src": "aem/f7/f710a576761e94628ee4395035eab067_1699375305.jpeg",
+    "sxm_entity_id": "roaddogtrucking",
+    "lookaround_channel_id": "01305215-db22-2cdc-7eaf-ca12c60a2643"
+  },
+  "caliente": {
+    "name": "Caliente",
+    "description": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the Caribbean and the Americas collide. Where Latin music & culture meet!",
+    "genre": "Latino",
+    "sxm_number": 149,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/caliente.png",
+    "sxm_logo_src": "aem/85/85f1f8332b4c0bcd9a4a9bd3d4cea3b7_1699375595.jpeg",
+    "sxm_entity_id": "rumbon",
+    "lookaround_channel_id": "53b80144-2cb1-e723-07fd-6b164434b186"
+  },
+  "shade 45": {
+    "name": "Shade 45",
+    "description": "The uncensored commercial free hip-hop channel created by Eminem and SiriusXM.",
+    "genre": "Hip-Hop/R&B",
+    "sxm_number": 45,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/shade45.png",
+    "sxm_logo_src": "if/85/85d1c5c0b77838e3baf605112f3fb0db_1751902163.png",
+    "sxm_entity_id": "shade45",
+    "lookaround_channel_id": "2022dfab-580f-675f-6aad-00aad9c3be9b"
+  },
+  "bb king's bluesville": {
+    "name": "BB King's Bluesville",
+    "description": "B.B. King's channel for blues music from the past to the present: B.B. King, Stevie Ray Vaughan, Muddy Waters, Buddy Guy, Eric Clapton, Etta James, Robert Cray, Keb' Mo', Taj Mahal, John Lee Hooker and others.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 75,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bbkingsbluesville.png",
+    "sxm_logo_src": "aem/13/13d7642597eb71685b6d76f5f999807b_1699376127.jpeg",
+    "sxm_entity_id": "siriusblues",
+    "lookaround_channel_id": "c4406844-de06-901b-6b4f-02420e2bd2d6"
+  },
+  "50s gold": {
+    "name": "50s Gold",
+    "description": "Take a trip to the era of the new teenage craze of rock 'n' roll and the pre-rock songs Mom & Dad preferred. The sound of happy days and drive-in nights with pop radio the way it used to be - from crooners to street corner harmony.",
+    "genre": "Pop",
+    "sxm_number": 72,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/50sgold.png",
+    "sxm_logo_src": "aem/2d/2df163ad3456ff1163360e9e02f2147e_1699375154.jpeg",
+    "sxm_entity_id": "siriusgold",
+    "lookaround_channel_id": "a62ffa9f-e016-5693-adcb-c76c328e1bee"
+  },
+  "siriusxm hits 1": {
+    "name": "SiriusXM Hits 1",
+    "description": "Today's hits from pop, hip-hop, rock, rhythm, country and R&B - featuring The Morning Mash Up with Ryan & Nicole, Mack & Jen middays, Brady afternoons, Mikey Piff evenings, HITBOUND, and The Weekend Countdown.",
+    "genre": "Pop",
+    "sxm_number": 2,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmhits1.png",
+    "sxm_logo_src": "if/03/0341831c1c3236f49ce10fe93b72725c_1752761203.png",
+    "sxm_entity_id": "siriushits1",
+    "lookaround_channel_id": "194adbca-34d6-cb94-b153-3488ee563308"
+  },
+  "siriusxm progress": {
+    "name": "SiriusXM Progress",
+    "description": "SiriusXM Progress amplifies voices demanding justice, equality, and liberty for all. Hear progressive viewpoints from a wide range of voices including Zerlina Maxwell, Stephanie Miller, Thom Hartmann, Michelangelo Signorile, Dean Obeidallah, John Fugelsang, and more.",
+    "genre": "Politics/Issues",
+    "sxm_number": 127,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmprogress.png",
+    "sxm_logo_src": "aem/1d/1dafc6ab1f9acfec87660cae7501c620_1699376054.jpeg",
+    "sxm_entity_id": "siriusleft",
+    "lookaround_channel_id": "fb452ece-ac0c-2236-780a-d85c72fbcc88"
+  },
+  "siriusxm love": {
+    "name": "SiriusXM Love",
+    "description": "Celebrate the joy of being in love, as a generation of superstars help set the mood for romance with love songs from the 60s, 70s and 80s. Hear Barry Manilow, Whitney Houston, the Bee Gees, Lionel Richie, Celine Dion, Barbra Streisand and more.",
+    "genre": "Pop",
+    "sxm_number": 708,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmlove.png",
+    "sxm_logo_src": "aem/07/0722bbb1f169983b15d7b72b3c926fb0_1699376064.jpeg",
+    "sxm_entity_id": "siriuslove",
+    "lookaround_channel_id": "3fd664a8-229c-ce9b-c468-66e2a54abf0b"
+  },
+  "siriusly sinatra": {
+    "name": "Siriusly Sinatra",
+    "description": "The Chairman of the Board is at home everyday on Siriusly Sinatra, along with Dean Martin, Tony Bennett and more of the great singers interpreting the Great American Songbook. Siriusly Sinatra is the 24-hour home for all things Frank and the standards he made famous!",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 70,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriuslysinatra.png",
+    "sxm_logo_src": "aem/21/217de62000134604b8447ca5070e3070_1699375938.jpeg",
+    "sxm_entity_id": "siriuslysinatra",
+    "lookaround_channel_id": "38dccb7c-6e3c-1473-d0db-0b3b8b999707"
+  },
+  "siriusxm nascar radio": {
+    "name": "SiriusXM NASCAR Radio",
+    "description": "Every race and everything in between: Taking you inside the sport with unparalleled access to the drivers, crew chiefs, team owners and other racing insiders as they talk candidly with SiriusXM NASCAR Radio. From post-race interviews in victory lane and in the garage, you'll get the latest news and information from your trusted source for all things NASCAR.",
+    "genre": "Sports",
+    "sxm_number": 90,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmnascarradio.png",
+    "sxm_logo_src": "aem/8d/8d12854d8b1408790709ff4554c3911d_1720452489.jpeg",
+    "sxm_entity_id": "siriusnascarradio",
+    "lookaround_channel_id": "c875a2e9-2768-ed46-5487-4e3e667ae553"
+  },
+  "underground garage": {
+    "name": "Underground Garage",
+    "description": "Maximum rock & soul. The 'Coolest records ever made'. Produced by 'Little Steven' Van Zandt, member of the E Street Band and star of The Sopranos.",
+    "genre": "Rock",
+    "sxm_number": 21,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/undergroundgarage.png",
+    "sxm_logo_src": "aem/82/82bedae68bf950e7d83333d0d687ccdd_1699375373.jpeg",
+    "sxm_entity_id": "undergroundgarage",
+    "lookaround_channel_id": "3b83dc80-5987-6898-e98d-a98012f700c1"
+  },
+  "siriusxm patriot": {
+    "name": "SiriusXM Patriot",
+    "description": "SiriusXM Patriot is your home for comprehensive conservative viewpoints, hard-hitting interviews, and thought-provoking commentary. Join the conversation with Breitbart News, David Webb, Andrew Wilkow, Sean Hannity, Mark Levin, Stacy Washington, and more.",
+    "genre": "Politics/Issues",
+    "sxm_number": 125,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmpatriot.png",
+    "sxm_logo_src": "if/ce/ce2fa2933cb3346f9d256b07a7b456aa_1756126389.png",
+    "sxm_entity_id": "siriuspatriot",
+    "lookaround_channel_id": "6739babb-7975-e60e-1835-fbacd4bbd855"
+  },
+  "siriusxm pops": {
+    "name": "SiriusXM Pops",
+    "description": "Classical Music's greatest hits performed by the world's most renowned orchestras and soloists. Including Yo-Yo Ma, 2Cellos and The Boston Pops Orchestra. Featuring works by Beethoven, Mozart, Bach and John Williams.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 745,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/siriusxmpops.png",
+    "sxm_logo_src": "aem/00/0020194e2066a7182dbf4cf81816f8ca_1699375750.jpeg",
+    "sxm_entity_id": "siriuspops",
+    "lookaround_channel_id": "a8465da9-2ce2-9b01-6679-e67c5066697b"
+  },
+  "college sports radio": {
+    "name": "College Sports Radio",
+    "description": "SiriusXM College Sports Radio features the most comprehensive, 24/7 college sports talk and play-by-play. Hear the top experts in college sports including Danny Kanell, Dusty Dvoracek, Rick Neuheisel and EJ Manuel. Hear the best live play-by-play, including college football bowl games and Playoffs, NCAA Men's Basketball Tournament plus coverage of college baseball, softball, women's basketball, hockey and more.",
+    "genre": "Sports",
+    "sxm_number": 84,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/collegesportsradio.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "siriussportsaction",
+    "lookaround_channel_id": null
+  },
+  "stars": {
+    "name": "Stars",
+    "description": "Hear SiriusXM's biggest stars in intimate and revealing conversations about life and culture, share lifechanging advice, and real talk with friends. Culture and celebrity collide to bring you inside the life and style of Hollywood.",
+    "genre": "Entertainment",
+    "sxm_number": 138,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/stars.png",
+    "sxm_logo_src": "if/72/723d548b925231aab9a5e0c4d36f1bc2_1751902765.png",
+    "sxm_entity_id": "siriusstars",
+    "lookaround_channel_id": "813d656c-9af5-7f51-bb48-d724327d9289"
+  },
+  "smokey's soul town": {
+    "name": "Smokey's Soul Town",
+    "description": "Classic Soul, R&B & Motown from the '60s and '70s live in Smokey's Soul Town! Throughout the day, Smokey shares stories from his career and picks some of his favorites from Hitsville and beyond. Plus hosted DJ shows from The Motown Museum in Detroit. Stevie, Aretha, Otis, Marvin, Jackie, Chaka, The Temptations, The Miracles, The Supremes, The Four Tops and all the Soul you can handle... 24/7 on Smokey's Soul Town!!",
+    "genre": "Hip-Hop/R&B",
+    "sxm_number": 74,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/smokeyssoultown.png",
+    "sxm_logo_src": "aem/b5/b56d97054d4c45b9e5aca9167d3b1d53_1699419936.jpeg",
+    "sxm_entity_id": "soultown",
+    "lookaround_channel_id": "aa46ae69-ab44-f416-58ee-9fdf07462c0e"
+  },
+  "spa": {
+    "name": "Spa",
+    "description": "Spa is an ethereal audio experience. It's new age with a twist of ambient and light world music. A perfect spa experience.",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 746,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/spa.png",
+    "sxm_logo_src": "if/5f/5f0f4a6fcf9738ef865992a94bb12573_1771012778.jpg",
+    "sxm_entity_id": "spa73",
+    "lookaround_channel_id": "d324f7fe-efc8-e5fa-5ad5-14fa6ba0d9bf"
+  },
+  "the message_78": {
+    "name": "The Message",
+    "description": "Pop and rock with a higher purpose. Contemporary Christian music delivered by compassionate hosts to encourage you and your family on your faith journey.",
+    "genre": "Christian",
+    "sxm_number": 78,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/themessage.png",
+    "sxm_logo_src": "if/5c/5c64da6d1dc53d689652611d63d1b8ec_1765946657.png",
+    "sxm_entity_id": "spirit",
+    "lookaround_channel_id": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c"
+  },
+  "the blend": {
+    "name": "The Blend",
+    "description": "Blending nice & easy pop where you can sing along with Rod Stewart, Celine Dion, Lionel Richie, Neil Diamond, Whitney Houston and more! Feeling good has never been easier!",
+    "genre": "Pop",
+    "sxm_number": 16,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/theblend.png",
+    "sxm_logo_src": "aem/3e/3e010d614577d42064a57d0ce72e0118_1699375604.jpeg",
+    "sxm_entity_id": "starlite",
+    "lookaround_channel_id": "bda81f03-f231-d4db-56ad-40cb132c5663"
+  },
+  "symphony hall": {
+    "name": "Symphony Hall",
+    "description": "Classical music from yesterday and today performed by top orchestras, chamber music ensembles and instrumental soloists. Featuring Baroque and Beyond, Classics on Film, Living American, SiriusXM Presents the Philadelphia Orchestra, Vox Choral and The Chamber Music Society of Lincoln Center",
+    "genre": "Jazz/Standards/Classical",
+    "sxm_number": 66,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/symphonyhall.png",
+    "sxm_logo_src": "if/cc/ccb8a729794f33748f8c76558812c326_1740160031.jpg",
+    "sxm_entity_id": "symphonyhall",
+    "lookaround_channel_id": "c46c9810-6274-a715-a8b9-de9d4ac33873"
+  },
+  "bpm": {
+    "name": "BPM",
+    "description": "The beat drops here on BPM. Hear the top dance and electronic hits 24/7. We'll keep you up to date with what's happening in clubs and festivals all over the world. Hear anything from house music, to future bass and everything in between.",
+    "genre": "Dance/Electronic",
+    "sxm_number": 52,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/bpm.png",
+    "sxm_logo_src": "aem/90/90f4fcc89c476a7e624837a4cb6eb713_1732039942.jpeg",
+    "sxm_entity_id": "thebeat",
+    "lookaround_channel_id": "6adef1b5-d812-9c10-7c6c-f05af4e27077"
+  },
+  "the bridge": {
+    "name": "The Bridge",
+    "description": "Cross the bridge to the mellow side of classic rock and 70s folk rock. The Eagles, James Taylor, Fleetwood Mac, Simon & Garfunkel and more.",
+    "genre": "Rock",
+    "sxm_number": 14,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thebridge.png",
+    "sxm_logo_src": "aem/81/81065708fd0c2908bf9b9418b9e16840_1699375797.jpeg",
+    "sxm_entity_id": "thebridge",
+    "lookaround_channel_id": "1898923d-071d-0abd-1a62-ed0d2702d4f1"
+  },
+  "the catholic channel": {
+    "name": "The Catholic Channel",
+    "description": "Talk about it on The Catholic Channel! Combining a modern talk format and open dialogue, The Catholic Channel focuses on Catholicism in the 21st century, especially as it is lived in today's world. Archbishop Ronald Hicks leads a list of modern voices, including Fr. Dave Dwyer, Lino Rulli, Katie McGrady, Doug Tooke, and more.",
+    "genre": "Religion",
+    "sxm_number": 129,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thecatholicchannel.png",
+    "sxm_logo_src": "if/59/59995fb38312336e818d48128dbc2fff_1777404066.jpg",
+    "sxm_entity_id": "thecatholicchannel",
+    "lookaround_channel_id": "88c59be1-adab-d9c1-ee63-05fdef54f094"
+  },
+  "the pulse": {
+    "name": "The Pulse",
+    "description": "Today's pop music keeping you company through your day. Hear the hits, throwbacks and fresh sounds Taylor Swift, Ed Sheeran, OneRepublic, Ariana Grande and more.",
+    "genre": "Pop",
+    "sxm_number": 5,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thepulse.png",
+    "sxm_logo_src": "if/61/61d9b2ef420e31cab6a353245eeb5a40_1765947449.png",
+    "sxm_entity_id": "thepulse",
+    "lookaround_channel_id": "9e8d6f72-0b59-85cf-a222-b18d38acdc0f"
+  },
+  "willie's roadhouse": {
+    "name": "Willie's Roadhouse",
+    "description": "Willie Nelson's Classic Country channel featuring songs from the '60s, '70s and '80s by artists such as Willie Nelson, Merle Haggard, Dolly Parton, George Jones, Johnny Cash, Loretta Lynn, Patsy Cline, Conway Twitty and more.",
+    "genre": "Country",
+    "sxm_number": 61,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/williesroadhouse.png",
+    "sxm_logo_src": "aem/93/93e87c2dabd2b3269c7b4184df2407f3_1727286772.jpeg",
+    "sxm_entity_id": "theroadhouse",
+    "lookaround_channel_id": "0aee72ed-5dd8-2848-3567-d8809e123cd1"
+  },
+  "the spectrum": {
+    "name": "The Spectrum",
+    "description": "The Spectrum of Rock, spanning more than six decades - from the legends of the 1960s and '70s to the artists breaking through now.",
+    "genre": "Rock",
+    "sxm_number": 28,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/thespectrum.png",
+    "sxm_logo_src": "if/4e/4e1549393819368481f2cb06273e47f3_1756345359.png",
+    "sxm_entity_id": "thespectrum",
+    "lookaround_channel_id": "804a5411-b234-1188-27da-f01197103886"
+  },
+  "deep tracks": {
+    "name": "Deep Tracks",
+    "description": "Album cuts, forgotten gems, and lesser-played songs from classic rock's most influential artists and essential albums, along with rare demos and live tracks. SiriusXM hosts Earle Bailey, Early Times, Carol Miller, Joe Elliott, and Steven Wilson guide you through the music. Featuring rarities from Bob Dylan, The Rolling Stones, Led Zeppelin, David Bowie, The Beatles, The Eagles, Jethro Tull, and more.",
+    "genre": "Rock",
+    "sxm_number": 308,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/deeptracks.png",
+    "sxm_logo_src": "if/b1/b103be0a84e03e25aae019b221edf510_1774463331.jpg",
+    "sxm_entity_id": "thevault",
+    "lookaround_channel_id": "e3041d19-daa5-6517-8c73-41976582d1f9"
+  },
+  "ewtn radio": {
+    "name": "EWTN Radio",
+    "description": "EWTN Radio listeners will find content filled with Catholic hope and inspiration. EWTN Radio offers listeners live call-in talk shows, informative teaching series, daily devotions, inspiring prayers and Church events.",
+    "genre": "Religion",
+    "sxm_number": 130,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/ewtnradio.png",
+    "sxm_logo_src": "aem/66/660de7826a09db4c783abe06431511bb_1699376053.jpeg",
+    "sxm_entity_id": "ewtnglobal",
+    "lookaround_channel_id": "2692983c-1779-bca2-800c-76b8dd988ae8"
+  },
+  "luna": {
+    "name": "Luna",
+    "description": "Latin percussion and Afro Cuban rhythms mixed with some bopping Jazz. It's burning hot Latin Jazz!",
+    "genre": "Latino",
+    "sxm_number": 766,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/luna.png",
+    "sxm_logo_src": "if/d0/d0b597ee99ec3b9f975c139fc4f0e651_1740160164.jpg",
+    "sxm_entity_id": "9189",
+    "lookaround_channel_id": "f9f80eb9-a253-6e02-8fc8-33fa6ba69bd4"
+  },
+  "soulcycle radio": {
+    "name": "SoulCycle Radio",
+    "description": "There's a reason we ride to the rhythm as a pack. At SoulCycle, music is what connects us, moves us, and inspires us. So we designed this channel to deliver the same joy, motivation, and heart-pumping beat you expect from us in class-and then some. Whether you're in the car, walking to work, or dancing in your bedroom, turn it up for a transformative mind-body-soul experience.",
+    "genre": "Pop",
+    "sxm_number": 704,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/soulcycleradio.png",
+    "sxm_logo_src": "if/66/66cd9165c54231c9b831ebf64cb7417f_1756126389.png",
+    "sxm_entity_id": "9500",
+    "lookaround_channel_id": "6c535597-8e2b-5b54-968a-10cad277f43b"
+  },
+  "world wide rebel radio": {
+    "name": "World Wide Rebel Radio",
+    "description": "Folk troubadours",
+    "genre": "All Xtra",
+    "sxm_number": 1210,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/worldwiderebelradio.png",
+    "sxm_logo_src": "aem/e9/e9b1416b0c05002fbaa6c2c62b05fe97_1699375956.jpeg",
+    "sxm_entity_id": "4217",
+    "lookaround_channel_id": "15866460-1973-3054-d6f8-a9d9cbb4f26e"
+  },
+  "one man revolution": {
+    "name": "One Man Revolution",
+    "description": "Weekly show music",
+    "genre": "All Xtra",
+    "sxm_number": 1209,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/onemanrevolution.png",
+    "sxm_logo_src": "aem/1e/1eceb3df579df52480cd86afb8b227ca_1699375145.jpeg",
+    "sxm_entity_id": "4216",
+    "lookaround_channel_id": "a47e9c3a-536b-7dd6-3536-c7ba0a5a76d8"
+  },
+  "battle hymns radio": {
+    "name": "Battle Hymns Radio",
+    "description": "Rebel anthems",
+    "genre": "All Xtra",
+    "sxm_number": 1124,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/battlehymnsradio.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4130",
+    "lookaround_channel_id": null
+  },
+  "riffs rhymes & rebellion": {
+    "name": "Riffs Rhymes & Rebellion",
+    "description": "His song collection",
+    "genre": "All Xtra",
+    "sxm_number": 1123,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/riffsrhymesrebellion.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4129",
+    "lookaround_channel_id": null
+  },
+  "heavy metal happy hour": {
+    "name": "Heavy Metal Happy Hour",
+    "description": "Hard rock gems",
+    "genre": "All Xtra",
+    "sxm_number": 1122,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/heavymetalhappyhour.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "4128",
+    "lookaround_channel_id": null
+  },
   "poplandia": {
     "name": "Poplandia",
     "description": "Poplandia is the soundtrack for pop culture junkies. Hear the hottest hits and exclusive interviews from your favorite artists. Movies, music, celebrity gossip, current events and more, Poplandia has you covered.",
@@ -8689,17 +8678,6 @@
     "sxm_entity_id": "9470",
     "lookaround_channel_id": null
   },
-  "she's so funny": {
-    "name": "She's So Funny",
-    "description": "The funniest female comedians all in one place hand-curated just for you to keep you in stitches!",
-    "genre": "Comedy",
-    "sxm_number": 771,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/shessofunny.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9503",
-    "lookaround_channel_id": null
-  },
   "comedy classics": {
     "name": "Comedy Classics",
     "description": "Classic stand-up from icons of the past, who paved the way for the greats we love today. Timeless comedy that shaped the landscape and defined generations. Featuring legends like Bob Newhart, Joan Rivers, Jackie Gleason and Redd Foxx, as well as exclusive classic archives.",
@@ -8709,6 +8687,17 @@
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/comedyclassics.png",
     "sxm_logo_src": "",
     "sxm_entity_id": "9542",
+    "lookaround_channel_id": null
+  },
+  "she's so funny": {
+    "name": "She's So Funny",
+    "description": "The funniest female comedians all in one place hand-curated just for you to keep you in stitches!",
+    "genre": "Comedy",
+    "sxm_number": 771,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/shessofunny.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9503",
     "lookaround_channel_id": null
   },
   "the message_1258": {
@@ -8722,17 +8711,6 @@
     "sxm_entity_id": "4270",
     "lookaround_channel_id": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c"
   },
-  "holly": {
-    "name": "Holly",
-    "description": "Merry and bright holiday hits featuring songs by Mariah Carey, Michael Bublé, Dean Martin, Kelly Clarkson, Pentatonix, Josh Groban, John Legend, Brenda Lee, Train, Gwen Stefani and more.",
-    "genre": "Holiday",
-    "sxm_number": 600,
-    "seasonal": null,
-    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/holly.png",
-    "sxm_logo_src": "",
-    "sxm_entity_id": "9343",
-    "lookaround_channel_id": null
-  },
   "navidad": {
     "name": "Navidad",
     "description": "Latin holiday music and traditional sounds, including Ricky Martin, Gloria Estefan, José Feliciano, Tito El Bambino, Marco Antonio Solís and Fania All-Stars.",
@@ -8742,6 +8720,17 @@
     "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/navidad.png",
     "sxm_logo_src": "",
     "sxm_entity_id": "9348",
+    "lookaround_channel_id": null
+  },
+  "holly": {
+    "name": "Holly",
+    "description": "Merry and bright holiday hits featuring songs by Mariah Carey, Michael Bublé, Dean Martin, Kelly Clarkson, Pentatonix, Josh Groban, John Legend, Brenda Lee, Train, Gwen Stefani and more.",
+    "genre": "Holiday",
+    "sxm_number": 600,
+    "seasonal": null,
+    "logo_url": "https://jstevenscl.github.io/epgeditarr/logos/holly.png",
+    "sxm_logo_src": "",
+    "sxm_entity_id": "9343",
     "lookaround_channel_id": null
   }
 }
