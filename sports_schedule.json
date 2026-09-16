@@ -1,30 +1,16 @@
 {
-  "generated_at": "2026-09-16T02:12:23Z",
+  "generated_at": "2026-09-16T08:54:51Z",
   "events": [
     {
       "slug": "mlb",
-      "title": "Minnesota Twins @ New York Yankees",
-      "description": "MLB · Minnesota Twins @ New York Yankees",
-      "start_utc": "2026-09-15T23:40:00Z",
-      "end_utc": "2026-09-16T02:40:00Z",
+      "title": "Cleveland Guardians @ Chicago White Sox",
+      "description": "MLB · Cleveland Guardians @ Chicago White Sox",
+      "start_utc": "2026-09-16T17:10:00Z",
+      "end_utc": "2026-09-16T20:10:00Z",
       "channels": [
-        "New York Yankees",
-        "Minnesota Twins",
-        "Comedy Greats",
-        "SiriusXM Channel 210",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Chicago Cubs @ Atlanta Braves",
-      "description": "MLB · Chicago Cubs @ Atlanta Braves",
-      "start_utc": "2026-09-15T23:40:00Z",
-      "end_utc": "2026-09-16T02:40:00Z",
-      "channels": [
-        "Atlanta Braves",
-        "Chicago Cubs",
-        "SiriusXM Channel 209",
+        "Chicago White Sox",
+        "Cleveland Guardians",
+        "SiriusXM Channel 202",
         "MLB Network Radio"
       ]
     },
@@ -32,79 +18,40 @@
       "slug": "mlb",
       "title": "St. Louis Cardinals @ San Francisco Giants",
       "description": "MLB · St. Louis Cardinals @ San Francisco Giants",
-      "start_utc": "2026-09-15T23:45:00Z",
-      "end_utc": "2026-09-16T02:45:00Z",
+      "start_utc": "2026-09-16T17:15:00Z",
+      "end_utc": "2026-09-16T20:15:00Z",
       "channels": [
         "San Francisco Giants",
         "St. Louis Cardinals",
-        "SiriusXM Channel 208",
+        "SiriusXM Channel 203",
         "MLB Network Radio"
       ]
     },
     {
       "slug": "mlb",
-      "title": "Texas Rangers @ Boston Red Sox",
-      "description": "MLB · Texas Rangers @ Boston Red Sox",
-      "start_utc": "2026-09-16T00:05:00Z",
-      "end_utc": "2026-09-16T03:05:00Z",
+      "title": "Minnesota Twins @ New York Yankees",
+      "description": "MLB · Minnesota Twins @ New York Yankees",
+      "start_utc": "2026-09-16T17:40:00Z",
+      "end_utc": "2026-09-16T20:40:00Z",
       "channels": [
-        "Boston Red Sox",
-        "Texas Rangers",
-        "Comedy Roundup",
-        "SiriusXM Channel 212",
-        "MLB en Español 871",
+        "New York Yankees",
+        "Minnesota Twins",
+        "Comedy Greats",
+        "SiriusXM Channel 204",
         "MLB Network Radio"
       ]
     },
     {
       "slug": "mlb",
-      "title": "Houston Astros @ Kansas City Royals",
-      "description": "MLB · Houston Astros @ Kansas City Royals",
-      "start_utc": "2026-09-16T00:10:00Z",
-      "end_utc": "2026-09-16T03:10:00Z",
+      "title": "Toronto Blue Jays @ Detroit Tigers",
+      "description": "MLB · Toronto Blue Jays @ Detroit Tigers",
+      "start_utc": "2026-09-16T19:07:00Z",
+      "end_utc": "2026-09-16T22:07:00Z",
       "channels": [
-        "Kansas City Royals",
-        "Houston Astros",
-        "SiriusXM Channel 211",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Colorado Rockies @ San Diego Padres",
-      "description": "MLB · Colorado Rockies @ San Diego Padres",
-      "start_utc": "2026-09-16T00:40:00Z",
-      "end_utc": "2026-09-16T03:40:00Z",
-      "channels": [
-        "San Diego Padres",
-        "Colorado Rockies",
-        "SiriusXM Channel 214",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Los Angeles Angels @ Seattle Mariners",
-      "description": "MLB · Los Angeles Angels @ Seattle Mariners",
-      "start_utc": "2026-09-16T01:38:00Z",
-      "end_utc": "2026-09-16T04:38:00Z",
-      "channels": [
-        "Seattle Mariners",
-        "Los Angeles Angels",
-        "SiriusXM Channel 215",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Arizona Diamondbacks @ Miami Marlins",
-      "description": "MLB · Arizona Diamondbacks @ Miami Marlins",
-      "start_utc": "2026-09-16T01:40:00Z",
-      "end_utc": "2026-09-16T04:40:00Z",
-      "channels": [
-        "Miami Marlins",
-        "Arizona Diamondbacks",
-        "SiriusXM Channel 216",
+        "Detroit Tigers",
+        "Toronto Blue Jays",
+        "ICI Première",
+        "SiriusXM Channel 205",
         "MLB Network Radio"
       ]
     },
@@ -119,6 +66,152 @@
         "Hartford Athletic",
         "Sports 970",
         "SiriusXM FC"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Tampa Bay Rays @ Athletics",
+      "description": "MLB · Tampa Bay Rays @ Athletics",
+      "start_utc": "2026-09-16T22:40:00Z",
+      "end_utc": "2026-09-17T01:40:00Z",
+      "channels": [
+        "Athletics",
+        "Tampa Bay Rays",
+        "SiriusXM Channel 206",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Pittsburgh Pirates @ Milwaukee Brewers",
+      "description": "MLB · Pittsburgh Pirates @ Milwaukee Brewers",
+      "start_utc": "2026-09-16T22:40:00Z",
+      "end_utc": "2026-09-17T01:40:00Z",
+      "channels": [
+        "Milwaukee Brewers",
+        "Pittsburgh Pirates",
+        "SiriusXM Channel 208",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Cincinnati Reds @ Los Angeles Dodgers",
+      "description": "MLB · Cincinnati Reds @ Los Angeles Dodgers",
+      "start_utc": "2026-09-16T22:40:00Z",
+      "end_utc": "2026-09-17T01:40:00Z",
+      "channels": [
+        "Los Angeles Dodgers",
+        "Cincinnati Reds",
+        "SiriusXM Channel 207",
+        "MLB en Español 870",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Washington Nationals @ Philadelphia Phillies",
+      "description": "MLB · Washington Nationals @ Philadelphia Phillies",
+      "start_utc": "2026-09-16T22:45:00Z",
+      "end_utc": "2026-09-17T01:45:00Z",
+      "channels": [
+        "Philadelphia Phillies",
+        "Washington Nationals",
+        "Pure Comedy",
+        "SiriusXM Channel 209",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "New York Mets @ Baltimore Orioles",
+      "description": "MLB · New York Mets @ Baltimore Orioles",
+      "start_utc": "2026-09-16T23:10:00Z",
+      "end_utc": "2026-09-17T02:10:00Z",
+      "channels": [
+        "Baltimore Orioles",
+        "New York Mets",
+        "SiriusXM Channel 210",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Chicago Cubs @ Atlanta Braves",
+      "description": "MLB · Chicago Cubs @ Atlanta Braves",
+      "start_utc": "2026-09-16T23:40:00Z",
+      "end_utc": "2026-09-17T02:40:00Z",
+      "channels": [
+        "Atlanta Braves",
+        "Chicago Cubs",
+        "SiriusXM Channel 211",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Texas Rangers @ Boston Red Sox",
+      "description": "MLB · Texas Rangers @ Boston Red Sox",
+      "start_utc": "2026-09-17T00:05:00Z",
+      "end_utc": "2026-09-17T03:05:00Z",
+      "channels": [
+        "Boston Red Sox",
+        "Texas Rangers",
+        "MLB Network Radio",
+        "Comedy Roundup",
+        "MLB en Español 871"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Houston Astros @ Kansas City Royals",
+      "description": "MLB · Houston Astros @ Kansas City Royals",
+      "start_utc": "2026-09-17T00:10:00Z",
+      "end_utc": "2026-09-17T03:10:00Z",
+      "channels": [
+        "Kansas City Royals",
+        "Houston Astros",
+        "SiriusXM Channel 202",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Colorado Rockies @ San Diego Padres",
+      "description": "MLB · Colorado Rockies @ San Diego Padres",
+      "start_utc": "2026-09-17T00:40:00Z",
+      "end_utc": "2026-09-17T03:40:00Z",
+      "channels": [
+        "San Diego Padres",
+        "Colorado Rockies",
+        "SiriusXM Channel 203",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Los Angeles Angels @ Seattle Mariners",
+      "description": "MLB · Los Angeles Angels @ Seattle Mariners",
+      "start_utc": "2026-09-17T01:38:00Z",
+      "end_utc": "2026-09-17T04:38:00Z",
+      "channels": [
+        "Seattle Mariners",
+        "Los Angeles Angels",
+        "SiriusXM Channel 204",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "Arizona Diamondbacks @ Miami Marlins",
+      "description": "MLB · Arizona Diamondbacks @ Miami Marlins",
+      "start_utc": "2026-09-17T01:40:00Z",
+      "end_utc": "2026-09-17T04:40:00Z",
+      "channels": [
+        "Miami Marlins",
+        "Arizona Diamondbacks",
+        "SiriusXM Channel 205",
+        "MLB Network Radio"
       ]
     },
     {
