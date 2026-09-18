@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:31:20Z",
+  "generated_at": "2026-09-18T02:02:15Z",
   "events": [
     {
       "slug": "mlb",
@@ -26,16 +26,6 @@
         "Pure Comedy",
         "SiriusXM Channel 203",
         "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "nascar",
-      "title": "UNOH 250 Presented by Ohio Logistics",
-      "description": "SiriusXM NASCAR Radio · UNOH 250 Presented by Ohio Logistics · Bristol Motor Speedway",
-      "start_utc": "2026-09-17T23:30:00Z",
-      "end_utc": "2026-09-18T03:00:00Z",
-      "channels": [
-        "SiriusXM NASCAR Radio"
       ]
     },
     {
