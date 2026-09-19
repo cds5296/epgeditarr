@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-18T22:01:50Z",
+  "generated_at": "2026-09-19T02:06:55Z",
   "events": [
-    {
-      "slug": "nascar",
-      "title": "NCS Pole Qualifying",
-      "description": "SiriusXM NASCAR Radio · NCS Pole Qualifying · Bristol Motor Speedway",
-      "start_utc": "2026-09-18T20:30:00Z",
-      "end_utc": "2026-09-19T00:00:00Z",
-      "channels": [
-        "SiriusXM NASCAR Radio"
-      ]
-    },
     {
       "slug": "pga",
       "title": "Biltmore Championship Asheville",
@@ -20,55 +10,6 @@
       "channels": [
         "SiriusXM PGA TOUR Radio",
         "SiriusXM PGA Tour Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Cincinnati Reds @ Chicago Cubs",
-      "description": "MLB · Cincinnati Reds @ Chicago Cubs",
-      "start_utc": "2026-09-18T22:40:00Z",
-      "end_utc": "2026-09-19T01:40:00Z",
-      "channels": [
-        "Chicago Cubs",
-        "Cincinnati Reds",
-        "MLB Network Radio",
-        "Kevin Hart's LOL Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Pittsburgh Pirates @ Kansas City Royals",
-      "description": "MLB · Pittsburgh Pirates @ Kansas City Royals",
-      "start_utc": "2026-09-18T22:40:00Z",
-      "end_utc": "2026-09-19T01:40:00Z",
-      "channels": [
-        "Kansas City Royals",
-        "Pittsburgh Pirates",
-        "SiriusXM Channel 202",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "nascar",
-      "title": "Food City 300",
-      "description": "SiriusXM NASCAR Radio · Food City 300 · Bristol Motor Speedway",
-      "start_utc": "2026-09-18T23:00:00Z",
-      "end_utc": "2026-09-19T02:30:00Z",
-      "channels": [
-        "SiriusXM NASCAR Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Baltimore Orioles @ Milwaukee Brewers",
-      "description": "MLB · Baltimore Orioles @ Milwaukee Brewers",
-      "start_utc": "2026-09-18T23:05:00Z",
-      "end_utc": "2026-09-19T02:05:00Z",
-      "channels": [
-        "Milwaukee Brewers",
-        "Baltimore Orioles",
-        "SiriusXM Channel 204",
-        "MLB Network Radio"
       ]
     },
     {
@@ -113,18 +54,6 @@
       ]
     },
     {
-      "slug": "soccer",
-      "title": "New York City FC @ RB New York",
-      "description": "SOCCER · New York City FC @ RB New York",
-      "start_utc": "2026-09-18T23:30:00Z",
-      "end_utc": "2026-09-19T01:30:00Z",
-      "channels": [
-        "RB New York",
-        "New York City FC",
-        "SiriusXM FC"
-      ]
-    },
-    {
       "slug": "mlb",
       "title": "Chicago White Sox @ Detroit Tigers",
       "description": "MLB · Chicago White Sox @ Detroit Tigers",
@@ -154,6 +83,19 @@
     },
     {
       "slug": "mlb",
+      "title": "Colorado Rockies @ Seattle Mariners",
+      "description": "MLB · Colorado Rockies @ Seattle Mariners",
+      "start_utc": "2026-09-19T00:10:00Z",
+      "end_utc": "2026-09-19T03:10:00Z",
+      "channels": [
+        "Seattle Mariners",
+        "Colorado Rockies",
+        "SiriusXM Channel 211",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
       "title": "Houston Astros @ Atlanta Braves",
       "description": "MLB · Houston Astros @ Atlanta Braves",
       "start_utc": "2026-09-19T00:10:00Z",
@@ -163,19 +105,6 @@
         "Houston Astros",
         "SiriusXM Channel 210",
         "SiriusXM Channel 216",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
-      "title": "Colorado Rockies @ Seattle Mariners",
-      "description": "MLB · Colorado Rockies @ Seattle Mariners",
-      "start_utc": "2026-09-19T00:10:00Z",
-      "end_utc": "2026-09-19T03:10:00Z",
-      "channels": [
-        "Seattle Mariners",
-        "Colorado Rockies",
-        "SiriusXM Channel 211",
         "MLB Network Radio"
       ]
     },
@@ -207,18 +136,6 @@
     },
     {
       "slug": "mlb",
-      "title": "San Diego Padres @ Miami Marlins",
-      "description": "MLB · San Diego Padres @ Miami Marlins",
-      "start_utc": "2026-09-19T01:40:00Z",
-      "end_utc": "2026-09-19T04:40:00Z",
-      "channels": [
-        "Miami Marlins",
-        "San Diego Padres",
-        "MLB Network Radio"
-      ]
-    },
-    {
-      "slug": "mlb",
       "title": "Arizona Diamondbacks @ New York Yankees",
       "description": "MLB · Arizona Diamondbacks @ New York Yankees",
       "start_utc": "2026-09-19T01:40:00Z",
@@ -228,6 +145,18 @@
         "Arizona Diamondbacks",
         "Comedy Greats",
         "SiriusXM Channel 213",
+        "MLB Network Radio"
+      ]
+    },
+    {
+      "slug": "mlb",
+      "title": "San Diego Padres @ Miami Marlins",
+      "description": "MLB · San Diego Padres @ Miami Marlins",
+      "start_utc": "2026-09-19T01:40:00Z",
+      "end_utc": "2026-09-19T04:40:00Z",
+      "channels": [
+        "Miami Marlins",
+        "San Diego Padres",
         "MLB Network Radio"
       ]
     },
@@ -418,18 +347,6 @@
     },
     {
       "slug": "soccer",
-      "title": "Manchester City @ Sunderland",
-      "description": "SOCCER · Manchester City @ Sunderland",
-      "start_utc": "2026-09-20T13:00:00Z",
-      "end_utc": "2026-09-20T15:00:00Z",
-      "channels": [
-        "Sunderland",
-        "Manchester City",
-        "SiriusXM FC"
-      ]
-    },
-    {
-      "slug": "soccer",
       "title": "Bournemouth @ Liverpool",
       "description": "SOCCER · Bournemouth @ Liverpool",
       "start_utc": "2026-09-20T13:00:00Z",
@@ -438,6 +355,18 @@
         "Liverpool",
         "Bournemouth",
         "MLB Play-by-Play 188",
+        "SiriusXM FC"
+      ]
+    },
+    {
+      "slug": "soccer",
+      "title": "Manchester City @ Sunderland",
+      "description": "SOCCER · Manchester City @ Sunderland",
+      "start_utc": "2026-09-20T13:00:00Z",
+      "end_utc": "2026-09-20T15:00:00Z",
+      "channels": [
+        "Sunderland",
+        "Manchester City",
         "SiriusXM FC"
       ]
     },
@@ -839,18 +768,6 @@
     },
     {
       "slug": "soccer",
-      "title": "Charlotte FC @ Chicago Fire",
-      "description": "SOCCER · Charlotte FC @ Chicago Fire",
-      "start_utc": "2026-09-26T23:30:00Z",
-      "end_utc": "2026-09-27T01:30:00Z",
-      "channels": [
-        "Chicago Fire",
-        "Charlotte FC",
-        "SiriusXM FC"
-      ]
-    },
-    {
-      "slug": "soccer",
       "title": "Atlanta United @ New York City FC",
       "description": "SOCCER · Atlanta United @ New York City FC",
       "start_utc": "2026-09-26T23:30:00Z",
@@ -858,6 +775,18 @@
       "channels": [
         "New York City FC",
         "Atlanta United",
+        "SiriusXM FC"
+      ]
+    },
+    {
+      "slug": "soccer",
+      "title": "Charlotte FC @ Chicago Fire",
+      "description": "SOCCER · Charlotte FC @ Chicago Fire",
+      "start_utc": "2026-09-26T23:30:00Z",
+      "end_utc": "2026-09-27T01:30:00Z",
+      "channels": [
+        "Chicago Fire",
+        "Charlotte FC",
         "SiriusXM FC"
       ]
     },
